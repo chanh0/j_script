@@ -7,6 +7,8 @@ jobs:
     - uses: AnimMouse/setup-rclone@v1
     - name: Run script file
       run: |
+         pwd
+         ls
          chmod +x ./test_rclone_jq_json.sh
          ./public/scripts/test_rclone_jq_json.sh
       shell: bash
