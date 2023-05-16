@@ -1,0 +1,223 @@
+#0421_1437
+RED_FONT_PREFIX="\033[31m"
+LIGHT_GREEN_FONT_PREFIX="\033[1;32m"
+YELLOW_FONT_PREFIX="\033[1;33m"
+LIGHT_PURPLE_FONT_PREFIX="\033[1;35m"
+FONT_COLOR_SUFFIX="\033[0m"
+INFO="[${LIGHT_GREEN_FONT_PREFIX}INFO${FONT_COLOR_SUFFIX}]"
+ERROR="[${RED_FONT_PREFIX}ERROR${FONT_COLOR_SUFFIX}]"
+WARNING="[${YELLOW_FONT_PREFIX}WARRING${FONT_COLOR_SUFFIX}]"
+
+DATE_TIME() {
+    #date +"%m/%d %H:%M:%S"
+    TODAY=$(date '+%b-%d_%H:%M')
+}
+
+DATE_TIME
+
+DEF_LOG_FILE_NAME () {
+	HOSTNAME=$(hostname)
+	FILENAME=$(date '+%Y-%m-%d_%H%M')
+	LOG_NAME="$tmp_dir/chk_n_move."$FILENAME".$HOSTNAME.txt" #self log file name
+}
+
+CHECK_PARAMETER() {
+    [[ $# -eq 0 ]] && {
+        echo && echo -e "${ERROR} This script can only be used by passing parameters."
+        exit 1
+    }
+}
+
+CREATE_TMP_DIR () {
+    DATE_TIME
+	echo -e "Preparing...\c"
+	tmp_dir=$(mktemp -d -t $1-$TODAY-XXXXXXXXXX)
+	cd $tmp_dir
+	pwd
+}
+
+CLEAN_TMP_DIR () {
+	#echo .
+	rm -rf $tmp_dir
+}
+
+DEF_RCLONE_ENV_STRING () {
+	#sleep 1
+	#printenv
+	#set rclone env
+	export RCLONE_CONFIG_JAV1_TYPE=drive
+	export RCLONE_CONFIG_JAV1_SCOPE=drive
+	export RCLONE_CONFIG_JAV1_TEAM_DRIVE=$RCLONE_CONFIG_JAV1_TEAM_DRIVE_SECRET
+
+	export RCLONE_CONFIG_JAV2_TYPE=drive
+	export RCLONE_CONFIG_JAV2_SCOPE=drive
+	export RCLONE_CONFIG_JAV2_TEAM_DRIVE=$RCLONE_CONFIG_JAV2_TEAM_DRIVE_SECRET
+	#sa12
+	SA='$SA_SECRET'
+	rclonesa=" --drive-service-account-credentials="
+	#to_use  $rclonesa"$SA"
+	rclonemovecmdline=" --drive-server-side-across-configs --stats-one-line --drive-chunk-size 128M --drive-impersonate $IMPERSONATE_NAME_SECRET -q -P --stats=30s --delete-empty-src-dirs"
+	rclonecopycmdline=" --drive-server-side-across-configs --stats-one-line --drive-chunk-size 128M --drive-impersonate $IMPERSONATE_NAME_SECRET -q -P --stats=30s"
+	#--dry-run #-vv DEBUG
+}
+
+GET_FILE_LIST () {
+	if [  -z "$1" ] && [ -z "$2" ]; then
+		#this part ls the file and put into filearray
+		rclone_json=$(rclone $rclonesa"$SA" --fast-list -q --no-modtime --no-mimetype lsjson JAV2:/bypass/JAV_output/)
+		files=($(jq -r '.[].Name' <<< ${rclone_json[@]} ))
+		files_len=${#files[@]}
+		echo -e "JAV_OUTPUT : \t$files_len"
+	else
+		#
+		files=$1
+		files_len=${#files[@]}
+	fi
+}
+
+SET_STUDIO_JSON_ARRAY () {
+	#set gobal VAR studioarray codearray last_code_array
+	studiojson=$(curl -s  -connection-timeout 0.5 --max-time 0.5  https://raw.githubusercontent.com/chanh0/j_script/master/vr-code.json)
+	if [ $? -eq "28" ]; then
+		echo "studiojson timeout" #28 timeout
+		CLEAN_TMP_DIR
+		exit 1
+	else
+	        studioarray=($(echo "$studiojson" | jq -r '.[].name' ))
+		codearray=($(echo "$studiojson" | jq -r '.[].code' ))
+		last_code_array=${#codearray[@]}
+	fi
+}
+
+SET_VR_JSON_ARRAY () {
+	#set gobal VAR vrarray last_vr_array
+	vrarrayjson=$(curl -s -connection-timeout 0.5 --max-time 0.5  https://raw.githubusercontent.com/chanh0/j_script/master/vr-code.json)
+	  if [ $? -eq "28" ]; then
+                echo "vrjson timeout" #28 timeout
+		CLEAN_TMP_DIR
+                exit 1
+        else
+		vrarray=($(echo "$vrarrayjson" | jq -r '.[].code' ))
+		last_vr_array=${#vrarray[@]}
+	fi
+}
+
+
+TRIGGER_AUTOSCAN () {
+	local path="dir=/"$(echo $1 | sed 's/://g')
+	#1st line trigger unraid autoscan instance and unriad JF and EMBY
+	curl -s --request POST --url 'http://myautoscan.domain.com/triggers/manual?'$path
+	#2nd line triiger local OCI-JP instance and OCI-SG JF and EMBY
+	curl -s --request POST --url 'http://127.0.0.1:3030/triggers/manual?'$path
+}
+
+DL_TGBOT () {
+	cd $tmp_dir
+  rclone copy $rclonesa"$SA" JAV2:/.src/sd_tg_bot_grp.sh . -q
+	rclone copy $rclonesa"$SA" JAV2:/.src/.webhook . -q
+	rclone copy $rclonesa"$SA" JAV2:/.src/discord.sh . -q
+	sudo chmod +x *.sh
+}
+
+SEND_NFO_TO_TGBOT () {
+    #send NFO to Tgbot
+	local nfoxml=$( rclone cat $2/$1.nfo)
+	#echo $nfoxml
+	local nfoactorname=$( sed -n 's|<name>\(.*\)</name>|\1|p' <<< "$nfoxml")
+	nonamecheck=$nfoactorname
+	local nfocoverurl=$( sed -n 's|<cover>\(.*\)</cover>|\1|p' <<<  "$nfoxml")
+	local nfotitle=$( sed -n 's|<title>\(.*\)</title>|\1|p' <<<  "$nfoxml")
+	local nfoactorname_hashtag=$(sed -E 's/^..../#/gm;t;d' <<<  "$nfoactorname")
+	#echo "this is nfoxml.""$nfoactorname":"$nfotitle":"$nfocoverurl"
+	[[ ! -z $nfotitle ]] && ./sd_tg_bot_grp.sh "$nfoactorname_hashtag:<b>$nfotitle</b>:$nfocoverurl" && ./discord.sh --text "$nfoactorname_hashtag:</b>$nfotitle</b>:$nfocoverurl"
+}
+
+SEND_LOG_TO_TGBOT () {
+	#send log to Tgbot
+	cd $tmp_dir
+	if [ -f ${LOG_NAME} ]; then
+		split -d -b 4K ${LOG_NAME} tgtmp
+		for f in $(find tgtmp*) ; do
+			./sd_tg_bot_grp.sh "$(cat $f)"
+		done
+		cp $LOG_NAME /tmp/my_test_log
+                ./discord.sh --text "$(cat ${LOG_NAME} | tr -d '\n' | tr -s '\033[1;32m' ' ' )"
+	fi
+	rm ${LOG_NAME}
+}
+
+QUE_STUDIO () {
+	#return 66 if matched
+	#gobal VAR QUE_STUDIO_RESULT # for path queue only
+	#gobal VAR QUE_STUDIO_RESULT_WITH_NAME #for append .mp4 or .nfo
+	#return 99 if no result
+        local input_que=$1
+	[ -z "$last_code_array"	] && SET_STUDIO_JSON_ARRAY
+	local json_idx=0
+	local movedone=0
+	while  [ ${movedone} == 0 ] && [ $json_idx -ne $((last_code_array-1)) ]
+	do
+		foldername=${studioarray[${json_idx}]}  #逐個逐array放入去foldername var做下面if險查
+		codename=${codearray[${json_idx}]}  #.prefix and .code 同一個array #idx
+		if [[ ${input_que} == ${codename}-* ]]; then
+			movedone=1
+			QUE_STUDIO_RESULT="JAV1:/Studio/${foldername}/${codename}/$input_que/"
+			QUE_STUDIO_RESULT_WITH_NAME="JAV1:/Studio/${foldername}/${codename}/$input_que/$input_que"
+			return 66
+		fi
+		((json_idx++))
+	done
+	#continue query vr
+	[ -z "$last_vr_array" ] && SET_VR_JSON_ARRAY
+	local json_idx=0
+	while [ ${movedone} == 0 ] && [ $json_idx -ne $((last_vr_array-1)) ]
+	do
+		foldername=${vrarray[${json_idx}]} #逐個逐array放入去foldername var做下面if險查
+		if [[ ${input_que} == ${foldername}-* ]]; then #only match the prefix code before -
+			movedone=1
+                        QUE_STUDIO_RESULT="JAV2:/VR/${foldername}/$input_que/"
+                        QUE_STUDIO_RESULT_WITH_NAME="JAV2:/VR/${foldername}/$input_que/$input_que"
+			return 66 #moved
+		fi
+		((json_idx++))
+	done
+	#continue query fc2
+	if [[ $input_que == "FC2"* ]]; then
+		        movedone=1
+                        QUE_STUDIO_RESULT="JAV2:/Alphabet/FC2/$input_que/"
+                        QUE_STUDIO_RESULT_WITH_NAME="JAV2:/Alphabet/FC2/$input_que/$input_que"
+                        return 66
+	fi
+	#continue query aplhabet
+	local var=${input_que:0:1}
+        local subfolder=${input_que%%-*}
+	if [ ${movedone} == 0 ]; then
+		case "$var" in
+				[A-C]) t="A-C"  ;;
+				[D-F]) t="D-F"  ;;
+				[G-J]) t="G-J"  ;;
+				[K-M]) t="K-M"  ;;
+				[N-R]) t="N-R"  ;;
+				[S])   t="S"  ;;
+				[T-Z]) t="T-Z" ;;
+				*) t="素人" ;; esac
+		if [[ $subfolder == "SIRO" ]]; then
+			#SIRO was 素人 not S
+			QUE_STUDIO_RESULT="JAV2:/sirouto/$subfolder/$input_que/"
+			QUE_STUDIO_RESULT_WITH_NAME="JAV2:/sirouto/$subfolder/$input_que/$input_que"
+		else
+			if [[ $t != "素人" ]]; then
+				#not 素人
+				QUE_STUDIO_RESULT="JAV2:/Alphabet/$t/$subfolder/$input_que/"
+				QUE_STUDIO_RESULT_WITH_NAME="JAV2:/Alphabet/$t/$subfolder/$input_que/$input_que"
+			else
+				#is 素人
+				QUE_STUDIO_RESULT="JAV2:/sirouto/$subfolder/$input_que/"
+				QUE_STUDIO_RESULT_WITH_NAME="JAV2:/sirouto/$subfolder/$input_que/$input_que"
+			fi
+		fi
+		movedone=1
+                return 66
+	fi
+	return 99  #not match
+}
