@@ -1,0 +1,12 @@
+name: test rclone & jq json
+on: push
+jobs:
+  run_tests:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: AnimMouse/setup-rclone@v1
+    - name: Run script file
+      run: |
+         chmod +x ./test_rclone_jq_json.sh
+         ./public/scripts/test_rclone_jq_json.sh
+      shell: bash
