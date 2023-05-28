@@ -2,7 +2,7 @@
     {
         "name": "dummy",
         "code": "ZZZZZ",
-        "comment": "2023-05-15T20:41:57.751Z",
+        "comment": "2023-05-28T01:49:21.146Z",
         "group": "dum"
     },
     {
@@ -2265,6 +2265,12 @@
         "name": "IdeaPocket",
         "code": "IPIT",
         "comment": "新人",
+        "group": "CA"
+    },
+    {
+        "name": "IdeaPocket",
+        "code": "IPBZ",
+        "comment": "專屬女優",
         "group": "CA"
     },
     {
