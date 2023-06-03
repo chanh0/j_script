@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "02/06/2023 15:34:00",
+    "comment": "03/06/2023 12:07:48",
     "group": "dum"
   },
   {
@@ -671,6 +671,12 @@
   {
     "name": "妄想族",
     "code": "SORA",
+    "comment": "山と空/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SOLE",
     "comment": "山と空/妄想族",
     "group": "CA"
   },
