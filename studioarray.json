@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "11/06/2023 21:54:36",
+    "comment": "18/06/2023 09:14:26",
     "group": "dum"
   },
   {
@@ -2030,7 +2030,7 @@
   {
     "name": "PRESTIGE",
     "code": "KPB",
-    "comment": "PRESTIGE BEST 合輯",
+    "comment": "KANBi PRESTIGE BEST 合輯 336KPB? ",
     "group": "PRESTIGE"
   },
   {
@@ -2114,7 +2114,7 @@
   {
     "name": "PRESTIGE",
     "code": "KBI",
-    "comment": "null",
+    "comment": "336KBI , PRESTIGE, KANBi, Femme Fatale",
     "group": "PRESTIGE"
   },
   {
@@ -2762,6 +2762,12 @@
     "group": "CA"
   },
   {
+    "name": "PRESTIGE",
+    "code": "FFT",
+    "comment": "PRESTIGE, KANBi, Femme Fatale 2023",
+    "group": "PRESTIGE"
+  },
+  {
     "name": "D-O-C",
     "code": "FCP",
     "comment": "ふぇちぽいんと",
@@ -2977,7 +2983,7 @@
   {
     "name": "PRESTIGE",
     "code": "DTT",
-    "comment": "336DTT",
+    "comment": "336DTT . KANBi , 大哲 Avdebut",
     "group": "PRESTIGE"
   },
   {
@@ -3670,12 +3676,6 @@
     "group": "Faleno"
   },
   {
-    "name": "PRESTIGE",
-    "code": "336DTT",
-    "comment": "null",
-    "group": "PRESTIGE"
-  },
-  {
     "name": "SOD",
     "code": "320MMGH",
     "comment": "MSG:SODマジックミラー号",
@@ -3760,6 +3760,12 @@
     "code": "_TPH",
     "comment": "メディアステーション VERY OLD",
     "group": "KMP"
+  },
+  {
+    "name": "PRESTIGE",
+    "code": "_TNB",
+    "comment": "336TNB KANBi  TANINBO 2023",
+    "group": "PRESTIGE"
   },
   {
     "name": "MUTEKI",
@@ -3914,6 +3920,12 @@
     "group": "KMP"
   },
   {
+    "name": "PRESTIGE",
+    "code": "_KNB",
+    "comment": "336KNB KANBi  ",
+    "group": "PRESTIGE"
+  },
+  {
     "name": "KMPGroup",
     "code": "_KBTV",
     "comment": "むちゃぶりTV",
@@ -4045,7 +4057,7 @@
   {
     "name": "PRESTIGE",
     "code": "_ASI",
-    "comment": "null",
+    "comment": "336ASI , . KANBi , 合集",
     "group": "PRESTIGE"
   },
   {
