@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "18/06/2023 09:14:26",
+    "comment": "22/06/2023 16:29:21",
     "group": "dum"
   },
   {
@@ -3495,6 +3495,12 @@
     "code": "AT",
     "comment": "Hunter_ATOM",
     "group": "HHH/CA"
+  },
+  {
+    "name": "SODGroup",
+    "code": "ARSO",
+    "comment": "SODGroup AROUND mywife.cc",
+    "group": "SOD"
   },
   {
     "name": "Hunter",
