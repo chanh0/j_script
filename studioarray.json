@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "29/06/2023 09:26:52",
+    "comment": "29/06/2023 14:16:04",
     "group": "dum"
   },
   {
@@ -1292,6 +1292,12 @@
     "code": "OKV",
     "comment": "親父の個撮",
     "group": "SOD"
+  },
+  {
+    "name": "妄想族",
+    "code": "OKSN",
+    "comment": "ABC/妄想族",
+    "group": "CA"
   },
   {
     "name": "SODGroup",
