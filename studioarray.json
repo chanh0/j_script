@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "22/06/2023 16:29:21",
+    "comment": "29/06/2023 09:26:52",
     "group": "dum"
   },
   {
@@ -1251,22 +1251,24 @@
     "group": "KMP"
   },
   {
-    "name": "PRESTIGE",
+    "name": "ONEMORE",
     "code": "ONEZ",
-    "comment": "ONEZ 作品",
-    "group": "PRESTIGE"
+    "comment": "ONEZ 作品"
   },
   {
-    "name": "PRESTIGE",
+    "name": "ONEMORE",
+    "code": "ONEX",
+    "comment": "2023 new"
+  },
+  {
+    "name": "ONEMORE",
     "code": "ONET",
-    "comment": "TODOManic 作品 2017 stop 01-21",
-    "group": "PRESTIGE"
+    "comment": "TODOManic 作品 2017 stop 01-21"
   },
   {
-    "name": "PRESTIGE",
+    "name": "ONEMORE",
     "code": "ONER",
-    "comment": "null",
-    "group": "PRESTIGE"
+    "comment": "null"
   },
   {
     "name": "S1",
@@ -1275,16 +1277,9 @@
     "group": "CA"
   },
   {
-    "name": "PRESTIGE",
+    "name": "ONEMORE",
     "code": "ONEB",
-    "comment": "PRESTIGE BEST 合輯",
-    "group": "PRESTIGE"
-  },
-  {
-    "name": "PRESTIGE",
-    "code": "OMEG",
-    "comment": "Zetton 作品 2015 STOP 01-17",
-    "group": "PRESTIGE"
+    "comment": "ONEMORE 合輯"
   },
   {
     "name": "妄想族",
