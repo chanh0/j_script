@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "29/06/2023 14:16:04",
+    "comment": "30/06/2023 01:01:27",
     "group": "dum"
   },
   {
@@ -185,6 +185,12 @@
     "group": "WAAP"
   },
   {
+    "name": "SODGroup",
+    "code": "WO",
+    "comment": "WildOne",
+    "group": "SOD"
+  },
+  {
     "name": "WANZ",
     "code": "WNZS",
     "comment": "WANZ old",
@@ -243,6 +249,12 @@
     "code": "WDC",
     "comment": "woodocstock ; 001 ; 2015 ",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "SODGroup",
+    "code": "WAWA",
+    "comment": "Hawa",
+    "group": "SOD"
   },
   {
     "name": "PRESTIGE",
@@ -1614,14 +1626,16 @@
     "group": "SOD"
   },
   {
-    "name": "Materiall",
+    "name": "SODGroup",
     "code": "MTALL",
-    "comment": "Materiall"
+    "comment": "Materiall",
+    "group": "SOD"
   },
   {
-    "name": "Materiall",
+    "name": "SODGroup",
     "code": "MTABS",
-    "comment": "Materiall BEST"
+    "comment": "Materiall BEST",
+    "group": "SOD"
   },
   {
     "name": "SOD",
@@ -1640,6 +1654,12 @@
     "code": "MOP",
     "comment": "Morphines ; 001 ; 2013",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "SODGroup",
+    "code": "MOON",
+    "comment": "MOON",
+    "group": "SOD"
   },
   {
     "name": "SOD",
