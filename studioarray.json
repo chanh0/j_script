@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "30/06/2023 01:01:27",
+    "comment": "06/07/2023 08:56:18",
     "group": "dum"
   },
   {
@@ -2131,6 +2131,12 @@
     "code": "KBTV",
     "comment": "初めてのAV出演",
     "group": "KMP"
+  },
+  {
+    "name": "PRESTIGE",
+    "code": "KBR",
+    "comment": "KANBi 2023",
+    "group": "PRESTIGE"
   },
   {
     "name": "PRESTIGE",
