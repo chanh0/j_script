@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "07/07/2023 18:46:29",
+    "comment": "14/07/2023 10:11:12",
     "group": "dum"
   },
   {
@@ -2957,8 +2957,14 @@
   },
   {
     "name": "E-BODY",
-    "code": "EBOD",
+    "code": "EBWH",
     "comment": "單體女優",
+    "group": "CA"
+  },
+  {
+    "name": "E-BODY",
+    "code": "EBOD",
+    "comment": "單體女優 2023 finish",
     "group": "CA"
   },
   {
