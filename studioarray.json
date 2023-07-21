@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "18/07/2023 00:32:14",
+    "comment": "21/07/2023 18:24:29",
     "group": "dum"
   },
   {
@@ -1668,10 +1668,65 @@
     "group": "SOD"
   },
   {
+    "name": "Marrion",
+    "code": "MMYM",
+    "comment": "夢野"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMUS",
+    "comment": "MCP"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMTA",
+    "comment": "TOMODA"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMSP",
+    "comment": "oppy"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMSK",
+    "comment": "M館"
+  },
+  {
     "name": "KMPGroup",
     "code": "MMNT",
     "comment": "Million Mint",
     "group": "KMP"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMNF",
+    "comment": "MARRION DEBUT"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMNA",
+    "comment": "NANTOMO"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMNA",
+    "comment": "Hip Monster"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMKZ",
+    "comment": "iris"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMKN",
+    "comment": "兜"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMGM",
+    "comment": "M男監禁"
   },
   {
     "name": "SOD",
@@ -1680,10 +1735,25 @@
     "group": "SOD"
   },
   {
+    "name": "Marrion",
+    "code": "MMGB",
+    "comment": "MGB"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMFL",
+    "comment": "MARRION FILMS"
+  },
+  {
     "name": "桃太郎",
     "code": "MMB",
     "comment": "單體女優",
     "group": "CA"
+  },
+  {
+    "name": "Marrion",
+    "code": "MMAR",
+    "comment": "MICHIRU"
   },
   {
     "name": "妄想族",
@@ -1918,6 +1988,11 @@
     "code": "MDON",
     "comment": "ハメ撮り",
     "group": "CA"
+  },
+  {
+    "name": "Marrion",
+    "code": "MDBX",
+    "comment": "MotheRs"
   },
   {
     "name": "KMPGroup",
@@ -2688,6 +2763,12 @@
     "code": "GDTM",
     "comment": "Hunter_Golden Time",
     "group": "HHH/CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "GDRD",
+    "comment": "ゴールド/妄想族",
+    "group": "CA"
   },
   {
     "name": "Hunter",
@@ -3485,6 +3566,12 @@
   },
   {
     "name": "妄想族",
+    "code": "BABD",
+    "comment": "deep/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
     "code": "BAB",
     "comment": "バビロン∕妄想族",
     "group": "CA"
@@ -3517,12 +3604,6 @@
     "name": "Hunter",
     "code": "ATHH",
     "comment": "Hunter_ATLANTIS-H",
-    "group": "HHH/CA"
-  },
-  {
-    "name": "Hunter",
-    "code": "AT",
-    "comment": "Hunter_ATOM",
     "group": "HHH/CA"
   },
   {
@@ -4128,6 +4209,12 @@
     "code": "_BATD",
     "comment": "BAZOOKA BEST",
     "group": "KMP"
+  },
+  {
+    "name": "Hunter",
+    "code": "_AT",
+    "comment": "Hunter_ATOM",
+    "group": "HHH/CA"
   },
   {
     "name": "PRESTIGE",
