@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "30/08/2023 14:02:46",
+    "comment": "30/08/2023 15:17:44",
     "group": "dum"
   },
   {
@@ -594,7 +594,7 @@
   {
     "name": "SOD",
     "code": "STZY",
-    "comment": "SOD 秘蔵映像公開",
+    "comment": "SOD 秘蔵映像公開 (SOD Star)",
     "group": "SOD"
   },
   {
@@ -3771,6 +3771,12 @@
     "code": "700VOBB",
     "comment": "FalenoGroup - BOTAN",
     "group": "Faleno"
+  },
+  {
+    "name": "SOD",
+    "code": "576STZY",
+    "comment": "SOD 秘蔵映像公開 (SOD Star)",
+    "group": "SOD"
   },
   {
     "name": "FalenoGroup",
