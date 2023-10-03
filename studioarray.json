@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "26/09/2023 10:48:44",
+    "comment": "03/10/2023 07:22:22",
     "group": "dum"
   },
   {
@@ -574,6 +574,12 @@
     "group": "SOD"
   },
   {
+    "name": "SOD",
+    "code": "SUWK",
+    "comment": "SOD Create 2023",
+    "group": "SOD"
+  },
+  {
     "name": "IdeaPocket",
     "code": "SUPD",
     "comment": "DIGITALCHANNEL 2017停",
@@ -1101,6 +1107,12 @@
     "name": "GloryQuest",
     "code": "QRDC",
     "comment": "GloryQuest BEST"
+  },
+  {
+    "name": "KMPGroup",
+    "code": "QMDB",
+    "comment": "BAZOOKA",
+    "group": "KMP"
   },
   {
     "name": "PRESTIGE",
@@ -2822,6 +2834,12 @@
     "code": "GCF",
     "comment": "グラこれ 2019停",
     "group": "CA"
+  },
+  {
+    "name": "PRESTIGE",
+    "code": "GBAN",
+    "comment": "ゲッツ!! ",
+    "group": "PRESTIGE"
   },
   {
     "name": "Hunter",
