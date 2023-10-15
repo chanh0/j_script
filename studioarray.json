@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "05/10/2023 08:48:22",
+    "comment": "15/10/2023 22:17:54",
     "group": "dum"
   },
   {
@@ -1942,8 +1942,14 @@
   },
   {
     "name": "MOODYZ",
+    "code": "MIAB",
+    "comment": "主力 企畫 2023",
+    "group": "CA"
+  },
+  {
+    "name": "MOODYZ",
     "code": "MIAA",
-    "comment": "主力 企畫",
+    "comment": "主力 企畫 999",
     "group": "CA"
   },
   {
@@ -2799,6 +2805,12 @@
     "code": "GETS",
     "comment": "ゲッツ!! ",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "VENUS",
+    "code": "GENU",
+    "comment": "主力2 2023",
+    "group": "CA"
   },
   {
     "name": "Crystal",
