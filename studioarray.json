@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "15/10/2023 22:17:54",
+    "comment": "21/10/2023 09:43:23",
     "group": "dum"
   },
   {
@@ -723,6 +723,54 @@
     "group": "SOD"
   },
   {
+    "name": "妄想族",
+    "code": "SNTX",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SNTS",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SNTR",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SNTM",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SNTL",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SNTK",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SNTJ",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SNTH",
+    "comment": "綜実社/妄想族",
+    "group": "CA"
+  },
+  {
     "name": "D-O-C",
     "code": "SNK",
     "comment": "蛇使い ; 1 - 3 ; 2011",
@@ -732,6 +780,12 @@
     "name": "S1",
     "code": "SNIS",
     "comment": "專屬女優 999 (2017)",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "SMCP",
+    "comment": "Smartmedia production/妄想族",
     "group": "CA"
   },
   {
@@ -1130,6 +1184,12 @@
     "name": "PEMIUM",
     "code": "PRTD",
     "comment": "重口味，不常更新",
+    "group": "CA"
+  },
+  {
+    "name": "PEMIUM",
+    "code": "PRST",
+    "comment": "Premium Stage",
     "group": "CA"
   },
   {
