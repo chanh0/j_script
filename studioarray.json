@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "21/10/2023 09:43:23",
+    "comment": "22/10/2023 20:54:31",
     "group": "dum"
   },
   {
@@ -16,6 +16,11 @@
     "code": "ZMEN",
     "comment": "ZMEN",
     "group": "KMP"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "ZMAR",
+    "comment": "合集    まるっと！"
   },
   {
     "name": "GloryQuest",
@@ -519,6 +524,11 @@
     "code": "TBL",
     "comment": "null",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "SWAT",
+    "comment": "best アマチュアパニック"
   },
   {
     "name": "SODGroup",
@@ -1189,7 +1199,7 @@
   {
     "name": "PEMIUM",
     "code": "PRST",
-    "comment": "Premium Stage",
+    "comment": "Premium Stage 2023",
     "group": "CA"
   },
   {
@@ -1608,6 +1618,16 @@
     "code": "NANX",
     "comment": "Nanpa Heaven",
     "group": "KMP"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "NACX",
+    "comment": "Best"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "NACR",
+    "comment": "七狗留"
   },
   {
     "name": "PRESTIGE",
@@ -2148,6 +2168,11 @@
     "code": "MAS",
     "comment": "宅服務",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "MARA",
+    "comment": "マラカス"
   },
   {
     "name": "Crystal",
@@ -2762,6 +2787,11 @@
     "group": "PRESTIGE"
   },
   {
+    "name": "PlanetPlus",
+    "code": "HDKA",
+    "comment": "裸婦趣向"
+  },
+  {
     "name": "SODGroup",
     "code": "HBAD",
     "comment": "Hibino",
@@ -3009,6 +3039,11 @@
     "group": "CA"
   },
   {
+    "name": "PlanetPlus",
+    "code": "FIND",
+    "comment": "ＦＩＮＤ"
+  },
+  {
     "name": "PRESTIGE",
     "code": "FIG",
     "comment": "FISHING BEST",
@@ -3115,6 +3150,11 @@
     "code": "EMSK",
     "comment": "Waap est",
     "group": "WAAP"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "EMOT",
+    "comment": "エモーション"
   },
   {
     "name": "SOD",
@@ -3488,6 +3528,11 @@
     "group": "CA"
   },
   {
+    "name": "PlanetPlus",
+    "code": "CLOT",
+    "comment": "クローズ"
+  },
+  {
     "name": "WAAP",
     "code": "CLB",
     "comment": "Waap Entertainment",
@@ -3731,6 +3776,16 @@
     "group": "PRESTIGE"
   },
   {
+    "name": "PlanetPlus",
+    "code": "ATPF",
+    "comment": "best アマチュアパニック"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "ATPC",
+    "comment": "アマチュアパニック"
+  },
+  {
     "name": "ATTACKERS",
     "code": "ATKD",
     "comment": "ATTACKERS BEST 合輯",
@@ -3759,6 +3814,11 @@
     "code": "AP",
     "comment": "Hunter_APACHE",
     "group": "HHH/CA"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "AMBI",
+    "comment": "アンビバレンツ"
   },
   {
     "name": "PRESTIGE",
@@ -4022,11 +4082,6 @@
     "group": "KMP"
   },
   {
-    "name": "PlanetPlus",
-    "code": "_ZMAR",
-    "comment": "soso, leave it JAV2 FAST_MOVE_ROUTE"
-  },
-  {
     "name": "KMPGroup",
     "code": "_XXXX",
     "comment": "バリカワ",
@@ -4128,25 +4183,10 @@
     "group": "PRESTIGE"
   },
   {
-    "name": "PlanetPlus",
-    "code": "_NDKA",
-    "comment": "soso, leave it JAV2 FAST_MOVE_ROUTE"
-  },
-  {
     "name": "KMPGroup",
     "code": "_NANX",
     "comment": "ナンパHEAVEN",
     "group": "KMP"
-  },
-  {
-    "name": "PlanetPlus",
-    "code": "_NACX",
-    "comment": "soso, leave it JAV2 FAST_MOVE_ROUTE"
-  },
-  {
-    "name": "PlanetPlus",
-    "code": "_NACR",
-    "comment": "soso, leave it JAV2 FAST_MOVE_ROUTE"
   },
   {
     "name": "無垢",
@@ -4171,11 +4211,6 @@
     "code": "_MJBB",
     "comment": "港区女子",
     "group": "KMP"
-  },
-  {
-    "name": "PlanetPlus",
-    "code": "_MARA",
-    "comment": "soso, leave it JAV2 FAST_MOVE_ROUTE"
   },
   {
     "name": "PRESTIGE",
@@ -4277,11 +4312,6 @@
     "comment": "null"
   },
   {
-    "name": "PlanetPlus",
-    "code": "_FIND",
-    "comment": "soso, leave it JAV2 FAST_MOVE_ROUTE"
-  },
-  {
     "name": "ERORIST",
     "code": "_ERS",
     "comment": "2014 停",
@@ -4369,11 +4399,6 @@
     "code": "_ASI",
     "comment": "336ASI , . KANBi , 合集",
     "group": "PRESTIGE"
-  },
-  {
-    "name": "PlanetPlus",
-    "code": "_AMBI",
-    "comment": "soso, leave it JAV2 FAST_MOVE_ROUTE"
   },
   {
     "name": "Kuki",
