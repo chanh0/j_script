@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "22/10/2023 20:54:31",
+    "comment": "24/10/2023 16:35:31",
     "group": "dum"
   },
   {
@@ -703,6 +703,12 @@
     "group": "CA"
   },
   {
+    "name": "SOD",
+    "code": "SPLY",
+    "comment": "SOD あらびき娘",
+    "group": "SOD"
+  },
+  {
     "name": "PRESTIGE",
     "code": "SPAK",
     "comment": "AVバレー杯 2023",
@@ -712,6 +718,12 @@
     "name": "妄想族",
     "code": "SORA",
     "comment": "山と空/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "S1",
+    "code": "SONE",
+    "comment": "專屬女優 999 (2023)",
     "group": "CA"
   },
   {
