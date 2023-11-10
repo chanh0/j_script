@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "24/10/2023 16:35:31",
+    "comment": "10/11/2023 23:50:29",
     "group": "dum"
   },
   {
@@ -850,6 +850,12 @@
     "code": "SHH",
     "comment": "NaturalHigh",
     "group": "SOD"
+  },
+  {
+    "name": "PRESTIGE",
+    "code": "SHF",
+    "comment": "2023 new",
+    "group": "PRESTIGE"
   },
   {
     "name": "GloryQuest",
@@ -2669,6 +2675,12 @@
   },
   {
     "name": "Hunter",
+    "code": "HUNTC",
+    "comment": "主力 2023",
+    "group": "HHH/CA"
+  },
+  {
+    "name": "Hunter",
     "code": "HUNTB",
     "comment": "主力",
     "group": "HHH/CA"
@@ -3351,6 +3363,12 @@
     "group": "PRESTIGE"
   },
   {
+    "name": "PRESTIGE",
+    "code": "DLV",
+    "comment": "2023 new",
+    "group": "PRESTIGE"
+  },
+  {
     "name": "Faleno",
     "code": "DLDSS",
     "comment": "DAHLIA專屬女優",
@@ -3826,6 +3844,12 @@
     "code": "AP",
     "comment": "Hunter_APACHE",
     "group": "HHH/CA"
+  },
+  {
+    "name": "SODGroup",
+    "code": "ANG",
+    "comment": "親父の個撮 2023",
+    "group": "SOD"
   },
   {
     "name": "PlanetPlus",
