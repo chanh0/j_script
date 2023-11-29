@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "26/11/2023 22:05:49",
+    "comment": "29/11/2023 15:37:06",
     "group": "dum"
   },
   {
@@ -2351,6 +2351,12 @@
     "code": "KKJ",
     "comment": "口説き術 作品",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "SOD",
+    "code": "KKBT",
+    "comment": "SOD Create 2023",
+    "group": "SOD"
   },
   {
     "name": "SOD",
