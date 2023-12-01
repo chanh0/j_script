@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "29/11/2023 15:37:06",
+    "comment": "01/12/2023 10:19:34",
     "group": "dum"
   },
   {
@@ -3056,6 +3056,12 @@
     "code": "FSDSS",
     "comment": "FALENO star",
     "group": "Faleno"
+  },
+  {
+    "name": "Fitch",
+    "code": "FPRE",
+    "comment": "Fitch 2023",
+    "group": "CA"
   },
   {
     "name": "妄想族",
