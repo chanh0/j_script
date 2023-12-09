@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "01/12/2023 10:19:34",
+    "comment": "09/12/2023 14:35:32",
     "group": "dum"
   },
   {
@@ -14,14 +14,12 @@
   {
     "name": "妄想族",
     "code": "ZOCM",
-    "comment": "ゾクゾク娘/妄想族",
-    "group": "CA"
+    "comment": "ゾクゾク娘/妄想族"
   },
   {
     "name": "妄想族",
     "code": "ZMEN",
-    "comment": "ZMEN",
-    "group": "KMP"
+    "comment": "ZMEN"
   },
   {
     "name": "PlanetPlus",
@@ -884,6 +882,12 @@
     "name": "SOD",
     "code": "SETH",
     "comment": "2023 BEST ????? check later",
+    "group": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "SEKI",
+    "comment": "SHIGEKI",
     "group": "SOD"
   },
   {
@@ -2311,6 +2315,11 @@
     "group": "CA"
   },
   {
+    "name": "妄想族",
+    "code": "KPIE",
+    "comment": "かぐや姫Pt/妄想族"
+  },
+  {
     "name": "PRESTIGE",
     "code": "KPB",
     "comment": "KANBi PRESTIGE BEST 合輯 336KPB? ",
@@ -2629,6 +2638,12 @@
     "group": "PRESTIGE"
   },
   {
+    "name": "FalenoGroup",
+    "code": "IKUNA",
+    "comment": "FalenoGroup - BOTAN",
+    "group": "Faleno"
+  },
+  {
     "name": "SODGroup",
     "code": "IESP",
     "comment": "IEnergy",
@@ -2770,6 +2785,12 @@
     "group": "CA"
   },
   {
+    "name": "SODGroup",
+    "code": "HNAMH",
+    "comment": "なまなま(Namanama)",
+    "group": "SOD"
+  },
+  {
     "name": "Honnaka",
     "code": "HMN",
     "comment": "本中 中出",
@@ -2839,6 +2860,11 @@
     "code": "HBAD",
     "comment": "Hibino",
     "group": "SOD"
+  },
+  {
+    "name": "妄想族",
+    "code": "HAZU",
+    "comment": "素人喫茶/妄想族"
   },
   {
     "name": "SODGroup",
@@ -3074,6 +3100,11 @@
     "code": "FNC",
     "comment": "F-ENCOUNTER  ; 1 - 3 ; 2013 ",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "妄想族",
+    "code": "FJIN",
+    "comment": "FunCity/妄想族 2023"
   },
   {
     "name": "PRESTIGE",
@@ -3398,6 +3429,11 @@
     "code": "DOC",
     "comment": "DOC ; 1 - 3 ; 2011",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "妄想族",
+    "code": "DOA",
+    "comment": "ブラックドッグ/妄想族"
   },
   {
     "name": "PRESTIGE",
@@ -4184,10 +4220,18 @@
     "group": "CA"
   },
   {
+    "name": "FirstStar",
+    "code": "_TEEN"
+  },
+  {
     "name": "teamZERO",
     "code": "_TEAM",
     "comment": "解散?",
     "group": "CA"
+  },
+  {
+    "name": "FirstStar",
+    "code": "_TDMN"
   },
   {
     "name": "変態紳士倶楽部",
@@ -4236,6 +4280,10 @@
     "code": "_NTLE",
     "comment": "ナタリー文庫",
     "group": "KMP"
+  },
+  {
+    "name": "FirstStar",
+    "code": "_NNNC"
   },
   {
     "name": "KMPGroup",
@@ -4304,10 +4352,22 @@
     "group": "KMP"
   },
   {
+    "name": "FirstStar",
+    "code": "_KSWP"
+  },
+  {
+    "name": "FirstStar",
+    "code": "_KNSM"
+  },
+  {
     "name": "KMPGroup",
     "code": "_KNMD",
     "comment": "キネマ座 #怪片",
     "group": "KMP"
+  },
+  {
+    "name": "FirstStar",
+    "code": "_KNMB"
   },
   {
     "name": "PRESTIGE",
@@ -4385,6 +4445,14 @@
     "comment": "null"
   },
   {
+    "name": "FirstStar",
+    "code": "_FNEO"
+  },
+  {
+    "name": "FirstStar",
+    "code": "_FGEN"
+  },
+  {
     "name": "ERORIST",
     "code": "_ERS",
     "comment": "2014 停",
@@ -4409,6 +4477,10 @@
     "group": "WAAP"
   },
   {
+    "name": "FirstStar",
+    "code": "_DORI"
+  },
+  {
     "name": "PRESTIGE",
     "code": "_DLD",
     "comment": "停",
@@ -4419,6 +4491,10 @@
     "code": "_CRDD",
     "comment": "クレイジーウォーカー #歐美",
     "group": "KMP"
+  },
+  {
+    "name": "FirstStar",
+    "code": "_CHUC"
   },
   {
     "name": "KMPGroup",
@@ -4478,6 +4554,10 @@
     "code": "_AP",
     "comment": "Hunter_APACHE. #overlap with another",
     "group": "HHH/CA"
+  },
+  {
+    "name": "FirstStar",
+    "code": "_ALOG"
   },
   {
     "name": "Kuki",
