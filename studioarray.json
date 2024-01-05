@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "05/01/2024 09:53:42",
+    "comment": "05/01/2024 19:52:22",
     "group": "dum"
   },
   {
@@ -533,6 +533,11 @@
     "code": "TDT",
     "comment": "人妻",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "妄想族",
+    "code": "TCHB",
+    "comment": "ティーチャー/妄想族"
   },
   {
     "name": "KMPGroup",
@@ -3845,6 +3850,11 @@
     "code": "BOBB",
     "comment": "ABC/妄想族",
     "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "BNST",
+    "comment": "ティーチャー/妄想族"
   },
   {
     "name": "WANZ",
