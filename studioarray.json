@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "28/12/2023 11:48:11",
+    "comment": "05/01/2024 09:53:42",
     "group": "dum"
   },
   {
@@ -2564,6 +2564,12 @@
   },
   {
     "name": "D-O-C",
+    "code": "JNKD",
+    "comment": "JunKtion DREAM",
+    "group": "PRESTIGE"
+  },
+  {
+    "name": "D-O-C",
     "code": "JNK",
     "comment": "JunKtion合集",
     "group": "PRESTIGE"
@@ -2783,6 +2789,12 @@
     "group": "HHH/CA"
   },
   {
+    "name": "Hunter",
+    "code": "HUBLK",
+    "comment": "hunter black",
+    "group": "HHH/CA"
+  },
+  {
     "name": "PRESTIGE",
     "code": "HRV",
     "comment": "PRESTIGE BEST 合輯",
@@ -2956,6 +2968,11 @@
     "name": "GloryQuest",
     "code": "GVG",
     "comment": "重口味"
+  },
+  {
+    "name": "妄想族",
+    "code": "GUPP",
+    "comment": "GUPPI/妄想族"
   },
   {
     "name": "Hunter",
@@ -3437,6 +3454,12 @@
     "code": "DTK",
     "comment": "Waap Deepers ;  JELLY",
     "group": "WAAP"
+  },
+  {
+    "name": "桃太郎",
+    "code": "DSDP",
+    "comment": "鬼妹",
+    "group": "CA"
   },
   {
     "name": "SODGroup",
