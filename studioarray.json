@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "06/01/2024 11:32:25",
+    "comment": "08/01/2024 17:40:02",
     "group": "dum"
   },
   {
@@ -655,6 +655,12 @@
     "name": "Hakusui",
     "code": "STCEAD",
     "comment": "セレブの友"
+  },
+  {
+    "name": "SOD",
+    "code": "START",
+    "comment": "明星主力  2024",
+    "group": "SOD"
   },
   {
     "name": "SOD",
@@ -2268,6 +2274,12 @@
     "name": "PRESTIGE",
     "code": "LXVS",
     "comment": "null",
+    "group": "PRESTIGE"
+  },
+  {
+    "name": "PRESTIGE",
+    "code": "LXP",
+    "comment": "LUXU X PRESTIGE BEST",
     "group": "PRESTIGE"
   },
   {
