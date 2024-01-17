@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "08/01/2024 17:40:02",
+    "comment": "17/01/2024 15:18:52",
     "group": "dum"
   },
   {
@@ -454,6 +454,12 @@
     "name": "PRESTIGE",
     "code": "TUS",
     "comment": "null",
+    "group": "PRESTIGE"
+  },
+  {
+    "name": "PRESTIGE",
+    "code": "TUK",
+    "comment": "PRESTIGE KANBi BEST",
     "group": "PRESTIGE"
   },
   {
@@ -2150,6 +2156,12 @@
   },
   {
     "name": "D-O-C",
+    "code": "MFCT",
+    "comment": "MOON FORCE 2nd",
+    "group": "PRESTIGE"
+  },
+  {
+    "name": "D-O-C",
     "code": "MFCD",
     "comment": "MOON FORCE DREAM",
     "group": "PRESTIGE"
@@ -2933,7 +2945,8 @@
   {
     "name": "PRESTIGE",
     "code": "HEO",
-    "comment": "BEST"
+    "comment": "BEST",
+    "group": "PRESTIGE"
   },
   {
     "name": "PlanetPlus",
@@ -3516,6 +3529,7 @@
   {
     "name": "D-O-C",
     "code": "DOCS",
+    "comment": "DOC 独占ちゃん",
     "group": "PRESTIGE"
   },
   {
