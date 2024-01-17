@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "17/01/2024 15:18:52",
+    "comment": "17/01/2024 20:20:38",
     "group": "dum"
   },
   {
@@ -1273,6 +1273,12 @@
     "name": "PEMIUM",
     "code": "PXD",
     "comment": "共演(2013停)",
+    "group": "CA"
+  },
+  {
+    "name": "PEMIUM",
+    "code": "PRWF",
+    "comment": "PEMIUM 2024",
     "group": "CA"
   },
   {
