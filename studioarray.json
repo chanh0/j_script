@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "17/01/2024 20:20:38",
+    "comment": "24/01/2024 20:20:21",
     "group": "dum"
   },
   {
@@ -305,6 +305,11 @@
     "code": "VTO",
     "comment": "vertigo",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "妄想族",
+    "code": "VTMN",
+    "comment": "Vitamin/妄想族 2024"
   },
   {
     "name": "FalenoGroup",
@@ -1413,6 +1418,12 @@
     "group": "CA"
   },
   {
+    "name": "FalenoGroup",
+    "code": "PFT",
+    "comment": "FALENO TUBE 同人",
+    "group": "Faleno"
+  },
+  {
     "name": "PRESTIGE",
     "code": "PET",
     "comment": "PRESTIGE 合輯，有出但無seek",
@@ -1922,6 +1933,11 @@
     "code": "MMNT",
     "comment": "Million Mint",
     "group": "KMP"
+  },
+  {
+    "name": "D-O-C",
+    "code": "MMNM",
+    "comment": "new 2024"
   },
   {
     "name": "Marrion",
@@ -3889,6 +3905,12 @@
   },
   {
     "name": "妄想族",
+    "code": "BONY",
+    "comment": "ボニータ/妄想族",
+    "group": "CA"
+  },
+  {
+    "name": "妄想族",
     "code": "BOBB",
     "comment": "ABC/妄想族",
     "group": "CA"
@@ -3896,7 +3918,8 @@
   {
     "name": "妄想族",
     "code": "BNST",
-    "comment": "ティーチャー/妄想族"
+    "comment": "ティーチャー/妄想族",
+    "group": "CA"
   },
   {
     "name": "WANZ",
