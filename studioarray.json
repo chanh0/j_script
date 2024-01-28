@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "27/01/2024 23:46:53",
+    "comment": "28/01/2024 21:34:47",
     "group": "dum"
   },
   {
@@ -1515,6 +1515,18 @@
   },
   {
     "name": "SODGroup",
+    "code": "OKYN",
+    "comment": "親父の個撮",
+    "group": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "OKX",
+    "comment": "親父の個撮",
+    "group": "SOD"
+  },
+  {
+    "name": "SODGroup",
     "code": "OKV",
     "comment": "親父の個撮",
     "group": "SOD"
@@ -1546,6 +1558,12 @@
   {
     "name": "SODGroup",
     "code": "OKK",
+    "comment": "親父の個撮",
+    "group": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "OKC",
     "comment": "親父の個撮",
     "group": "SOD"
   },
