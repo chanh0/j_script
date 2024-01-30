@@ -1,14 +1,14 @@
 ingress:
-  - hostname: ,utoscan.domain.com
+  - hostname: utoscan
     service: http://0.0.0.0:3030
-  - hostname: ,ria2.domain.com
+  - hostname: ria2
     service: http://0.0.0.0:6800
-  - hostname: ,ocker.domain.com #portainer
+  - hostname: ocker #portainer
     service: http://0.0.0.0:9000
-  - hostname: ,dcx.domain.com
+  - hostname: dcx
     service: http://0.0.0.0:5800
-  - hostname: ,lexget.domain.com
+  - hostname: lexget
     service: http://0.0.0.0:5050
-  - hostname: ,etatube.domain.com
+  - hostname: etatube
     service: http://0.0.0.0:5050
   - service: http_status:404
