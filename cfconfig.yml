@@ -2,11 +2,11 @@ ingress:
   - hostname: ,utoscan.domain.com
     service: http://0.0.0.0:3030
   - hostname: ,ria2.domain.com
-    service: http://0.0.0.0
+    service: http://0.0.0.0:6800
   - hostname: ,ocker.domain.com #portainer
-    service: http://0.0.0.0
+    service: http://0.0.0.0:9000
   - hostname: ,dcx.domain.com
-    service: http://0.0.0.0
+    service: http://0.0.0.0:5800
   - hostname: ,lexget.domain.com
     service: http://0.0.0.0:5050
   - hostname: ,etatube.domain.com
