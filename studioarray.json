@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "02/02/2024 09:27:43",
+    "comment": "03/02/2024 12:46:39",
     "group": "dum"
   },
   {
@@ -561,6 +561,11 @@
     "code": "TBL",
     "comment": "null",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "妄想族",
+    "code": "TANF",
+    "comment": "たんぽぽ/妄想族"
   },
   {
     "name": "PlanetPlus",
@@ -1137,6 +1142,11 @@
     "code": "RROY",
     "comment": "ROYAL 合集，有出但無seek",
     "group": "HHH/CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "RPIN",
+    "comment": "リコピン/妄想族"
   },
   {
     "name": "Hunter",
@@ -2428,6 +2438,11 @@
     "code": "KTKC",
     "comment": "キチックス/妄想族",
     "group": "CA"
+  },
+  {
+    "name": "妄想族",
+    "code": "KTB",
+    "comment": "下半身タイガース/妄想族"
   },
   {
     "name": "妄想族",
