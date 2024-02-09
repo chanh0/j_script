@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "03/02/2024 12:46:39",
+    "comment": "09/02/2024 11:19:58",
     "group": "dum"
   },
   {
@@ -2894,6 +2894,12 @@
     "name": "Hunter",
     "code": "HUBLK",
     "comment": "hunter black",
+    "group": "HHH/CA"
+  },
+  {
+    "name": "Hunter",
+    "code": "HSODA",
+    "comment": "片商: Hsoda 2024",
     "group": "HHH/CA"
   },
   {
