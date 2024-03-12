@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "13/02/2024 15:58:07",
+    "comment": "12/03/2024 08:20:06",
     "group": "dum"
   },
   {
@@ -486,6 +486,11 @@
     "group": "KMP"
   },
   {
+    "name": "妄想族",
+    "code": "TONV",
+    "comment": "ION/妄想族"
+  },
+  {
     "name": "D-O-C",
     "code": "TOG",
     "comment": "TOKYO ANARCHY GIRL ; 1 - 11 ; 2011",
@@ -496,6 +501,12 @@
     "code": "TLS",
     "comment": "THRILL SEEKER ; 1 - 20 ; 2013 ",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "FalenoGroup",
+    "code": "TLDC",
+    "comment": "FalenoGroup - BOTAN",
+    "group": "Faleno"
   },
   {
     "name": "妄想族",
@@ -1525,7 +1536,7 @@
   },
   {
     "name": "SODGroup",
-    "code": "OKYN",
+    "code": "OKY",
     "comment": "親父の個撮",
     "group": "SOD"
   },
@@ -1562,6 +1573,12 @@
   {
     "name": "SODGroup",
     "code": "OKO",
+    "comment": "親父の個撮",
+    "group": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "OKL",
     "comment": "親父の個撮",
     "group": "SOD"
   },
@@ -2954,6 +2971,12 @@
     "code": "HNAMH",
     "comment": "なまなま(Namanama)",
     "group": "SOD"
+  },
+  {
+    "name": "D-O-C",
+    "code": "HMRK",
+    "comment": "new 2024",
+    "group": "PRESTIGE"
   },
   {
     "name": "Honnaka",
