@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "12/03/2024 08:20:06",
+    "comment": "10/04/2024 14:45:26",
     "group": "dum"
   },
   {
@@ -1088,6 +1088,11 @@
     "code": "SCH",
     "comment": "Schwarz ;1 -10 ; 2012 old",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "妄想族",
+    "code": "SCDC",
+    "comment": "全日本カメコ協同組合/妄想族 2024"
   },
   {
     "name": "FalenoGroup",
@@ -2247,6 +2252,12 @@
   },
   {
     "name": "D-O-C",
+    "code": "MFCO",
+    "comment": "MOON FORCE ",
+    "group": "PRESTIGE"
+  },
+  {
+    "name": "D-O-C",
     "code": "MFCD",
     "comment": "MOON FORCE DREAM",
     "group": "PRESTIGE"
@@ -2548,6 +2559,12 @@
     "code": "KIL",
     "comment": "ACE KILLER 作品 01-116 stop",
     "group": "PRESTIGE"
+  },
+  {
+    "name": "kirakira",
+    "code": "KIBD",
+    "comment": "null",
+    "group": "CA"
   },
   {
     "name": "妄想族",
