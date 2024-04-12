@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "10/04/2024 14:45:26",
+    "comment": "12/04/2024 14:05:28",
     "group": "dum"
   },
   {
@@ -2367,6 +2367,12 @@
     "name": "PlanetPlus",
     "code": "MARA",
     "comment": "マラカス"
+  },
+  {
+    "name": "Fitch",
+    "code": "MANX",
+    "comment": "new 2024",
+    "group": "CA"
   },
   {
     "name": "Crystal",
