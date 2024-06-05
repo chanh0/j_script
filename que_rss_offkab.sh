@@ -1,5 +1,5 @@
 #/bin/bash
-# version 0.3
+# version 0.31
 [ ! -f /usr/bin/xmlstarlet ] && apk add xmlstarlet
 DATE_TIME() {
     #date +"%m/%d %H:%M:%S"
@@ -35,31 +35,17 @@ TOR_HIS_JSON() {
         jq ". += [$new_entry]" "$tor_history_file" > tmpjp.$$.json && mv tmpjp.$$.json "$tor_history_file"
     fi
 }
-#curl -X GET   -H "Content-type: application/json"   -H "Accept: application/json"   "https://sukebei.nyaa.si/?page=rss&q=FHD+-FHDC+-FC2&c=0_0&f=0&u=offkab"  > /tmp/rss_offkab.xml 2>/dev/null
+
 rss_offkab_xml=$(curl -s -X GET   -H "Content-type: application/json"   -H "Accept: application/json"   "https://sukebei.nyaa.si/?page=rss&q=FHD+-FHDC+-FC2&c=0_0&f=0&u=offkab" ) 2>/dev/null
 staging=$(xmlstarlet sel -t -m "//item" -v "substring(title, 1, 50)" -o " | " -v "link" -o " | " -v "guid" -o " | " -v "nyaa:infoHash" -o " | " -v "pubDate" -o " | " -v "nyaa:size" -n  <<< "$rss_offkab_xml" | head -n 75)
-#staging=$(xmlstarlet sel -t -m "//item" -v "substring(title, 1, 50)" -o " | " -v "link" -o " | " -v "guid" -o " | " -v "nyaa:infoHash" -o " | " -v "pubDate" -o " | " -v "nyaa:size" -n  /tmp/rss_offkab.xml | head -n 75)
-#rm /tmp/rss_offkab.xml
 
-# Set the string to match
-#download reject.json
-       if find /tmp/.reject.json -mtime -7 -size +10k | grep . > /dev/null ; then
-                :
-                #echo "Local reject.json Found";
-                #ls .localstudioarray.json -l
-        else
-                echo "Json Outdated. Re-downloding ..."
-                curl -s  -connection-timeout 0.5 --max-time 0.8 https://raw.githubusercontent.com/chanh0/j_script/master/reject.json| jq . > /tmp/.reject.json
-                curl -s  -connection-timeout 0.5 --max-time 0.8 https://raw.githubusercontent.com/chanh0/j_script/master/unraid.json| jq . > /tmp/.unraid.json
-                [ $? -eq "28" ] && exit 1 #28 timeout
-        fi                
-# Read reject.json and extract BAM values
+# Set the string to match # Read reject.json and extract BAM values
 reject_json=$(curl -s  -connection-timeout 0.5 --max-time 0.8 https://raw.githubusercontent.com/chanh0/j_script/master/reject.json| jq . )
 unraid_json=$(curl -s  -connection-timeout 0.5 --max-time 0.8 https://raw.githubusercontent.com/chanh0/j_script/master/unraid.json| jq . )
 mapfile -t BAM < <(jq -r '.[].BAM' <<< "$reject_json")
 mapfile -t ACC < <(jq -r '.[].ACC' <<< "$unraid_json")
-echo ${ACC[@]}
-echo ${BAM[@]}
+#echo ${ACC[@]}
+#echo ${BAM[@]}
 
 # Initialize rss_output and unrss_output
 declare -A rss_output
@@ -140,7 +126,6 @@ EOF
 )
     fi
 done <<< "$staging" #while end
-
 
 # Close RSS structures
 rss_output[ARIA2JP]+="</channel>\n</rss>"
