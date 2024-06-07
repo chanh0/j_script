@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "07/06/2024 19:43:29",
+    "comment": "07/06/2024 19:43:35",
     "group": "dum"
   },
   {
@@ -69,7 +69,9 @@
   },
   {
     "name": "D-O-C",
-    "code": "JNKE"
+    "code": "JNKE",
+    "comment": "D-O-C BEST",
+    "group": "PRESTIGE"
   },
   {
     "name": "D-O-C",
