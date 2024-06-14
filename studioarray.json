@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "12/06/2024 08:53:08",
+    "comment": "14/06/2024 08:27:31",
     "group": "dum"
   },
   {
@@ -364,6 +364,10 @@
     "code": "VEO",
     "comment": "AV Debut",
     "group": "CA"
+  },
+  {
+    "name": "VENUS",
+    "code": "VENZ"
   },
   {
     "name": "VENUS",
