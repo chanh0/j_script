@@ -2,7 +2,7 @@
   {
     "name": "dummy",
     "code": "ZZZZZ",
-    "comment": "14/06/2024 08:27:40",
+    "comment": "14/06/2024 11:21:40",
     "group": "dum"
   },
   {
@@ -2399,6 +2399,11 @@
     "name": "PlanetPlus",
     "code": "MARA",
     "comment": "マラカス"
+  },
+  {
+    "name": "Fitch",
+    "code": "MEAD",
+    "group": "CA"
   },
   {
     "name": "Fitch",
