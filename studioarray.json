@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "25/06/2024 19:21:58"
+    "dum": "25/06/2024 19:26:28"
   },
   {
     "name": "妄想族",
@@ -62,12 +62,6 @@
     "code": "YSN",
     "remark": "Waap ; NON",
     "dum": "WAAP"
-  },
-  {
-    "name": "SOD",
-    "code": "FTAV",
-    "remark": "SODクリエイト",
-    "dum": "SOD"
   },
   {
     "name": "D-O-C",
@@ -3362,6 +3356,12 @@
     "code": "FTBL",
     "remark": "FALENO TUBE　企畫系列 醉酒",
     "dum": "Faleno"
+  },
+  {
+    "name": "SOD",
+    "code": "FTAV",
+    "remark": "SODクリエイト",
+    "dum": "SOD"
   },
   {
     "name": "Faleno",
