@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "07/07/2024 08:47:54"
+    "dum": "09/07/2024 18:15:38"
   },
   {
     "name": "妄想族",
@@ -950,6 +950,12 @@
     "dum": "PRESTIGE"
   },
   {
+    "name": "FalenoGroup",
+    "code": "SEVEN",
+    "remark": "FalenoGroup BOTAN",
+    "dum": "Faleno"
+  },
+  {
     "name": "SOD",
     "code": "SETM",
     "remark": "SOD 2023 group ?",
@@ -1115,12 +1121,6 @@
     "name": "妄想族",
     "code": "SCDC",
     "remark": "全日本カメコ協同組合/妄想族 2024"
-  },
-  {
-    "name": "FalenoGroup",
-    "code": "SEVEN",
-    "remark": "FalenoGroup BOTAN",
-    "dum": "Faleno"
   },
   {
     "name": "FalenoGroup",
@@ -2840,6 +2840,7 @@
     "remark": "專屬女優 999 (2023 完)",
     "dum": "CA"
   },
+  {},
   {
     "name": "IdeaPocket",
     "code": "IPTD",
