@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "09/07/2024 18:15:43"
+    "dum": "09/07/2024 18:16:23"
   },
   {
     "name": "妄想族",
@@ -2842,7 +2842,9 @@
   },
   {
     "name": "IdeaPocket",
-    "code": "IPSE"
+    "code": "IPSE",
+    "remark": "SELECTED製作小組非專屬新人 ?",
+    "dum": "CA"
   },
   {
     "name": "IdeaPocket",
