@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "15/09/2024 00:47:52"
+    "dum": "15/09/2024 01:01:28"
   },
   {
     "name": "妄想族",
@@ -4572,6 +4572,12 @@
     "dum": "SOD"
   },
   {
+    "name": "SOD",
+    "code": "_107SDHS",
+    "remark": "null",
+    "dum": "SOD"
+  },
+  {
     "name": "MAXING",
     "code": "071MXDLP",
     "remark": "null"
@@ -4994,12 +5000,6 @@
   {
     "name": "SOD",
     "code": "_107SENN",
-    "remark": "null",
-    "dum": "SOD"
-  },
-  {
-    "name": "SOD",
-    "code": "107SDHS",
     "remark": "null",
     "dum": "SOD"
   },
