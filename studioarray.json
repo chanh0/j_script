@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "15/09/2024 01:01:28"
+    "dum": "19/09/2024 10:08:21"
   },
   {
     "name": "妄想族",
@@ -2151,6 +2151,10 @@
     "code": "MIMK",
     "remark": "動漫改編",
     "dum": "CA"
+  },
+  {
+    "name": "MOODYZ",
+    "code": "MIKR"
   },
   {
     "name": "KMPGroup",
@@ -4572,12 +4576,6 @@
     "dum": "SOD"
   },
   {
-    "name": "SOD",
-    "code": "_107SDHS",
-    "remark": "null",
-    "dum": "SOD"
-  },
-  {
     "name": "MAXING",
     "code": "071MXDLP",
     "remark": "null"
@@ -5000,6 +4998,12 @@
   {
     "name": "SOD",
     "code": "_107SENN",
+    "remark": "null",
+    "dum": "SOD"
+  },
+  {
+    "name": "SOD",
+    "code": "_107SDHS",
     "remark": "null",
     "dum": "SOD"
   },
