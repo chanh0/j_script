@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "22/09/2024 10:18:00"
+    "dum": "22/09/2024 10:18:04"
   },
   {
     "name": "妄想族",
@@ -3394,7 +3394,9 @@
     "dum": "SOD"
   },
   {
-    "name": "Faleno"
+    "name": "Faleno",
+    "remark": "FALENO star",
+    "dum": "Faleno"
   },
   {
     "name": "Faleno",
