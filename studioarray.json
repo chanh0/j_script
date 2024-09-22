@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/09/2024 10:08:26"
+    "dum": "22/09/2024 10:18:00"
   },
   {
     "name": "妄想族",
@@ -2153,16 +2153,16 @@
     "dum": "CA"
   },
   {
-    "name": "MOODYZ",
-    "code": "MIKR",
-    "remark": "2024 new",
-    "dum": "CA"
-  },
-  {
     "name": "KMPGroup",
     "code": "MILD",
     "remark": "Million",
     "dum": "KMP"
+  },
+  {
+    "name": "MOODYZ",
+    "code": "MIKR",
+    "remark": "2024 new",
+    "dum": "CA"
   },
   {
     "name": "SODGroup",
@@ -3392,6 +3392,9 @@
     "code": "FTAV",
     "remark": "SODクリエイト",
     "dum": "SOD"
+  },
+  {
+    "name": "Faleno"
   },
   {
     "name": "Faleno",
