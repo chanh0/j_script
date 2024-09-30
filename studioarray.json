@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "26/09/2024 12:40:09"
+    "dum": "30/09/2024 12:11:44"
   },
   {
     "name": "妄想族",
@@ -1811,6 +1811,12 @@
     "code": "NANX",
     "remark": "Nanpa Heaven",
     "dum": "KMP"
+  },
+  {
+    "name": "Das_Dokubari",
+    "code": "NAIAD",
+    "remark": "Das_Dokubari AI",
+    "dum": "CA"
   },
   {
     "name": "PlanetPlus",
@@ -3910,12 +3916,6 @@
   },
   {
     "name": "Das_Dokubari",
-    "code": "NAIAD",
-    "remark": "Das_Dokubari AI",
-    "dum": "CA"
-  },
-  {
-    "name": "Das_Dokubari",
     "code": "DAZD",
     "remark": "Das_Dokubari BEST 合輯",
     "dum": "CA"
@@ -4505,6 +4505,12 @@
     "code": "512EMST",
     "remark": "MSG:エモい女の子。",
     "dum": "SOD"
+  },
+  {
+    "name": "FalenoGroup",
+    "code": "406MFTH",
+    "remark": "FALENO .Works",
+    "dum": "Faleno"
   },
   {
     "name": "FalenoGroup",
