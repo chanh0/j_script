@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "30/09/2024 12:11:50"
+    "dum": "01/10/2024 18:28:39"
   },
   {
     "name": "妄想族",
@@ -3084,10 +3084,13 @@
     "dum": "SOD"
   },
   {
-    "name": "D-O-C",
+    "name": "Honnaka",
     "code": "HMRK",
     "remark": "new 2024",
     "dum": "PRESTIGE"
+  },
+  {
+    "code": "HNMG"
   },
   {
     "name": "Honnaka",
@@ -4508,13 +4511,13 @@
   },
   {
     "name": "FalenoGroup",
-    "code": "406MFT",
+    "code": "406MFTH",
     "remark": "FALENO .Works",
     "dum": "Faleno"
   },
   {
     "name": "FalenoGroup",
-    "code": "406MFTH",
+    "code": "406MFT",
     "remark": "FALENO .Works",
     "dum": "Faleno"
   },
