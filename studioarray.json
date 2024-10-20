@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "05/10/2024 17:52:34"
+    "dum": "20/10/2024 17:28:49"
   },
   {
     "name": "妄想族",
@@ -306,6 +306,10 @@
     "name": "妄想族",
     "code": "VTMN",
     "remark": "Vitamin/妄想族 2024"
+  },
+  {
+    "name": "FalenoGroup",
+    "code": "VAIAV"
   },
   {
     "name": "FalenoGroup",
@@ -4093,13 +4097,13 @@
   },
   {
     "name": "Hakusui",
-    "code": "CEKD",
+    "code": "CEMD",
     "remark": "セレブの友"
   },
   {
     "name": "Hakusui",
-    "code": "CEMD",
-    "remark": "セレブの友"
+    "code": "CEKD",
+    "remark": "セレブの友 2024"
   },
   {
     "name": "Hakusui",
