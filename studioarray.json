@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "20/10/2024 17:28:49"
+    "dum": "20/10/2024 17:28:51"
   },
   {
     "name": "妄想族",
@@ -309,7 +309,9 @@
   },
   {
     "name": "FalenoGroup",
-    "code": "VAIAV"
+    "code": "VAIAV",
+    "remark": "FalenoGroup - BOTAN",
+    "dum": "Faleno"
   },
   {
     "name": "FalenoGroup",
