@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "20/10/2024 17:29:00"
+    "dum": "24/10/2024 09:15:44"
   },
   {
     "name": "妄想族",
@@ -309,12 +309,6 @@
   },
   {
     "name": "FalenoGroup",
-    "code": "VAIAV",
-    "remark": "FalenoGroup - BOTAN - AI -2024",
-    "dum": "Faleno"
-  },
-  {
-    "name": "FalenoGroup",
     "code": "VOTAN",
     "remark": "FalenoGroup - BOTAN",
     "dum": "Faleno"
@@ -408,6 +402,12 @@
     "code": "VAR",
     "remark": "Waap ; SO",
     "dum": "WAAP"
+  },
+  {
+    "name": "FalenoGroup",
+    "code": "VAIAV",
+    "remark": "FalenoGroup - BOTAN - AI -2024",
+    "dum": "Faleno"
   },
   {
     "name": "VENUS",
@@ -1488,6 +1488,10 @@
     "code": "PFT",
     "remark": "FALENO TUBE 同人",
     "dum": "Faleno"
+  },
+  {
+    "name": "FalenoGroup",
+    "code": "ONFT"
   },
   {
     "name": "PRESTIGE",
