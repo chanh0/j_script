@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "24/10/2024 09:15:54"
+    "dum": "10/11/2024 12:30:05"
   },
   {
     "name": "妄想族",
@@ -1490,12 +1490,6 @@
     "dum": "Faleno"
   },
   {
-    "name": "FalenoGroup",
-    "code": "ONFT",
-    "remark": "FALENO TUBE",
-    "dum": "Faleno"
-  },
-  {
     "name": "PRESTIGE",
     "code": "PET",
     "remark": "PRESTIGE 合輯，有出但無seek",
@@ -1547,6 +1541,12 @@
     "code": "ONGP",
     "remark": "メディアステーション",
     "dum": "KMP"
+  },
+  {
+    "name": "FalenoGroup",
+    "code": "ONFT",
+    "remark": "FALENO TUBE",
+    "dum": "Faleno"
   },
   {
     "name": "ONEMORE",
