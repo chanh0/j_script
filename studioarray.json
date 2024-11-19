@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/11/2024 20:02:45"
+    "dum": "19/11/2024 20:02:55"
   },
   {
     "name": "妄想族",
@@ -1949,19 +1949,19 @@
     "name": "無垢",
     "code": "MUKD",
     "remark": "動漫改編",
-    "dum": "CA"
+    "dum": "https://muku.tv"
   },
   {
     "name": "無垢",
     "code": "MUKC",
     "remark": "動漫改編",
-    "dum": "CA"
+    "dum": "https://muku.tv"
   },
   {
     "name": "無垢",
     "code": "MUDR",
     "remark": "動漫改編 原作コラボ",
-    "dum": "CA"
+    "dum": "https://muku.tv"
   },
   {
     "name": "妄想族",
@@ -4855,7 +4855,7 @@
     "name": "無垢",
     "code": "MUCD",
     "remark": "BEST",
-    "dum": "CA"
+    "dum": "https://muku.tv"
   },
   {
     "name": "KMPGroup",
@@ -5187,6 +5187,7 @@
   {
     "name": "無垢",
     "code": "SMCD",
-    "remark": "BEST"
+    "remark": "BEST",
+    "dum": "https://muku.tv"
   }
 ]
