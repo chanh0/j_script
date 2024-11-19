@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/11/2024 20:38:02"
+    "dum": "19/11/2024 20:38:08"
   },
   {
     "name": "妄想族",
@@ -5235,16 +5235,19 @@
   {
     "name": "はじめ企画",
     "code": "_HJBB",
-    "remark": "はじめ企画"
+    "remark": "はじめ企画",
+    "dum": "https://hajimekikaku.com"
   },
   {
     "name": "はじめ企画",
     "code": "_HJMO",
-    "remark": "はじめ企画"
+    "remark": "はじめ企画",
+    "dum": "https://hajimekikaku.com"
   },
   {
     "name": "はじめ企画",
     "code": "_AVGL",
-    "remark": "はじめ企画"
+    "remark": "はじめ企画",
+    "dum": "https://hajimekikaku.com"
   }
 ]
