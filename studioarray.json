@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/11/2024 20:14:00"
+    "dum": "19/11/2024 20:14:09"
   },
   {
     "name": "妄想族",
@@ -1912,7 +1912,8 @@
   {
     "name": "MsGroup",
     "code": "MVSD",
-    "remark": "MsGroup main"
+    "remark": "MsGroup main",
+    "dum": "https://mvg.jp"
   },
   {
     "name": "D-O-C",
@@ -1923,12 +1924,14 @@
   {
     "name": "MsGroup",
     "code": "MVMD",
-    "remark": "(40); MANIA "
+    "remark": "(40); MANIA ",
+    "dum": "https://mvg.jp"
   },
   {
     "name": "MsGroup",
     "code": "MVGD",
-    "remark": "(24) ; old"
+    "remark": "(24) ; old",
+    "dum": "https://mvg.jp"
   },
   {
     "name": "GloryQuest",
@@ -1938,12 +1941,14 @@
   {
     "name": "MsGroup",
     "code": "MVFD",
-    "remark": "(36) ; old"
+    "remark": "(36) ; old",
+    "dum": "https://mvg.jp"
   },
   {
     "name": "MsGroup",
     "code": "MVBD",
-    "remark": "MsGroup BEST "
+    "remark": "MsGroup BEST ",
+    "dum": "https://mvg.jp"
   },
   {
     "name": "無垢",
