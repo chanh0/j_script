@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/11/2024 19:44:19"
+    "dum": "19/11/2024 19:44:29"
   },
   {
     "name": "妄想族",
@@ -5143,9 +5143,11 @@
     "dum": "https://bi-av.com"
   },
   {
-    "code": "BIST"
+    "code": "BIST",
+    "remark": "2015 end"
   },
   {
-    "code": "BWB"
+    "code": "BWB",
+    "remark": "2012 end"
   }
 ]
