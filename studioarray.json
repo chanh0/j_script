@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/11/2024 20:05:46"
+    "dum": "19/11/2024 20:05:52"
   },
   {
     "name": "妄想族",
@@ -5197,9 +5197,11 @@
     "dum": "https://attackers.net"
   },
   {
+    "code": "MISM",
     "dum": "https://mko-labo.net"
   },
   {
+    "code": "EMLB",
     "dum": "https://mko-labo.net"
   }
 ]
