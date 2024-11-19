@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/11/2024 20:04:07"
+    "dum": "19/11/2024 20:04:13"
   },
   {
     "name": "妄想族",
@@ -5191,6 +5191,9 @@
     "dum": "https://muku.tv"
   },
   {
-    "code": "AZSD"
+    "name": "ATTACKERS",
+    "code": "AZSD",
+    "remark": "2013 end",
+    "dum": "https://attackers.net"
   }
 ]
