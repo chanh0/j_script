@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "19/11/2024 19:56:17"
+    "dum": "19/11/2024 19:56:24"
   },
   {
     "name": "妄想族",
@@ -4864,7 +4864,9 @@
     "dum": "KMP"
   },
   {
-    "code": "MNYD"
+    "name": "溜池ゴロー",
+    "code": "MNYD",
+    "remark": "2008 end"
   },
   {
     "name": "KMPGroup",
