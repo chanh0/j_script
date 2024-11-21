@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "21/11/2024 17:14:05"
+    "dum": "21/11/2024 17:14:27"
   },
   {
     "name": "妄想族",
@@ -3047,6 +3047,12 @@
   },
   {
     "name": "SODGroup",
+    "code": "IENFA",
+    "remark": "IEnergy",
+    "dum": "SOD"
+  },
+  {
+    "name": "SODGroup",
     "code": "IENF",
     "remark": "IEnergy",
     "dum": "SOD"
@@ -5177,12 +5183,6 @@
     "code": "_483YKMC",
     "remark": "横浜かまちょ",
     "dum": "KMP"
-  },
-  {
-    "name": "SOD",
-    "code": "IENFA",
-    "remark": "IE",
-    "dum": "SOD"
   },
   {
     "name": "SOD",
