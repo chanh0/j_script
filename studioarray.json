@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "26/11/2024 00:23:07"
+    "dum": "26/11/2024 17:25:33"
   },
   {
     "name": "妄想族",
@@ -2245,12 +2245,6 @@
     "code": "MIKR",
     "remark": "2024 new",
     "dum": "https://moodyz.com"
-  },
-  {
-    "name": "SODGroup",
-    "code": "_MIKR",
-    "remark": "Mr.michiru ",
-    "dum": "SOD"
   },
   {
     "name": "SODGroup",
@@ -4922,6 +4916,12 @@
     "code": "_MISM",
     "remark": "えむっ娘ラボ",
     "dum": "https://mko-labo.net"
+  },
+  {
+    "name": "SODGroup",
+    "code": "_MIKR",
+    "remark": "Mr.michiru ",
+    "dum": "SOD"
   },
   {
     "name": "PRESTIGE",
