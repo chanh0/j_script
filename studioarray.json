@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "02/12/2024 20:25:55"
+    "dum": "02/12/2024 22:57:27"
   },
   {
     "name": "妄想族",
@@ -4288,12 +4288,6 @@
   },
   {
     "name": "妄想族",
-    "code": "AIFOCS",
-    "remark": "ABC/妄想族",
-    "dum": "CA"
-  },
-  {
-    "name": "妄想族",
     "code": "BOBB",
     "remark": "ABC/妄想族",
     "dum": "CA"
@@ -4530,6 +4524,12 @@
     "code": "AIR",
     "remark": "Waap ; AIR*WAAP",
     "dum": "WAAP"
+  },
+  {
+    "name": "妄想族",
+    "code": "AIFOCS",
+    "remark": "ABC/妄想族",
+    "dum": "CA"
   },
   {
     "name": "D-O-C",
