@@ -1,7 +1,7 @@
 [
   {
     "BAM": "中文字幕",
-    "remark": "02/12/2024 22:57:27"
+    "remark": "02/12/2024 22:57:33"
   },
   {
     "BAM": "YVG-",
@@ -1918,6 +1918,7 @@
     "BAM": "BDST-"
   },
   {
-    "BAM": "AIFOCS-"
+    "BAM": "AIFOCS-",
+    "remark": "poor AI model"
   }
 ]
