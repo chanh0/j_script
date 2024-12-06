@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "06/12/2024 09:09:12"
+    "dum": "06/12/2024 09:09:14"
   },
   {
     "name": "妄想族",
@@ -26,12 +26,6 @@
     "name": "GloryQuest",
     "code": "YVG",
     "remark": "重口味"
-  },
-  {
-    "name": "D-O-C",
-    "code": "DAL",
-    "remark": "2024 AI",
-    "dum": "PRESTIGE"
   },
   {
     "name": "D-O-C",
@@ -4088,6 +4082,12 @@
     "code": "DANDAN",
     "remark": "DANDY new 2022",
     "dum": "SOD"
+  },
+  {
+    "name": "D-O-C",
+    "code": "DAL",
+    "remark": "2024 AI",
+    "dum": "PRESTIGE"
   },
   {
     "name": "D-O-C",
