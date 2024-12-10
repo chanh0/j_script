@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2024 12:16:07"
+    "dum": "10/12/2024 09:15:47"
   },
   {
     "name": "妄想族",
@@ -1825,6 +1825,12 @@
     "code": "NIKM",
     "remark": "肉盛",
     "dum": "KMP"
+  },
+  {
+    "name": "SODGroup",
+    "code": "NHDTB",
+    "remark": "NaturalHigh",
+    "dum": "SOD"
   },
   {
     "name": "SODGroup",
