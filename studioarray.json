@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "21/12/2024 17:29:43"
+    "dum": "21/12/2024 17:29:47"
   },
   {
     "name": "妄想族",
@@ -1227,7 +1227,11 @@
     "code": "ROOM",
     "remark": "ホームルーム/妄想族"
   },
-  {},
+  {
+    "name": "Madonna",
+    "code": "ROEB",
+    "remark": "熟女主力"
+  },
   {
     "name": "Madonna",
     "code": "ROE",
