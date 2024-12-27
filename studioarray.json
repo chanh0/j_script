@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "27/12/2024 12:54:19"
+    "dum": "27/12/2024 12:54:45"
   },
   {
     "name": "妄想族",
@@ -3236,7 +3236,9 @@
   },
   {
     "name": "SODGroup",
-    "code": "HSDAB"
+    "code": "HSDAB",
+    "remark": "青春時代",
+    "dum": "SOD"
   },
   {
     "name": "SODGroup",
