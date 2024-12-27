@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "27/12/2024 12:54:45"
+    "dum": "27/12/2024 13:13:16"
   },
   {
     "name": "妄想族",
@@ -3123,12 +3123,6 @@
   },
   {
     "name": "Hunter",
-    "code": "HNTRZ",
-    "remark": "主力 2024",
-    "dum": "https://hhh-av.com"
-  },
-  {
-    "name": "Hunter",
     "code": "HUNTC",
     "remark": "主力 2023",
     "dum": "https://hhh-av.com"
@@ -3170,6 +3164,12 @@
     "dum": "HHH/CA"
   },
   {
+    "name": "SODGroup",
+    "code": "HSDAB",
+    "remark": "青春時代",
+    "dum": "SOD"
+  },
+  {
     "name": "PRESTIGE",
     "code": "HRV",
     "remark": "PRESTIGE BEST 合輯",
@@ -3191,6 +3191,12 @@
     "code": "HOIZ",
     "remark": "素人ホイホイ/妄想族",
     "dum": "CA"
+  },
+  {
+    "name": "Hunter",
+    "code": "HNTRZ",
+    "remark": "主力 2024",
+    "dum": "https://hhh-av.com"
   },
   {
     "name": "Honnaka",
@@ -3233,12 +3239,6 @@
     "code": "HND",
     "remark": "999 2021 end",
     "dum": "https://honnaka.jp"
-  },
-  {
-    "name": "SODGroup",
-    "code": "HSDAB",
-    "remark": "青春時代",
-    "dum": "SOD"
   },
   {
     "name": "SODGroup",
