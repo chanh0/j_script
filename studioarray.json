@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "15/01/2025 15:45:58"
+    "dum": "15/01/2025 20:50:18"
   },
   {
     "name": "妄想族",
@@ -2027,6 +2027,9 @@
     "code": "MTALL",
     "remark": "Materiall",
     "dum": "SOD"
+  },
+  {
+    "code": "MTATA"
   },
   {
     "name": "SODGroup",
