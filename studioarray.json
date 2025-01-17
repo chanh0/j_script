@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "17/01/2025 09:59:45"
+    "dum": "17/01/2025 09:59:52"
   },
   {
     "name": "妄想族",
@@ -65,7 +65,9 @@
   },
   {
     "name": "D-O-C",
-    "code": "DOCZ"
+    "code": "DOCZ",
+    "remark": "DOC 2025",
+    "dum": "PRESTIGE"
   },
   {
     "name": "D-O-C",
