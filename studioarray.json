@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "15/01/2025 20:50:28"
+    "dum": "17/01/2025 09:59:43"
   },
   {
     "name": "妄想族",
@@ -65,6 +65,9 @@
   },
   {
     "name": "D-O-C",
+    "code": "DOCZ"
+  },
+  {
     "code": "YSG",
     "remark": "ヤリスギ。; 1 - 08 ; 2012",
     "dum": "PRESTIGE"
@@ -2024,14 +2027,14 @@
   },
   {
     "name": "SODGroup",
-    "code": "MTALL",
-    "remark": "Materiall",
+    "code": "MTATA",
+    "remark": "Materiall 2025",
     "dum": "SOD"
   },
   {
     "name": "SODGroup",
-    "code": "MTATA",
-    "remark": "Materiall 2025",
+    "code": "MTALL",
+    "remark": "Materiall",
     "dum": "SOD"
   },
   {
