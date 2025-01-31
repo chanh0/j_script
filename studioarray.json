@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "17/01/2025 09:59:52"
+    "dum": "31/01/2025 11:26:48"
   },
   {
     "name": "妄想族",
@@ -62,12 +62,6 @@
     "code": "YSN",
     "remark": "Waap ; NON",
     "dum": "WAAP"
-  },
-  {
-    "name": "D-O-C",
-    "code": "DOCZ",
-    "remark": "DOC 2025",
-    "dum": "PRESTIGE"
   },
   {
     "name": "D-O-C",
@@ -3931,6 +3925,12 @@
     "code": "DOM",
     "remark": "null",
     "dum": "https://www.prestige-av.com"
+  },
+  {
+    "name": "D-O-C",
+    "code": "DOCZ",
+    "remark": "DOC 2025",
+    "dum": "PRESTIGE"
   },
   {
     "name": "D-O-C",
