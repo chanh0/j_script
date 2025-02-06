@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "06/02/2025 08:42:35"
+    "dum": "06/02/2025 08:43:02"
   },
   {
     "name": "妄想族",
@@ -2738,7 +2738,9 @@
   },
   {
     "name": "PRESTIGE",
-    "code": "KIT"
+    "code": "KIT",
+    "remark": "KICKER TURN",
+    "dum": "https://www.prestige-av.com"
   },
   {
     "name": "PRESTIGE",
