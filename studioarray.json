@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "06/02/2025 08:43:02"
+    "dum": "10/02/2025 12:19:51"
   },
   {
     "name": "妄想族",
@@ -2719,6 +2719,12 @@
     "dum": "SOD"
   },
   {
+    "name": "PRESTIGE",
+    "code": "KIT",
+    "remark": "KICKER TURN",
+    "dum": "https://www.prestige-av.com"
+  },
+  {
     "name": "kirakira",
     "code": "KISD",
     "remark": "2015 end",
@@ -2735,12 +2741,6 @@
     "code": "KIRD",
     "remark": "2015 end",
     "dum": "https://kirakira-av.com"
-  },
-  {
-    "name": "PRESTIGE",
-    "code": "KIT",
-    "remark": "KICKER TURN",
-    "dum": "https://www.prestige-av.com"
   },
   {
     "name": "PRESTIGE",
