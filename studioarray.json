@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "20/02/2025 15:34:59"
+    "dum": "20/02/2025 17:41:06"
   },
   {
     "name": "妄想族",
@@ -3593,12 +3593,6 @@
     "dum": "Faleno"
   },
   {
-    "name": "Faleno",
-    "code": "FNS",
-    "remark": "FALENO star 2025",
-    "dum": "Faleno"
-  },
-  {
     "name": "Fitch",
     "code": "FPRE",
     "remark": "Fitch 2023",
@@ -3609,6 +3603,12 @@
     "code": "FOCS",
     "remark": "ABC/妄想族",
     "dum": "CA"
+  },
+  {
+    "name": "Faleno",
+    "code": "FNS",
+    "remark": "FALENO star 2025",
+    "dum": "Faleno"
   },
   {
     "name": "D-O-C",
