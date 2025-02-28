@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "28/02/2025 11:09:26"
+    "dum": "28/02/2025 11:09:33"
   },
   {
     "name": "妄想族",
@@ -110,7 +110,12 @@
     "remark": "單體女優",
     "dum": "CA"
   },
-  {},
+  {
+    "name": "WAAP",
+    "code": "WSA",
+    "remark": "Waap Entertainment",
+    "dum": "WAAP"
+  },
   {
     "name": "WAAP",
     "code": "YFF",
