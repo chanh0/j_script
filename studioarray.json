@@ -9,12 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "28/02/2025 11:09:33"
-  },
-  {
-    "name": "妄想族",
-    "code": "FEM",
-    "remark": "妄想族"
+    "dum": "07/03/2025 20:41:44"
   },
   {
     "name": "妄想族",
@@ -112,12 +107,6 @@
   },
   {
     "name": "WAAP",
-    "code": "WSA",
-    "remark": "Waap Entertainment",
-    "dum": "WAAP"
-  },
-  {
-    "name": "WAAP",
     "code": "YFF",
     "remark": "Waap Entertainment",
     "dum": "WAAP"
@@ -191,6 +180,12 @@
   {
     "name": "WAAP",
     "code": "WSP",
+    "remark": "Waap Entertainment",
+    "dum": "WAAP"
+  },
+  {
+    "name": "WAAP",
+    "code": "WSA",
     "remark": "Waap Entertainment",
     "dum": "WAAP"
   },
@@ -3672,6 +3667,11 @@
     "code": "FFT",
     "remark": "PRESTIGE, KANBi, Femme Fatale 2023",
     "dum": "https://www.prestige-av.com"
+  },
+  {
+    "name": "妄想族",
+    "code": "FEM",
+    "remark": "妄想族"
   },
   {
     "name": "D-O-C",
