@@ -1,7 +1,7 @@
 [
   {
     "ACC": "ACHJ-",
-    "remark": "17/03/2025 18:36:25"
+    "remark": "17/03/2025 18:37:42"
   },
   {
     "ACC": "JUQ-",
@@ -561,13 +561,15 @@
     "remark": "magnolia (falenogroup)"
   },
   {
-    "ACC": "FTK-"
+    "ACC": "FTK-",
+    "remark": "falenogroup"
   },
   {
-    "ACC": "STCVS-"
+    "ACC": "STCVS-",
+    "remark": "falenogroup"
   },
   {
     "ACC": "VRNC-",
-    "remark": "VERONICA"
+    "remark": "VERONICA (falenogroup)"
   }
 ]
