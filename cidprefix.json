@@ -10,5 +10,9 @@
   {
     "prefix": 2,
     "pidcode": "wdi,dfdm,wzen,emsk,dfe,"
+  },
+  {
+    "prefix": 24,
+    "pidcode": "dkd,ped,ysn,yst,dfdm,hkw,isrd,wzen,vdd,ufd,emsk,dfe,tyd,"
   }
 ]
