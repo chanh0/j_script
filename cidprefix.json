@@ -14,5 +14,329 @@
   {
     "prefix": 24,
     "pidcode": "dkd,ped,ysn,yst,dfdm,hkw,isrd,wzen,vdd,ufd,emsk,dfe,tyd,"
+  },
+  {
+    "prefix": 301,
+    "pidcode": "mbdd,"
+  },
+  {
+    "prefix": 36,
+    "pidcode": "dmow,dsjh,dhld,"
+  },
+  {
+    "prefix": 433,
+    "pidcode": "rop,"
+  },
+  {
+    "prefix": 540,
+    "pidcode": "yst,"
+  },
+  {
+    "prefix": 5013,
+    "pidcode": "tsds,"
+  },
+  {
+    "prefix": 5050,
+    "pidcode": "mbrba,mbrbn,"
+  },
+  {
+    "prefix": 5141,
+    "pidcode": "mbrbm,"
+  },
+  {
+    "prefix": 5389,
+    "pidcode": "prian,"
+  },
+  {
+    "prefix": 5433,
+    "pidcode": "btha,"
+  },
+  {
+    "prefix": 5642,
+    "pidcode": "howy,hodv,"
+  },
+  {
+    "prefix": 57,
+    "pidcode": "mcsr,"
+  },
+  {
+    "prefix": "h_068",
+    "pidcode": "mxgs,"
+  },
+  {
+    "prefix": "h_127",
+    "pidcode": "ytr,ysn,"
+  },
+  {
+    "prefix": "h_491",
+    "pidcode": "knam,tang,alog,knmb,nmch,"
+  },
+  {
+    "prefix": "h_816",
+    "pidcode": "mbraq,"
+  },
+  {
+    "prefix": "h_1324",
+    "pidcode": "skmj,"
+  },
+  {
+    "prefix": "h_1350",
+    "pidcode": "kamef,einav,ginav,"
+  },
+  {
+    "prefix": "h_1378",
+    "pidcode": "arso,"
+  },
+  {
+    "prefix": "h_1450",
+    "pidcode": "psst,"
+  },
+  {
+    "prefix": "h_1472",
+    "pidcode": "erofv,hmdnv,mazo,mbrk,uinav,ggp,stvf,"
+  },
+  {
+    "prefix": "h_1534",
+    "pidcode": "grmr,"
+  },
+  {
+    "prefix": "h_1600",
+    "pidcode": "ukh,"
+  },
+  {
+    "prefix": "h_1601",
+    "pidcode": "hfc,"
+  },
+  {
+    "prefix": "h_1604",
+    "pidcode": "pjab,pjam,"
+  },
+  {
+    "prefix": "h_1615",
+    "pidcode": "beaf,"
+  },
+  {
+    "prefix": "h_1647",
+    "pidcode": "damx,"
+  },
+  {
+    "prefix": "h_1646",
+    "pidcode": "paox,"
+  },
+  {
+    "prefix": "h_1658",
+    "pidcode": "hnhu,"
+  },
+  {
+    "prefix": "h_1664",
+    "pidcode": "pess,"
+  },
+  {
+    "prefix": "h_1711",
+    "pidcode": "hmrk,docd,mfct,dal,fch,docz,mgt,"
+  },
+  {
+    "prefix": "h_1713",
+    "pidcode": "ems,"
+  },
+  {
+    "prefix": "h_1714",
+    "pidcode": "grace,"
+  },
+  {
+    "prefix": "h_1719",
+    "pidcode": "smkcx,"
+  },
+  {
+    "prefix": "h_1721",
+    "pidcode": "ftoi,"
+  },
+  {
+    "prefix": "h_1745",
+    "pidcode": "hrsm,"
+  },
+  {
+    "prefix": "h_1749",
+    "pidcode": "pkta,"
+  },
+  {
+    "prefix": "h_1753",
+    "pidcode": "tend,"
+  },
+  {
+    "prefix": "h_1762",
+    "pidcode": "djn,"
+  },
+  {
+    "prefix": "h_1767",
+    "pidcode": "saka,"
+  },
+  {
+    "prefix": "h_1770",
+    "pidcode": "lvsc,"
+  },
+  {
+    "prefix": "h_1771",
+    "pidcode": "ciao,"
+  },
+  {
+    "prefix": "h_1773",
+    "pidcode": "ecbm,"
+  },
+  {
+    "prefix": "h_1779",
+    "pidcode": "mina,"
+  },
+  {
+    "prefix": "h_1780",
+    "pidcode": "gppby,gbtno,gclsg,gkjsk,gnhdb,gosfs,gomms,gpkti,"
+  },
+  {
+    "prefix": "h_1783",
+    "pidcode": "tkfc,"
+  },
+  {
+    "prefix": "h_1787",
+    "pidcode": "bdst,"
+  },
+  {
+    "prefix": "h_1791",
+    "pidcode": "after,"
+  },
+  {
+    "prefix": "h_1794",
+    "pidcode": "plov,"
+  },
+  {
+    "prefix": "h_1798",
+    "pidcode": "kirm,"
+  },
+  {
+    "prefix": "h_1809",
+    "pidcode": "ftnl,"
+  },
+  {
+    "prefix": "h_1810",
+    "pidcode": "fu,ue,"
+  },
+  {
+    "prefix": "h_1100",
+    "pidcode": "hzgd,"
+  },
+  {
+    "prefix": "h_019",
+    "pidcode": "acz,"
+  },
+  {
+    "prefix": "h_021",
+    "pidcode": "npen,"
+  },
+  {
+    "prefix": "h_086",
+    "pidcode": "goul,mesu,xmom,yoch,zeaa,"
+  },
+  {
+    "prefix": "h_1133",
+    "pidcode": "gmjk,gone,pais,tdan,"
+  },
+  {
+    "prefix": "h_113",
+    "pidcode": "id,izm,sln,sy,syk,"
+  },
+  {
+    "prefix": "h_1157",
+    "pidcode": "opg,"
+  },
+  {
+    "prefix": "h_1231",
+    "pidcode": "ss,"
+  },
+  {
+    "prefix": "h_1240",
+    "pidcode": "milk,"
+  },
+  {
+    "prefix": "h_1292",
+    "pidcode": "ahk,"
+  },
+  {
+    "prefix": "h_1294",
+    "pidcode": "cnt,lwq,"
+  },
+  {
+    "prefix": "h_1440",
+    "pidcode": "fgan,"
+  },
+  {
+    "prefix": "h_1454",
+    "pidcode": "hust,"
+  },
+  {
+    "prefix": "h_1462",
+    "pidcode": "com,"
+  },
+  {
+    "prefix": "h_1495",
+    "pidcode": "bank,"
+  },
+  {
+    "prefix": "h_1580",
+    "pidcode": "och,"
+  },
+  {
+    "prefix": "h_1594",
+    "pidcode": "spro,"
+  },
+  {
+    "prefix": "h_1597",
+    "pidcode": "nhmsg,"
+  },
+  {
+    "prefix": "h_1719",
+    "pidcode": "tonv,clot,find,"
+  },
+  {
+    "prefix": "h_227",
+    "pidcode": "jukf,"
+  },
+  {
+    "prefix": "h_237",
+    "pidcode": "ambs,ambi,nacr,hdka,"
+  },
+  {
+    "prefix": "h_283",
+    "pidcode": "pmft,"
+  },
+  {
+    "prefix": "h_346",
+    "pidcode": "rebd,"
+  },
+  {
+    "prefix": "h_491",
+    "pidcode": "alog,chuc,dori,fnew,fsbk,fsym,knam,knmb,knsm,mspk,neos,next,nmch,nnnc,tkou,"
+  },
+  {
+    "prefix": "h_706",
+    "pidcode": "gredb,higrb,naacb,higr,naac,"
+  },
+  {
+    "prefix": "h_714",
+    "pidcode": "sbmo,"
+  },
+  {
+    "prefix": "h_796",
+    "pidcode": "san,"
+  },
+  {
+    "prefix": "h_839",
+    "pidcode": "shic,"
+  },
+  {
+    "prefix": "h_848",
+    "pidcode": "msq,emf,"
+  },
+  {
+    "prefix": "prestige_cases",
+    "pidcode": "abw,abp,abf,fft,fit,kit,kbr"
   }
 ]
