@@ -6,5 +6,9 @@
   {
     "prefix": 125,
     "pidcode": "umd"
+  },
+  {
+    "prefix": 2,
+    "pidcode": "wdi"
   }
 ]
