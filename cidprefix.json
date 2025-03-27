@@ -224,6 +224,9 @@
     "pidcode": "smkcx,tonv,clot,find,"
   },
   {
+    "prefix": "h_172"
+  },
+  {
     "prefix": "h_1721",
     "pidcode": "ftoi,"
   },
@@ -328,7 +331,8 @@
     "pidcode": "sbmo,"
   },
   {
-    "prefix": "h_720"
+    "prefix": "h_720",
+    "pidcode": "zex,"
   },
   {
     "prefix": "h_796",
