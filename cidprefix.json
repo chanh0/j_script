@@ -304,15 +304,11 @@
     "pidcode": "rebd,"
   },
   {
-    "prefix": "h_491"
-  },
-  {
     "prefix": "h_491",
-    "pidcode": "alog,chuc,dori,fnew,fsbk,fsym,knam,knmb,knsm,mspk,neos,next,nmch,nnnc,tkou,knam,tang,alog,knmb,nmch,neco"
+    "pidcode": "alog,chuc,dori,fnew,fsbk,fsym,knam,knmb,knsm,mspk,neos,next,nmch,nnnc,tkou,tang,neco,"
   },
   {
-    "prefix": "h_706",
-    "pidcode": "naac,"
+    "prefix": "h_706"
   },
   {
     "prefix": "h_706",
