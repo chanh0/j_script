@@ -24,6 +24,10 @@
     "pidcode": "mcsr,"
   },
   {
+    "prefix": 78,
+    "pidcode": "godr,"
+  },
+  {
     "prefix": 125,
     "pidcode": "umd,"
   },
