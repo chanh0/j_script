@@ -2837,12 +2837,6 @@
   },
   {
     "name": "溜池ゴロー",
-    "code": "MFYD",
-    "remark": "溜池ゴロー 2025",
-    "dum": "https://tameikegoro.jp"
-  },
-  {
-    "name": "溜池ゴロー",
     "code": "MBYD",
     "remark": "溜池ゴロー BEST 合輯",
     "dum": "https://tameikegoro.jp"
@@ -2965,6 +2959,12 @@
     "code": "MFOD",
     "remark": "FalenoTube .work 406MFOD",
     "dum": "Faleno"
+  },
+  {
+    "name": "溜池ゴロー",
+    "code": "MFYD",
+    "remark": "溜池ゴロー 2025",
+    "dum": "https://tameikegoro.jp"
   },
   {
     "name": "FalenoGroup",
@@ -3963,6 +3963,11 @@
     "dum": "https://premium-beauty.com"
   },
   {
+    "name": "妄想族",
+    "code": "PRIN",
+    "remark": "ザー汁王子/妄想族"
+  },
+  {
     "name": "PEMIUM",
     "code": "PRST",
     "remark": "Premium Stage 2023",
@@ -4649,6 +4654,11 @@
     "code": "STCV",
     "remark": "FalenoGroup - 素人CLOVER",
     "dum": "Faleno"
+  },
+  {
+    "name": "妄想族",
+    "code": "STEN",
+    "remark": "山と空/妄想族 2025"
   },
   {
     "name": "SOD",
@@ -5349,22 +5359,12 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "10/04/2025 18:15:45"
+    "dum": "10/04/2025 20:40:24"
   },
   {
     "name": "D-O-C",
     "code": "ZRR",
     "remark": "new 2023 end",
     "dum": "PRESTIGE"
-  },
-  {
-    "name": "妄想族",
-    "code": "STEN",
-    "remark": "山と空/妄想族 2025"
-  },
-  {
-    "name": "妄想族",
-    "code": "PRIN",
-    "remark": "ザー汁王子/妄想族"
   }
 ]
