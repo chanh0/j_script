@@ -1,7 +1,7 @@
 [
   {
     "ACC": "ACHJ-",
-    "remark": "11/04/2025 18:12:15"
+    "remark": "11/04/2025 18:12:42"
   },
   {
     "ACC": "JUQ-",
@@ -672,5 +672,9 @@
   {
     "ACC": "ASIA-",
     "remark": "Asia/妄想族"
+  },
+  {
+    "ACC": "GDAN-",
+    "remark": "MERCURY"
   }
 ]
