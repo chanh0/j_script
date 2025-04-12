@@ -468,7 +468,8 @@
     "msg": 483
   },
   {
-    "code": "paks,"
+    "code": "paks,",
+    "prefix": "h_1646"
   },
   {
     "code": "damx,",
@@ -480,7 +481,8 @@
   },
   {
     "code": "paox,",
-    "prefix": "h_1646"
+    "prefix": "h_1646",
+    "msg": 807
   },
   {
     "channel": "hamedori2nd",
