@@ -119,7 +119,10 @@
   },
   {
     "channel": "boing",
-    "marker": "【独占】BOING."
+    "marker": "【独占】BOING.",
+    "code": "ppz,",
+    "prefix": "null",
+    "msg": "563"
   },
   {
     "channel": "boinnakimito",
