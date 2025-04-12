@@ -507,13 +507,11 @@
     "channel": "hnaonayamisoudan",
     "marker": "Ｈなお悩み相談"
   },
+  {},
   {
     "channel": "hoihoiz",
+    "marker": "素人ホイホイZ",
     "code": "420hhl, 420erk, 420hoi, 420hpt, 420sth, 420sef, 420pow,"
-  },
-  {
-    "channel": "hoihoiz",
-    "marker": "素人ホイホイZ"
   },
   {
     "channel": "honikishirouto",
@@ -587,13 +585,11 @@
     "channel": "infuru",
     "marker": "いんふる"
   },
+  {},
   {
     "channel": "insta",
+    "marker": "いんすた",
     "code": "413instv,413insta,413insvx,413inon,413instna"
-  },
-  {
-    "channel": "insta",
-    "marker": "いんすた"
   },
   {
     "channel": "ion",
