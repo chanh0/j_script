@@ -410,7 +410,10 @@
   },
   {
     "channel": "gets",
-    "marker": "ゲッツ！！"
+    "marker": "ゲッツ！！",
+    "code": "gban,",
+    "prefix": "null",
+    "msg": 278
   },
   {
     "channel": "ghistory",
