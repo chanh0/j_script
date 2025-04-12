@@ -239,7 +239,8 @@
   },
   {
     "channel": "docking",
-    "marker": "ドッキング！！"
+    "marker": "ドッキング！！",
+    "code": "d,"
   },
   {
     "channel": "documentv",
