@@ -950,6 +950,12 @@
     "marker": "木曜だヨ！全員集合っ！"
   },
   {
+    "channel": "momoco",
+    "marker": "MOMOCO",
+    "code": "mmc",
+    "prefix": "null"
+  },
+  {
     "channel": "mona",
     "marker": "MONA"
   },
