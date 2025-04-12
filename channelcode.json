@@ -1386,10 +1386,7 @@
     "marker": "シロハメ"
   },
   {
-    "channel": "shirouto",
-    "code": "siro,",
-    "prefix": "null",
-    "msg": "null"
+    "channel": "shirouto"
   },
   {
     "channel": "shiroutoaan",
@@ -1518,7 +1515,10 @@
   },
   {
     "channel": "sirouto",
-    "marker": "【独占】シロウトTV"
+    "marker": "【独占】シロウトTV",
+    "code": "siro,",
+    "prefix": "null",
+    "msg": "null"
   },
   {
     "channel": "snapsnap",
