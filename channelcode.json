@@ -411,7 +411,7 @@
   {
     "channel": "gets",
     "marker": "ゲッツ！！",
-    "code": "gban,",
+    "code": "gban,gnab,gzap,",
     "prefix": "null",
     "msg": 278
   },
