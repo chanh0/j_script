@@ -1837,5 +1837,10 @@
     "code": "ech,",
     "prefix": "null",
     "msg": 789
+  },
+  {
+    "marker": "再教育",
+    "code": "ski,",
+    "prefix": "null"
   }
 ]
