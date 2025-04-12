@@ -786,7 +786,9 @@
   },
   {
     "channel": "kurokage",
-    "marker": "黒影"
+    "marker": "黒影",
+    "code": "kag,",
+    "msg": 407
   },
   {
     "channel": "kuromitsu",
