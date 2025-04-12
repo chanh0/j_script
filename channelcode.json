@@ -514,7 +514,9 @@
   },
   {
     "channel": "hentaisamurai",
-    "marker": "変態サムライ"
+    "marker": "変態サムライ",
+    "code": "hen,",
+    "msg": 353
   },
   {
     "channel": "HGG",
