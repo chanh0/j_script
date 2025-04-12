@@ -1063,13 +1063,11 @@
     "channel": "onacan",
     "marker": "オナCan"
   },
+  {},
   {
     "channel": "onemore",
+    "marker": "onemore",
     "code": "onex,"
-  },
-  {
-    "channel": "onemore",
-    "marker": "onemore"
   },
   {
     "channel": "onetime",
