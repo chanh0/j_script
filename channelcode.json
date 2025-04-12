@@ -1386,7 +1386,10 @@
   },
   {
     "channel": "seikyouiku",
-    "marker": "【独占】セイキョウイク"
+    "marker": "【独占】セイキョウイク",
+    "code": "sei,",
+    "prefix": "null",
+    "msg": "502"
   },
   {
     "channel": "seisyunsya",
