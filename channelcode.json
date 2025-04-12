@@ -487,7 +487,10 @@
   },
   {
     "channel": "haremtv",
-    "marker": "【独占】ハーレムTV"
+    "marker": "【独占】ハーレムTV",
+    "code": "hlm,",
+    "prefix": "null",
+    "msg": 436
   },
   {
     "channel": "hawaii",
