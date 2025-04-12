@@ -1150,14 +1150,14 @@
     "channel": "onemore",
     "marker": "onemore",
     "code": "onex,",
-    "msg": "13)"
+    "msg": "013"
   },
   {
     "channel": "onetime",
     "marker": "ONETIME",
     "code": "otim,",
     "prefix": "null",
-    "msg": 393
+    "msg": "393"
   },
   {
     "channel": "oppaichan",
