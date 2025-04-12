@@ -67,7 +67,9 @@
   },
   {
     "channel": "ara",
-    "marker": "【独占】ARA"
+    "marker": "【独占】ARA",
+    "prefix": "null",
+    "msg": 261
   },
   {
     "channel": "arena",
