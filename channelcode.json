@@ -1608,7 +1608,8 @@
   {
     "channel": "tag",
     "marker": "Tokyo After Girl",
-    "code": "afhl,"
+    "code": "afhl,",
+    "prefix": "fanza_amateur"
   },
   {
     "channel": "taiyoh",
