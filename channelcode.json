@@ -468,8 +468,7 @@
     "msg": 483
   },
   {
-    "code": "paks,",
-    "prefix": "h_1646"
+    "code": "paks,"
   },
   {
     "code": "damx,",
@@ -480,7 +479,7 @@
     "prefix": "h_1575"
   },
   {
-    "code": "paox,",
+    "code": "paox,paks,",
     "prefix": "h_1646",
     "msg": 807
   },
