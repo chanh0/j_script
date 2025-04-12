@@ -611,13 +611,11 @@
     "channel": "izakaya",
     "marker": "居酒屋モニタリング"
   },
+  {},
   {
     "channel": "jackson",
+    "marker": "Jackson",
     "code": "390jac, 390jnt,"
-  },
-  {
-    "channel": "jackson",
-    "marker": "Jackson"
   },
   {
     "channel": "jiraikeijoshibijin",
