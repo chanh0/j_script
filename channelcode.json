@@ -223,13 +223,11 @@
     "channel": "digitalark",
     "marker": "デジタルアーク"
   },
+  {},
   {
     "channel": "doc",
+    "marker": "DOC",
     "code": "ddh,mfc,mmnm,simt,sima,"
-  },
-  {
-    "channel": "doc",
-    "marker": "DOC"
   },
   {
     "channel": "docking",
@@ -493,11 +491,11 @@
   },
   {
     "channel": "hitodumasan",
-    "marker": "人妻さん"
+    "marker": "人妻さん",
+    "code": "776hdsn,776hdom,"
   },
   {
-    "channel": "hitozumasan",
-    "code": "776hdsn,776hdom,"
+    "channel": "hitozumasan"
   },
   {
     "channel": "hiyoko",
