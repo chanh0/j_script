@@ -104,7 +104,8 @@
   {
     "channel": "bibid",
     "marker": "BiBiD",
-    "code": "dht,"
+    "code": "dht,",
+    "msg": 522
   },
   {
     "channel": "boinbb",
