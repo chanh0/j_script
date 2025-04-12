@@ -1138,6 +1138,11 @@
     "marker": "お父さんの引き出し"
   },
   {
+    "channel": "outdoor",
+    "marker": "OUTDOOR",
+    "code": "cmp,"
+  },
+  {
     "channel": "oyajino",
     "marker": "親父の個撮"
   },
