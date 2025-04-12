@@ -891,7 +891,9 @@
   },
   {
     "channel": "matchingtv",
-    "marker": "マッチングTV"
+    "marker": "マッチングTV",
+    "code": "mag,",
+    "msg": 719
   },
   {
     "channel": "materiall",
