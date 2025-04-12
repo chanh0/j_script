@@ -218,7 +218,8 @@
   },
   {
     "channel": "diego",
-    "marker": "【独占】DIEGO"
+    "marker": "【独占】DIEGO",
+    "msg": 459
   },
   {
     "channel": "digista",
