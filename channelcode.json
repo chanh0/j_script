@@ -1671,7 +1671,7 @@
     "channel": "toprunner",
     "marker": "【独占】TOPランナー",
     "code": "yzf,fzr,",
-    "prefix": "fanza_amateur",
+    "prefix": "null",
     "msg": 718
   },
   {
@@ -1742,7 +1742,7 @@
     "channel": "vlogdiary",
     "marker": "【独占】VLog Diary",
     "code": "log,",
-    "prefix": "fanza_amateur",
+    "prefix": "null",
     "msg": 535
   },
   {
