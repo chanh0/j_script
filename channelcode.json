@@ -374,7 +374,9 @@
   },
   {
     "channel": "galpoyo",
-    "marker": "ギャルぽよ。"
+    "marker": "ギャルぽよ。",
+    "code": "gph,",
+    "prefix": "null"
   },
   {
     "channel": "ganbou",
