@@ -1,85 +1,5 @@
 [
   {
-    "channel": "fanza_amateur",
-    "code": "sth,smjs,yarim,tku,smjk,ppg,nost,jdg,hmdnc,gerk,smub,nost,spay,sbkd,hdom, srt, work, tcnb, sna, smjx, shinki, refuck, orena, bskc, jnkd,mfcn,mfcs,dctv,dam,eva,mfcl,yarim,simt,sima,"
-  },
-  {
-    "channel": "prestige",
-    "code": "abw, abp, abf, fft, fit, kit, kbr, ppx,"
-  },
-  {
-    "channel": "luxutv",
-    "code": "259luxu,"
-  },
-  {
-    "channel": "nanpatv",
-    "code": "200gana,"
-  },
-  {
-    "channel": "shirouto",
-    "code": "siro,"
-  },
-  {
-    "channel": "hoihoiz",
-    "code": "420hhl, 420erk, 420hoi, 420hpt, 420sth, 420sef, 420pow,"
-  },
-  {
-    "channel": "orenoshirouto",
-    "code": "230oreb, 230orecz, 230oremo, 230orev, 230oresd,"
-  },
-  {
-    "channel": "kanbi",
-    "code": "336knb, 336fft,"
-  },
-  {
-    "channel": "jackson",
-    "code": "390jac, 390jnt,"
-  },
-  {
-    "channel": "prestigepremium",
-    "code": "300mium, 300maan,"
-  },
-  {
-    "channel": "onemore",
-    "code": "onex,"
-  },
-  {
-    "channel": "snapsnap",
-    "code": "786sna,"
-  },
-  {
-    "channel": "mahirunokoibito",
-    "code": "813mako,"
-  },
-  {
-    "channel": "shiroutoclover",
-    "code": "529stcv,529stcvs,"
-  },
-  {
-    "channel": "anyakou",
-    "code": "829anya,"
-  },
-  {
-    "channel": "doc",
-    "code": "ddh,mfc,mmnm,simt,sima,"
-  },
-  {
-    "channel": "hitozumasan",
-    "code": "776hdsn,776hdom,"
-  },
-  {
-    "channel": "insta",
-    "code": "413instv,413insta,413insvx,413inon,413instna"
-  },
-  {
-    "channel": "yarimanbitches",
-    "code": "547yaria,"
-  },
-  {
-    "channel": "nextbb",
-    "code": "052vnds,"
-  },
-  {
     "channel": "abashiri",
     "marker": "網走映像"
   },
@@ -130,6 +50,10 @@
   {
     "channel": "anokotokyouyaribeyade",
     "marker": "あの娘と今日ヤリ部屋で"
+  },
+  {
+    "channel": "anyakou",
+    "code": "829anya,"
   },
   {
     "channel": "aozora",
@@ -301,6 +225,10 @@
   },
   {
     "channel": "doc",
+    "code": "ddh,mfc,mmnm,simt,sima,"
+  },
+  {
+    "channel": "doc",
     "marker": "DOC"
   },
   {
@@ -390,6 +318,10 @@
   {
     "channel": "falenogroup",
     "marker": "FALENOGROUP"
+  },
+  {
+    "channel": "fanza_amateur",
+    "code": "sth,smjs,yarim,tku,smjk,ppg,nost,jdg,hmdnc,gerk,smub,nost,spay,sbkd,hdom, srt, work, tcnb, sna, smjx, shinki, refuck, orena, bskc, jnkd,mfcn,mfcs,dctv,dam,eva,mfcl,yarim,simt,sima,"
   },
   {
     "channel": "fechigan",
@@ -564,6 +496,10 @@
     "marker": "人妻さん"
   },
   {
+    "channel": "hitozumasan",
+    "code": "776hdsn,776hdom,"
+  },
+  {
     "channel": "hiyoko",
     "marker": "ひよこ"
   },
@@ -574,6 +510,10 @@
   {
     "channel": "hnaonayamisoudan",
     "marker": "Ｈなお悩み相談"
+  },
+  {
+    "channel": "hoihoiz",
+    "code": "420hhl, 420erk, 420hoi, 420hpt, 420sth, 420sef, 420pow,"
   },
   {
     "channel": "hoihoiz",
@@ -653,6 +593,10 @@
   },
   {
     "channel": "insta",
+    "code": "413instv,413insta,413insvx,413inon,413instna"
+  },
+  {
+    "channel": "insta",
     "marker": "いんすた"
   },
   {
@@ -674,6 +618,10 @@
   {
     "channel": "izakaya",
     "marker": "居酒屋モニタリング"
+  },
+  {
+    "channel": "jackson",
+    "code": "390jac, 390jnt,"
   },
   {
     "channel": "jackson",
@@ -750,6 +698,10 @@
   {
     "channel": "kamipai",
     "marker": "カミパイ！"
+  },
+  {
+    "channel": "kanbi",
+    "code": "336knb, 336fft,"
   },
   {
     "channel": "kanbi",
@@ -853,6 +805,10 @@
   },
   {
     "channel": "luxutv",
+    "code": "259luxu,"
+  },
+  {
+    "channel": "luxutv",
     "marker": "ラグジュTV"
   },
   {
@@ -874,6 +830,10 @@
   {
     "channel": "magictabloid",
     "marker": "マジック"
+  },
+  {
+    "channel": "mahirunokoibito",
+    "code": "813mako,"
   },
   {
     "channel": "makaroni",
@@ -1045,6 +1005,10 @@
   },
   {
     "channel": "nanpatv",
+    "code": "200gana,"
+  },
+  {
+    "channel": "nanpatv",
     "marker": "【独占】ナンパTV"
   },
   {
@@ -1054,6 +1018,10 @@
   {
     "channel": "next",
     "marker": "NEXT"
+  },
+  {
+    "channel": "nextbb",
+    "code": "052vnds,"
   },
   {
     "channel": "niihao",
@@ -1113,6 +1081,10 @@
   },
   {
     "channel": "onemore",
+    "code": "onex,"
+  },
+  {
+    "channel": "onemore",
     "marker": "onemore"
   },
   {
@@ -1130,6 +1102,10 @@
   {
     "channel": "oppiken",
     "marker": "おっぱい研究所"
+  },
+  {
+    "channel": "orenoshirouto",
+    "code": "230oreb, 230orecz, 230oremo, 230orev, 230oresd,"
   },
   {
     "channel": "orenoshiroutoz",
@@ -1241,7 +1217,15 @@
   },
   {
     "channel": "prestige",
+    "code": "abw, abp, abf, fft, fit, kit, kbr, ppx,"
+  },
+  {
+    "channel": "prestige",
     "marker": "プレステージ"
+  },
+  {
+    "channel": "prestigepremium",
+    "code": "300mium, 300maan,"
   },
   {
     "channel": "prestigepremium",
@@ -1392,6 +1376,10 @@
     "marker": "シロハメ"
   },
   {
+    "channel": "shirouto",
+    "code": "siro,"
+  },
+  {
     "channel": "shiroutoaan",
     "marker": "しろうとあぁん！"
   },
@@ -1402,6 +1390,10 @@
   {
     "channel": "shiroutoanan",
     "marker": "素人あんあん"
+  },
+  {
+    "channel": "shiroutoclover",
+    "code": "529stcv,529stcvs,"
   },
   {
     "channel": "shiroutoclover",
@@ -1518,6 +1510,10 @@
   {
     "channel": "sirouto",
     "marker": "【独占】シロウトTV"
+  },
+  {
+    "channel": "snapsnap",
+    "code": "786sna,"
   },
   {
     "channel": "snapsnap",
@@ -1778,6 +1774,10 @@
   {
     "channel": "yareruparadise",
     "marker": "ヤレるパラダイス！"
+  },
+  {
+    "channel": "yarimanbitches",
+    "code": "547yaria,"
   },
   {
     "channel": "yarimanbitches",
