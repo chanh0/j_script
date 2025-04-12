@@ -1871,7 +1871,8 @@
   {
     "channel": "zokusei",
     "marker": "最強属性",
-    "code": "cpde,"
+    "code": "cpde,",
+    "msg": 296
   },
   {
     "channel": "zooo",
