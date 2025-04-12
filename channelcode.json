@@ -68,6 +68,7 @@
   {
     "channel": "ara",
     "marker": "【独占】ARA",
+    "code": "ara,",
     "prefix": "null",
     "msg": 261
   },
