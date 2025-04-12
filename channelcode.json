@@ -782,7 +782,9 @@
   },
   {
     "channel": "kurofune",
-    "marker": "【独占先行配信】黒船"
+    "marker": "【独占先行配信】黒船",
+    "prefix": "nulll",
+    "msg": 326
   },
   {
     "channel": "kurokage",
