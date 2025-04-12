@@ -953,7 +953,8 @@
     "channel": "momoco",
     "marker": "MOMOCO",
     "code": "mmc",
-    "prefix": "null"
+    "prefix": "null",
+    "msg": 812
   },
   {
     "channel": "mona",
