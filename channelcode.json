@@ -295,7 +295,10 @@
   },
   {
     "channel": "enema",
-    "marker": "【独占】ENEMA"
+    "marker": "【独占】ENEMA",
+    "code": "ene,",
+    "prefix": "null",
+    "msg": 550
   },
   {
     "channel": "erotimepop",
