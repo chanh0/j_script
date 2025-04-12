@@ -1197,21 +1197,17 @@
     "channel": "pornografh",
     "marker": "ポルノグラフ"
   },
+  {},
   {
     "channel": "prestige",
+    "marker": "プレステージ",
     "code": "abw, abp, abf, fft, fit, kit, kbr, ppx,"
   },
-  {
-    "channel": "prestige",
-    "marker": "プレステージ"
-  },
+  {},
   {
     "channel": "prestigepremium",
+    "marker": "【独占】プレステージプレミアム",
     "code": "300mium, 300maan,"
-  },
-  {
-    "channel": "prestigepremium",
-    "marker": "【独占】プレステージプレミアム"
   },
   {
     "channel": "primo",
