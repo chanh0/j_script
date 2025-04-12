@@ -791,13 +791,11 @@
     "channel": "loverabbits",
     "marker": "ラブラビッツ"
   },
+  {},
   {
     "channel": "luxutv",
+    "marker": "ラグジュTV",
     "code": "259luxu,"
-  },
-  {
-    "channel": "luxutv",
-    "marker": "ラグジュTV"
   },
   {
     "channel": "machiavelli",
