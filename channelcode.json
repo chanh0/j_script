@@ -493,6 +493,12 @@
     "marker": "HGG"
   },
   {
+    "channel": "hhh",
+    "marker": "HHH",
+    "code": "hhh,",
+    "prefix": "null"
+  },
+  {
     "channel": "hibino",
     "marker": "ヒビノ"
   },
