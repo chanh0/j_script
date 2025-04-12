@@ -1404,7 +1404,10 @@
   },
   {
     "channel": "shiroutoconnection",
-    "marker": "素人こねくしょん"
+    "marker": "素人こねくしょん",
+    "code": "srcn,",
+    "prefix": "null",
+    "msg": 417
   },
   {
     "channel": "shiroutodaisuki",
