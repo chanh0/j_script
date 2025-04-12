@@ -1487,13 +1487,11 @@
     "channel": "sirouto",
     "marker": "【独占】シロウトTV"
   },
+  {},
   {
     "channel": "snapsnap",
+    "marker": "SNAP×SNAP",
     "code": "786sna,"
-  },
-  {
-    "channel": "snapsnap",
-    "marker": "SNAP×SNAP"
   },
   {
     "channel": "snsdetsunagatta",
