@@ -1833,7 +1833,8 @@
     "channel": "yamiyami",
     "marker": "【独占】ヤミヤミ",
     "code": "ymym,",
-    "prefix": "null"
+    "prefix": "null",
+    "msg": 777
   },
   {
     "channel": "yareruparadise",
