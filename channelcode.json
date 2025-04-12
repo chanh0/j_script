@@ -877,7 +877,8 @@
     "channel": "magictabloid",
     "marker": "マジック",
     "code": "zrc,",
-    "prefix": "h_1736"
+    "prefix": "h_1736",
+    "msg": 99
   },
   {
     "channel": "mahirunokoibito",
