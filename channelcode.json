@@ -464,7 +464,8 @@
   {
     "channel": "hamechan",
     "marker": "はめちゃん。",
-    "code": "sgk,"
+    "code": "sgk,dam,pa0,mado,",
+    "msg": 483
   },
   {
     "channel": "hamedori2nd",
