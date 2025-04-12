@@ -1030,7 +1030,8 @@
   {
     "channel": "mywife",
     "marker": "舞ワイフ",
-    "code": "my,"
+    "code": "my,",
+    "msg": 292
   },
   {
     "channel": "nagae",
