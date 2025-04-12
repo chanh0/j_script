@@ -990,12 +990,12 @@
     "marker": "ななせ"
   },
   {
-    "channel": "nanpatv",
-    "code": "200gana,"
+    "channel": "nanpatv"
   },
   {
     "channel": "nanpatv",
-    "marker": "【独占】ナンパTV"
+    "marker": "【独占】ナンパTV",
+    "code": "200gana,"
   },
   {
     "channel": "neoblack",
