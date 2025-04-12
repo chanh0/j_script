@@ -1658,7 +1658,10 @@
   },
   {
     "channel": "tokyofurinfile",
-    "marker": "TOKYO不倫File"
+    "marker": "TOKYO不倫File",
+    "code": "mdmu,",
+    "prefix": "fanza_amateur",
+    "msg": 784
   },
   {
     "channel": "tokyotintin",
