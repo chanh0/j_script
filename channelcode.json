@@ -81,7 +81,10 @@
   },
   {
     "channel": "around",
-    "marker": "AROUND"
+    "marker": "AROUND",
+    "code": "arso,",
+    "prefix": "h_1378",
+    "msg": "null"
   },
   {
     "channel": "asarivr",
