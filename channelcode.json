@@ -1740,7 +1740,10 @@
   },
   {
     "channel": "vlogdiary",
-    "marker": "【独占】VLog Diary"
+    "marker": "【独占】VLog Diary",
+    "code": "log,",
+    "prefix": "fanza_amateur",
+    "msg": 535
   },
   {
     "channel": "volare",
