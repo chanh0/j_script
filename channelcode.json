@@ -1669,7 +1669,10 @@
   },
   {
     "channel": "toprunner",
-    "marker": "【独占】TOPランナー"
+    "marker": "【独占】TOPランナー",
+    "code": "yzf,fzr,",
+    "prefix": "fanza_amateur",
+    "msg": 718
   },
   {
     "channel": "torado",
