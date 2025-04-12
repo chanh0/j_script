@@ -444,7 +444,10 @@
   },
   {
     "channel": "goodbyecherryboy",
-    "marker": "【独占】GOOD-BYE-CHERRYBOY"
+    "marker": "【独占】GOOD-BYE-CHERRYBOY",
+    "code": "gcb,",
+    "prefix": "null",
+    "msg": "485"
   },
   {
     "channel": "goonies",
