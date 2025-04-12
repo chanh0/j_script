@@ -689,13 +689,11 @@
     "channel": "kamipai",
     "marker": "カミパイ！"
   },
+  {},
   {
     "channel": "kanbi",
+    "marker": "【独占】KANBi",
     "code": "336knb, 336fft,"
-  },
-  {
-    "channel": "kanbi",
-    "marker": "【独占】KANBi"
   },
   {
     "channel": "kirakirawife",
