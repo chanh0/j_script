@@ -1580,7 +1580,9 @@
   },
   {
     "channel": "sukesuke",
-    "marker": "SUKESUKE"
+    "marker": "SUKESUKE",
+    "code": "ichk",
+    "msg": 368
   },
   {
     "channel": "sun",
