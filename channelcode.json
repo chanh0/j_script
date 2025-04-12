@@ -839,7 +839,8 @@
   {
     "channel": "luxutv",
     "marker": "ラグジュTV",
-    "code": "259luxu,"
+    "code": "259luxu,",
+    "prefix": "null"
   },
   {
     "channel": "machiavelli",
