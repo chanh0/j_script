@@ -1153,7 +1153,10 @@
   },
   {
     "channel": "onetime",
-    "marker": "ONETIME"
+    "marker": "ONETIME",
+    "code": "otim,",
+    "prefix": "null",
+    "msg": 393
   },
   {
     "channel": "oppaichan",
