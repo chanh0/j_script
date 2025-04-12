@@ -861,7 +861,9 @@
   },
   {
     "channel": "machikado",
-    "marker": "街角シコいンタビュー"
+    "marker": "街角シコいンタビュー",
+    "code": "maan,",
+    "msg": 300
   },
   {
     "channel": "maetelholmone",
