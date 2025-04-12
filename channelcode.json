@@ -1831,7 +1831,9 @@
   },
   {
     "channel": "yamiyami",
-    "marker": "【独占】ヤミヤミ"
+    "marker": "【独占】ヤミヤミ",
+    "code": "ymym,",
+    "prefix": "null"
   },
   {
     "channel": "yareruparadise",
