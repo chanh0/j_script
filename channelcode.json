@@ -103,7 +103,8 @@
   },
   {
     "channel": "bibid",
-    "marker": "BiBiD"
+    "marker": "BiBiD",
+    "code": "dht,"
   },
   {
     "channel": "boinbb",
