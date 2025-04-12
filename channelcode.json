@@ -240,7 +240,9 @@
   {
     "channel": "docking",
     "marker": "ドッキング！！",
-    "code": "d,"
+    "code": "d,",
+    "prefix": "fanza_amateur",
+    "msg": 797
   },
   {
     "channel": "documentv",
