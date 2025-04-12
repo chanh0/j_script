@@ -783,6 +783,7 @@
   {
     "channel": "kurofune",
     "marker": "【独占先行配信】黒船",
+    "code": "fct,kntr,eva,mama,mgk,",
     "prefix": "nulll",
     "msg": 326
   },
@@ -1869,7 +1870,8 @@
   },
   {
     "channel": "zokusei",
-    "marker": "最強属性"
+    "marker": "最強属性",
+    "code": "cpde,"
   },
   {
     "channel": "zooo",
