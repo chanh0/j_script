@@ -464,11 +464,12 @@
   {
     "channel": "hamechan",
     "marker": "はめちゃん。",
-    "code": "sgk,dam,pa0,mado,",
+    "code": "sgk,dam,pao,mado,",
     "msg": 483
   },
   {
-    "code": "damx,"
+    "code": "damx,",
+    "prefix": "h-1647"
   },
   {
     "code": "sgkx,",
