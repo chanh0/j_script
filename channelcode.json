@@ -163,7 +163,10 @@
   },
   {
     "channel": "buzzdocument",
-    "marker": "BUZZDOCUMENT"
+    "marker": "BUZZDOCUMENT",
+    "code": "bzdc,",
+    "prefix": "null",
+    "msg": "409"
   },
   {
     "channel": "cah",
