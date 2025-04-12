@@ -863,6 +863,7 @@
     "channel": "machikado",
     "marker": "街角シコいンタビュー",
     "code": "maan,",
+    "prefix": "null",
     "msg": 300
   },
   {
@@ -1028,7 +1029,8 @@
   },
   {
     "channel": "mywife",
-    "marker": "舞ワイフ"
+    "marker": "舞ワイフ",
+    "code": "my,"
   },
   {
     "channel": "nagae",
