@@ -376,7 +376,8 @@
     "channel": "galpoyo",
     "marker": "ギャルぽよ。",
     "code": "gph,",
-    "prefix": "null"
+    "prefix": "null",
+    "msg": 767
   },
   {
     "channel": "ganbou",
