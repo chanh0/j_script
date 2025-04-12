@@ -1140,7 +1140,9 @@
   {
     "channel": "outdoor",
     "marker": "OUTDOOR",
-    "code": "cmp,"
+    "code": "cmp,",
+    "prefix": "null",
+    "msg": 804
   },
   {
     "channel": "oyajino",
