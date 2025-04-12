@@ -1060,6 +1060,8 @@
   {
     "channel": "ntrnet",
     "marker": "【独占】NTR.net",
+    "code": "ntr,",
+    "prefix": "null",
     "msg": 348
   },
   {
