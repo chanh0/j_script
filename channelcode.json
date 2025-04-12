@@ -246,7 +246,10 @@
   },
   {
     "channel": "documentv",
-    "marker": "【独占】ドキュメンTV"
+    "marker": "【独占】ドキュメンTV",
+    "code": "dcv,",
+    "prefix": "null",
+    "msg": 277
   },
   {
     "channel": "dogear",
