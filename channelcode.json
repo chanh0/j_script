@@ -801,8 +801,8 @@
   {
     "channel": "kurofune",
     "marker": "【独占先行配信】黒船",
-    "code": "fct,kntr,eva,mama,mgk,",
-    "prefix": "nulll",
+    "code": "fct,kntr,eva,mama,mgk,kfne,",
+    "prefix": "fanza_amateur",
     "msg": 326
   },
   {
