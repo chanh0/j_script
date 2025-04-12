@@ -467,7 +467,9 @@
     "code": "sgk,dam,pa0,mado,",
     "msg": 483
   },
-  {},
+  {
+    "code": "sgkx,"
+  },
   {
     "channel": "hamedori2nd",
     "marker": "ハメドリネットワークセカンドエディション"
