@@ -1439,9 +1439,7 @@
   {
     "channel": "shiroutoconnection",
     "marker": "素人こねくしょん",
-    "code": "srcn,",
-    "prefix": "fanza_amateur",
-    "msg": "417"
+    "code": "417srcn,"
   },
   {
     "channel": "shiroutodaisuki",
@@ -1454,9 +1452,8 @@
   {
     "channel": "shiroutohamejirou",
     "marker": "【独占】素人ハメ次郎",
-    "code": "shmj,",
-    "prefix": "null",
-    "msg": "581"
+    "code": "581shmj,",
+    "prefix": "null"
   },
   {
     "channel": "shiroutokyubin",
