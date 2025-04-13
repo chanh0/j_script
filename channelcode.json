@@ -1095,7 +1095,8 @@
   {
     "channel": "nanpatv",
     "marker": "【独占】ナンパTV",
-    "code": "200gana,"
+    "code": "200gana,",
+    "msg": "200"
   },
   {
     "channel": "neoblack",
