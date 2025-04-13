@@ -766,7 +766,7 @@
   {
     "channel": "kanbi",
     "marker": "【独占】KANBi",
-    "code": "336knb, 336fft,",
+    "code": "knb,fft,",
     "prefix": "null",
     "msg": "336"
   },
@@ -875,7 +875,7 @@
   {
     "channel": "luxutv",
     "marker": "ラグジュTV",
-    "code": "259luxu,",
+    "code": "luxu,",
     "prefix": "null"
   },
   {
