@@ -55,8 +55,7 @@
   },
   {
     "channel": "anyakou",
-    "code": "anya,",
-    "msg": "829"
+    "code": "829anya,"
   },
   {
     "channel": "aozora",
@@ -69,9 +68,8 @@
   {
     "channel": "ara",
     "marker": "【独占】ARA",
-    "code": "ara,",
-    "prefix": "null",
-    "msg": "261"
+    "code": "261ara,",
+    "prefix": "null"
   },
   {
     "channel": "arena",
