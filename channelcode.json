@@ -1196,7 +1196,8 @@
   },
   {
     "channel": "orenoshirouto",
-    "code": "230oreb, 230orecz, 230oremo, 230orev, 230oresd,"
+    "code": "230oreb, 230orecz, 230oremo, 230orev, 230oresd,",
+    "msg": "230"
   },
   {
     "channel": "orenoshiroutoz",
