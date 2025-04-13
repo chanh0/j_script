@@ -255,14 +255,14 @@
     "marker": "ドッキング！！",
     "code": "d,",
     "prefix": "fanza_amateur",
-    "msg": 797
+    "msg": "797"
   },
   {
     "channel": "documentv",
     "marker": "【独占】ドキュメンTV",
     "code": "dcv,",
     "prefix": "null",
-    "msg": 277
+    "msg": "277"
   },
   {
     "channel": "dogear",
