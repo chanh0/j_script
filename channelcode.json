@@ -876,7 +876,8 @@
     "channel": "luxutv",
     "marker": "ラグジュTV",
     "code": "luxu,",
-    "prefix": "null"
+    "prefix": "null",
+    "msg": "259"
   },
   {
     "channel": "machiavelli",
@@ -903,7 +904,8 @@
   },
   {
     "channel": "mahirunokoibito",
-    "code": "813mako,"
+    "code": "813mako,",
+    "msg": "813"
   },
   {
     "channel": "makaroni",
