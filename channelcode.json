@@ -1317,7 +1317,7 @@
   {
     "channel": "prestige",
     "marker": "プレステージ",
-    "code": "abw, abp, abf, fft, fit, kit, kbr, ppx,"
+    "code": "abw,abp,abf,fft,fit,kit,kbr,ppx,"
   },
   {
     "channel": "prestigepremium",
@@ -1487,7 +1487,8 @@
   {
     "channel": "shiroutoclover",
     "marker": "素人CLOVER",
-    "code": "529stcv,529stcvs,"
+    "code": "529stcv,529stcvs,",
+    "msg": "529"
   },
   {
     "channel": "shiroutoconnection",
