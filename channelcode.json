@@ -164,7 +164,7 @@
   {
     "channel": "buzzdocument",
     "marker": "BUZZDOCUMENT",
-    "code": "bzdc,",
+    "code": "409bzdc,",
     "prefix": "null",
     "msg": "409"
   },
