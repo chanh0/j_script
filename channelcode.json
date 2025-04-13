@@ -1932,18 +1932,18 @@
     "marker": "えちサポ",
     "code": "ech,",
     "prefix": "null",
-    "msg": 789
+    "msg": "789"
   },
   {
     "marker": "再教育",
     "code": "ski,",
     "prefix": "null",
-    "msg": 816
+    "msg": "816"
   },
   {
     "marker": "ハメタバース",
     "code": "hmt,",
     "prefix": "fanza_amateur",
-    "msg": 598
+    "msg": "598"
   }
 ]
