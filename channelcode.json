@@ -1470,9 +1470,8 @@
   {
     "channel": "shiroutonannan",
     "marker": "シロウトなんなん",
-    "code": "dht,",
-    "prefix": "null",
-    "msg": "573"
+    "code": "573dht,",
+    "prefix": "null"
   },
   {
     "channel": "shiroutonanpavariety",
