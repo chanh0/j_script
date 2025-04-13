@@ -768,14 +768,12 @@
   {
     "channel": "kurofune",
     "marker": "【独占先行配信】黒船",
-    "code": "326fct,326kntr,326eva,326mama,326mgk,326kfne,",
-    "prefix": "fanza_amateur"
+    "code": "326fct,326kntr,326eva,326mama,326mgk,326kfne,"
   },
   {
     "channel": "kurokage",
     "marker": "黒影",
-    "code": "407kag,",
-    "prefix": "fanza_amateur"
+    "code": "407kag,"
   },
   {
     "channel": "kuromitsu",
