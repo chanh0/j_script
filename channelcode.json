@@ -520,9 +520,8 @@
   {
     "channel": "hhh",
     "marker": "HHH",
-    "code": "hhh,",
-    "prefix": "null",
-    "msg": "451"
+    "code": "451hhh,",
+    "prefix": "null"
   },
   {
     "channel": "hibino",
@@ -535,8 +534,7 @@
   {
     "channel": "hitodumasan",
     "marker": "人妻さん",
-    "code": "776hdsn,776hdom,",
-    "msg": "776"
+    "code": "776hdsn,776hdom,"
   },
   {
     "channel": "hiyoko",
