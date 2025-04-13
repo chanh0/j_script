@@ -655,8 +655,7 @@
   {
     "channel": "insta",
     "marker": "いんすた",
-    "code": "instv,insta,insvx,inon,instna,",
-    "msg": "413"
+    "code": "413instv,413insta,413insvx,413inon,413instna,"
   },
   {
     "channel": "ion",
