@@ -348,10 +348,7 @@
     "channel": "falenogroup",
     "marker": "FALENOGROUP"
   },
-  {
-    "channel": "fanza_amateur",
-    "code": "sth,smjs,yarim,tku,smjk,ppg,nost,jdg,hmdnc,gerk,smub,nost,spay,sbkd,hdom, srt, work, tcnb, sna, smjx, shinki, refuck, orena, bskc, jnkd,mfcn,mfcs,dctv,dam,eva,mfcl,yarim,simt,sima,"
-  },
+  {},
   {
     "channel": "fechigan",
     "marker": "フェチ眼"
@@ -2411,105 +2408,139 @@
     "prefix": "h_897"
   },
   {
-    "code": "sth"
+    "code": "sth",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "smjs"
+    "code": "smjs",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "yarim"
+    "code": "yarim",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "tku"
+    "code": "tku",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "smjk"
+    "code": "smjk",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "ppg"
+    "code": "ppg",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "nost"
+    "code": "nost",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "jdg"
+    "code": "jdg",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "hmdnc"
+    "code": "hmdnc",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "gerk"
+    "code": "gerk",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "smub"
+    "code": "smub",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "nost"
+    "code": "nost",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "spay"
+    "code": "spay",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "sbkd"
+    "code": "sbkd",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "hdom"
+    "code": "hdom",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "srt"
+    "code": "srt",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "work"
+    "code": "work",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "tcnb"
+    "code": "tcnb",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "sna"
+    "code": "sna",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "smjx"
+    "code": "smjx",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "shinki"
+    "code": "shinki",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "refuck"
+    "code": "refuck",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "orena"
+    "code": "orena",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "bskc"
+    "code": "bskc",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "jnkd"
+    "code": "jnkd",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "mfcn"
+    "code": "mfcn",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "mfcs"
+    "code": "mfcs",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "dctv"
+    "code": "dctv",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "dam"
+    "code": "dam",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "eva"
+    "code": "eva",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "mfcl"
+    "code": "mfcl",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "yarim"
+    "code": "yarim",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "simt"
+    "code": "simt",
+    "prefix": "fanza_amateur"
   },
   {
-    "code": "sima"
+    "code": "sima",
+    "prefix": "fanza_amateur"
   }
 ]
