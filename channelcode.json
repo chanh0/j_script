@@ -766,7 +766,7 @@
     "marker": "【独占】KANBi",
     "code": "336knb, 336fft,",
     "prefix": "null",
-    "msg": 336
+    "msg": "336"
   },
   {
     "channel": "kirakirawife",
@@ -813,14 +813,14 @@
     "marker": "【独占先行配信】黒船",
     "code": "fct,kntr,eva,mama,mgk,kfne,",
     "prefix": "fanza_amateur",
-    "msg": 326
+    "msg": "326"
   },
   {
     "channel": "kurokage",
     "marker": "黒影",
     "code": "kag,",
     "prefix": "fanza_amateur",
-    "msg": 407
+    "msg": "407"
   },
   {
     "channel": "kuromitsu",
@@ -897,7 +897,7 @@
     "marker": "マジック",
     "code": "zrc,tks,kkj,rix,",
     "prefix": "h_1736",
-    "msg": 99
+    "msg": "099"
   },
   {
     "channel": "mahirunokoibito",
