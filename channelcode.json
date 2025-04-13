@@ -214,7 +214,9 @@
   },
   {
     "channel": "dandy",
-    "marker": "DANDY"
+    "marker": "DANDY",
+    "code": "dandan",
+    "msg": 104
   },
   {
     "channel": "dennourasputin",
