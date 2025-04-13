@@ -500,9 +500,8 @@
   {
     "channel": "haremtv",
     "marker": "【独占】ハーレムTV",
-    "code": "hlm,",
-    "prefix": "null",
-    "msg": "436"
+    "code": "436hlm,",
+    "prefix": "null"
   },
   {
     "channel": "hawaii",
@@ -511,9 +510,8 @@
   {
     "channel": "hentaisamurai",
     "marker": "変態サムライ",
-    "code": "hen,",
-    "prefix": "null",
-    "msg": "353"
+    "code": "353hen,",
+    "prefix": "null"
   },
   {
     "channel": "HGG",
