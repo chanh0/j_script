@@ -1620,9 +1620,7 @@
   {
     "channel": "sukesuke",
     "marker": "SUKESUKE",
-    "code": "ichk,",
-    "prefix": "fanza_amateur",
-    "msg": "368"
+    "code": "368ichk,"
   },
   {
     "channel": "sun",
@@ -1696,9 +1694,7 @@
   {
     "channel": "tokyofurinfile",
     "marker": "TOKYO不倫File",
-    "code": "mdmu,",
-    "prefix": "fanza_amateur",
-    "msg": "784"
+    "code": "784mdmu,"
   },
   {
     "channel": "tokyotintin",
@@ -1707,7 +1703,7 @@
   {
     "channel": "toprunner",
     "marker": "【独占】TOPランナー",
-    "code": "yzf,fzr,",
+    "code": "718yzf,718fzr,",
     "prefix": "null",
     "msg": "718"
   },
