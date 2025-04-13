@@ -216,7 +216,7 @@
     "channel": "dandy",
     "marker": "DANDY",
     "code": "dandan",
-    "msg": 104
+    "msg": "104"
   },
   {
     "channel": "dennourasputin",
@@ -235,7 +235,7 @@
     "marker": "【独占】DIEGO",
     "code": "ten,",
     "prefix": "null",
-    "msg": 459
+    "msg": "459"
   },
   {
     "channel": "digista",
