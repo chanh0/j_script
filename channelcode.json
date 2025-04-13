@@ -1131,8 +1131,7 @@
     "channel": "onetime",
     "marker": "ONETIME",
     "code": "393otim,",
-    "prefix": "null",
-    "msg": "393"
+    "prefix": "null"
   },
   {
     "channel": "oppaichan",
