@@ -502,7 +502,9 @@
   },
   {
     "channel": "hamedori2nd",
-    "marker": "ハメドリネットワークセカンドエディション"
+    "marker": "ハメドリネットワークセカンドエディション",
+    "code": "hmdnv,",
+    "msg": 328
   },
   {
     "channel": "hameman",
