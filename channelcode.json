@@ -1892,7 +1892,8 @@
   {
     "channel": "yarimanbitches",
     "marker": "ヤリマンビッチーズ",
-    "code": "547yaria,"
+    "code": "yaria,",
+    "msg": 547
   },
   {
     "channel": "yellowduck",
