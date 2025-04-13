@@ -898,9 +898,8 @@
   {
     "channel": "matchingtv",
     "marker": "マッチングTV",
-    "code": "mag,",
-    "prefix": "null",
-    "msg": "719"
+    "code": "719mag,",
+    "prefix": "null"
   },
   {
     "channel": "materiall",
