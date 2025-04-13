@@ -986,9 +986,8 @@
   {
     "channel": "momoco",
     "marker": "MOMOCO",
-    "code": "mmc,",
-    "prefix": "null",
-    "msg": "812"
+    "code": "812mmc,",
+    "prefix": "null"
   },
   {
     "channel": "mona",
@@ -1017,8 +1016,7 @@
   {
     "channel": "mywife",
     "marker": "舞ワイフ",
-    "code": "my,",
-    "msg": "292"
+    "code": "292my,"
   },
   {
     "channel": "nagae",
