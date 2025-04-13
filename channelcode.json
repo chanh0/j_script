@@ -645,7 +645,9 @@
   },
   {
     "channel": "indy",
-    "marker": "インディ"
+    "marker": "インディ",
+    "code": "ind,",
+    "msg": 534
   },
   {
     "channel": "infuru",
