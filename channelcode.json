@@ -83,8 +83,7 @@
   },
   {
     "channel": "around",
-    "marker": "AROUND",
-    "code": "arso,"
+    "marker": "AROUND"
   },
   {
     "channel": "asarivr",
