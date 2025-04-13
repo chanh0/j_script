@@ -109,9 +109,7 @@
   {
     "channel": "bibid",
     "marker": "BiBiD",
-    "code": "522dht,",
-    "prefix": "fanza_amateur",
-    "msg": "522"
+    "code": "522dht,"
   },
   {
     "channel": "boinbb",
