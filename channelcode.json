@@ -247,15 +247,13 @@
     "channel": "docking",
     "marker": "ドッキング！！",
     "code": "797d,",
-    "prefix": "fanza_amateur",
-    "msg": "797"
+    "prefix": "fanza_amateur"
   },
   {
     "channel": "documentv",
     "marker": "【独占】ドキュメンTV",
-    "code": "dcv,",
-    "prefix": "null",
-    "msg": "277"
+    "code": "277dcv,",
+    "prefix": "null"
   },
   {
     "channel": "dogear",
