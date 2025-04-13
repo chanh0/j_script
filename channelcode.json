@@ -79,7 +79,8 @@
   },
   {
     "channel": "aroma",
-    "marker": "アロマ企画"
+    "marker": "アロマ企画",
+    "code": "aarm"
   },
   {
     "channel": "around",
