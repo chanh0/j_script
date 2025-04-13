@@ -1024,7 +1024,7 @@
   {
     "channel": "momoco",
     "marker": "MOMOCO",
-    "code": "mmc",
+    "code": "mmc,",
     "prefix": "null",
     "msg": 812
   },
@@ -1077,7 +1077,7 @@
   {
     "channel": "namanama",
     "marker": "なまなま",
-    "code": "namh",
+    "code": "namh,",
     "msg": 787
   },
   {
