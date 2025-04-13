@@ -1271,8 +1271,7 @@
   {
     "channel": "prestigepremium",
     "marker": "【独占】プレステージプレミアム",
-    "code": "300mium,300maan,",
-    "msg": "300"
+    "code": "300mium,300maan,"
   },
   {
     "channel": "primo",
@@ -1357,7 +1356,7 @@
   {
     "channel": "seikyouiku",
     "marker": "【独占】セイキョウイク",
-    "code": "sei,",
+    "code": "502sei,",
     "prefix": "null",
     "msg": "502"
   },
