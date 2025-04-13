@@ -779,9 +779,8 @@
   {
     "channel": "kurofune",
     "marker": "【独占先行配信】黒船",
-    "code": "fct,kntr,eva,mama,mgk,kfne,",
-    "prefix": "fanza_amateur",
-    "msg": "326"
+    "code": "326fct,326kntr,326eva,326mama,326mgk,326kfne,",
+    "prefix": "fanza_amateur"
   },
   {
     "channel": "kurokage",
