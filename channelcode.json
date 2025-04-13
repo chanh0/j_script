@@ -733,7 +733,7 @@
   {
     "channel": "kanbi",
     "marker": "【独占】KANBi",
-    "code": "knb,fft,",
+    "code": "336knb,336fft,",
     "prefix": "null",
     "msg": "336"
   },
