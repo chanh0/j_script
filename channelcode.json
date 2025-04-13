@@ -1855,8 +1855,7 @@
   {
     "channel": "zokusei",
     "marker": "最強属性",
-    "code": "296cpde,",
-    "prefix": "null"
+    "code": "296cpde,"
   },
   {
     "channel": "zooo",
@@ -1865,15 +1864,12 @@
   {
     "channel": "tobeconfirm1",
     "marker": "えちサポ",
-    "code": "ech,",
-    "prefix": "null",
-    "msg": "789"
+    "code": "789ech,"
   },
   {
     "channel": "tobeconfirm2",
     "marker": "再教育",
     "code": "ski,",
-    "prefix": "null",
     "msg": "816"
   },
   {
