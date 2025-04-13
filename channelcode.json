@@ -1825,8 +1825,7 @@
     "channel": "yamiyami",
     "marker": "【独占】ヤミヤミ",
     "code": "777ymym,",
-    "prefix": "null",
-    "msg": "777"
+    "prefix": "null"
   },
   {
     "channel": "yareruparadise",
@@ -1835,7 +1834,7 @@
   {
     "channel": "yarimanbitches",
     "marker": "ヤリマンビッチーズ",
-    "code": "yaria,",
+    "code": "547yaria,",
     "msg": "547"
   },
   {
