@@ -1125,13 +1125,12 @@
   {
     "channel": "onemore",
     "marker": "onemore",
-    "code": "013onex,",
-    "msg": "013"
+    "code": "013onex,"
   },
   {
     "channel": "onetime",
     "marker": "ONETIME",
-    "code": "otim,",
+    "code": "393otim,",
     "prefix": "null",
     "msg": "393"
   },
