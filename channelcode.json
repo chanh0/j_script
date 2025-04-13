@@ -660,7 +660,9 @@
   },
   {
     "channel": "ion",
-    "marker": "ION イイ女を寝取りたい"
+    "marker": "ION イイ女を寝取りたい",
+    "code": "ion",
+    "msg": 422
   },
   {
     "channel": "island",
