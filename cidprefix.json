@@ -8,19 +8,19 @@
     "pidcode": "wdi,dfdm,wzen,emsk,dfe,wsa,"
   },
   {
-    "prefix": 24,
+    "prefix": "24",
     "pidcode": "dkd,ped,dfdm,hkw,isrd,wzen,vdd,ufd,emsk,dfe,tyd,cad,frd,qbd,"
   },
   {
-    "prefix": 36,
+    "prefix": "36",
     "pidcode": "dmow,dsjh,dhld,doks,"
   },
   {
-    "prefix": 48,
+    "prefix": "48",
     "pidcode": "mdvij,odvhj,"
   },
   {
-    "prefix": 57,
+    "prefix": "57",
     "pidcode": "mcsr,"
   },
   {
