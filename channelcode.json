@@ -227,9 +227,8 @@
   {
     "channel": "diego",
     "marker": "【独占】DIEGO",
-    "code": "ten,",
-    "prefix": "null",
-    "msg": "459"
+    "code": "459ten,",
+    "prefix": "null"
   },
   {
     "channel": "digista",
