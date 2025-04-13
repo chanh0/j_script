@@ -407,9 +407,8 @@
   {
     "channel": "gets",
     "marker": "ゲッツ！！",
-    "code": "gban,gnab,gzap,",
-    "prefix": "null",
-    "msg": "278"
+    "code": "278gban,278gnab,278gzap,",
+    "prefix": "null"
   },
   {
     "channel": "ghistory",
@@ -438,7 +437,7 @@
   {
     "channel": "goodbyecherryboy",
     "marker": "【独占】GOOD-BYE-CHERRYBOY",
-    "code": "gcb,",
+    "code": "485gcb,",
     "prefix": "null",
     "msg": "485"
   },
