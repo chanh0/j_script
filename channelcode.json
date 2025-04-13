@@ -1317,7 +1317,7 @@
     "channel": "prestigepremium",
     "marker": "【独占】プレステージプレミアム",
     "code": "300mium, 300maan,",
-    "msg": 300
+    "msg": "300"
   },
   {
     "channel": "primo",
