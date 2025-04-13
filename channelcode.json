@@ -655,9 +655,8 @@
   {
     "channel": "jackson",
     "marker": "Jackson",
-    "code": "jac,jnt,",
-    "prefix": "null",
-    "msg": "390"
+    "code": "390jac,390jnt,",
+    "prefix": "null"
   },
   {
     "channel": "jiraikeijoshibijin",
