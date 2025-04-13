@@ -216,8 +216,7 @@
   {
     "channel": "dandy",
     "marker": "DANDY",
-    "code": "104dandan",
-    "msg": "104"
+    "code": "104dandan"
   },
   {
     "channel": "dennourasputin",
@@ -1705,8 +1704,7 @@
   {
     "channel": "tag",
     "marker": "Tokyo After Girl",
-    "code": "832afhl,832after,",
-    "msg": "832"
+    "code": "832afhl,832after,"
   },
   {
     "channel": "taiyoh",
