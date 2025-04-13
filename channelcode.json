@@ -861,9 +861,7 @@
   {
     "channel": "magictabloid",
     "marker": "マジック",
-    "code": "zrc,tks,kkj,rix,",
-    "prefix": "h_1736",
-    "msg": "099"
+    "code": "zrc,tks,kkj,rix,"
   },
   {
     "channel": "mahirunokoibito",
@@ -2199,7 +2197,7 @@
     "prefix": "h_1729"
   },
   {
-    "code": "ntk,",
+    "code": "ntk,zrc,tks,kkj,rix,",
     "prefix": "h_1736"
   },
   {
