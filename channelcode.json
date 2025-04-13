@@ -882,10 +882,7 @@
   },
   {
     "channel": "machikado",
-    "marker": "街角シコいンタビュー",
-    "code": "maan,",
-    "prefix": "null",
-    "msg": 300
+    "marker": "街角シコいンタビュー"
   },
   {
     "channel": "maetelholmone",
