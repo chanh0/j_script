@@ -487,7 +487,6 @@
     "code": "damx,",
     "prefix": "h_1647"
   },
-  {},
   {
     "code": "807paox,807paks,807pakx,"
   },
@@ -1606,9 +1605,7 @@
   {
     "channel": "snapsnap",
     "marker": "SNAP×SNAP",
-    "code": "sna,",
-    "prefix": "fanza_amateur",
-    "msg": "786"
+    "code": "786sna,"
   },
   {
     "channel": "snsdetsunagatta",
