@@ -118,9 +118,8 @@
   {
     "channel": "boing",
     "marker": "【独占】BOING.",
-    "code": "ppz,",
-    "prefix": "null",
-    "msg": "563"
+    "code": "563ppz,",
+    "prefix": "null"
   },
   {
     "channel": "boinnakimito",
