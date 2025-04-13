@@ -55,7 +55,8 @@
   },
   {
     "channel": "anyakou",
-    "code": "829anya,"
+    "code": "829anya,",
+    "msg": "829"
   },
   {
     "channel": "aozora",
