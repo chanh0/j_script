@@ -86,8 +86,7 @@
     "channel": "around",
     "marker": "AROUND",
     "code": "arso,",
-    "prefix": "h_1378",
-    "msg": "null"
+    "prefix": "h_1378"
   },
   {
     "channel": "asarivr",
@@ -1558,8 +1557,7 @@
     "channel": "sirouto",
     "marker": "【独占】シロウトTV",
     "code": "siro,",
-    "prefix": "null",
-    "msg": "null"
+    "prefix": "null"
   },
   {
     "channel": "snapsnap",
