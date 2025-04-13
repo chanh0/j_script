@@ -1074,7 +1074,9 @@
   },
   {
     "channel": "namanama",
-    "marker": "なまなま"
+    "marker": "なまなま",
+    "code": "namh",
+    "msg": 787
   },
   {
     "channel": "namanamanet",
