@@ -1936,7 +1936,7 @@
     "marker": "ZOOO"
   },
   {
-    "channel": "tobeconfirm",
+    "channel": "tobeconfirm1",
     "marker": "えちサポ",
     "code": "ech,",
     "prefix": "null",
@@ -1950,7 +1950,7 @@
     "msg": "816"
   },
   {
-    "channel": "tobeconfirm",
+    "channel": "tobeconfirm3",
     "marker": "ハメタバース",
     "code": "hmt,",
     "prefix": "fanza_amateur",
