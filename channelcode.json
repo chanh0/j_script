@@ -70,8 +70,7 @@
   {
     "channel": "ara",
     "marker": "【独占】ARA",
-    "code": "261ara,",
-    "prefix": "null"
+    "code": "261ara,"
   },
   {
     "channel": "arena",
@@ -122,8 +121,7 @@
   {
     "channel": "boing",
     "marker": "【独占】BOING.",
-    "code": "563ppz,",
-    "prefix": "null"
+    "code": "563ppz,"
   },
   {
     "channel": "boinnakimito",
@@ -168,8 +166,7 @@
   {
     "channel": "buzzdocument",
     "marker": "BUZZDOCUMENT",
-    "code": "409bzdc,",
-    "prefix": "null"
+    "code": "409bzdc,"
   },
   {
     "channel": "cah",
@@ -231,8 +228,7 @@
   {
     "channel": "diego",
     "marker": "【独占】DIEGO",
-    "code": "459ten,",
-    "prefix": "null"
+    "code": "459ten,"
   },
   {
     "channel": "digista",
@@ -256,8 +252,7 @@
   {
     "channel": "documentv",
     "marker": "【独占】ドキュメンTV",
-    "code": "277dcv,",
-    "prefix": "null"
+    "code": "277dcv,"
   },
   {
     "channel": "dogear",
@@ -310,8 +305,7 @@
   {
     "channel": "enema",
     "marker": "【独占】ENEMA",
-    "code": "550ene,",
-    "prefix": "null"
+    "code": "550ene,"
   },
   {
     "channel": "erotimepop",
@@ -385,8 +379,7 @@
   {
     "channel": "galpoyo",
     "marker": "ギャルぽよ。",
-    "code": "767gph,",
-    "prefix": "null"
+    "code": "767gph,"
   },
   {
     "channel": "ganbou",
@@ -411,8 +404,7 @@
   {
     "channel": "gets",
     "marker": "ゲッツ！！",
-    "code": "278gban,278gnab,278gzap,",
-    "prefix": "null"
+    "code": "278gban,278gnab,278gzap,"
   },
   {
     "channel": "ghistory",
@@ -441,8 +433,7 @@
   {
     "channel": "goodbyecherryboy",
     "marker": "【独占】GOOD-BYE-CHERRYBOY",
-    "code": "485gcb,",
-    "prefix": "null"
+    "code": "485gcb,"
   },
   {
     "channel": "goonies",
@@ -504,8 +495,7 @@
   {
     "channel": "haremtv",
     "marker": "【独占】ハーレムTV",
-    "code": "436hlm,",
-    "prefix": "null"
+    "code": "436hlm,"
   },
   {
     "channel": "hawaii",
@@ -514,8 +504,7 @@
   {
     "channel": "hentaisamurai",
     "marker": "変態サムライ",
-    "code": "353hen,",
-    "prefix": "null"
+    "code": "353hen,"
   },
   {
     "channel": "HGG",
@@ -524,8 +513,7 @@
   {
     "channel": "hhh",
     "marker": "HHH",
-    "code": "451hhh,",
-    "prefix": "null"
+    "code": "451hhh,"
   },
   {
     "channel": "hibino",
@@ -659,8 +647,7 @@
   {
     "channel": "jackson",
     "marker": "Jackson",
-    "code": "390jac,390jnt,",
-    "prefix": "null"
+    "code": "390jac,390jnt,"
   },
   {
     "channel": "jiraikeijoshibijin",
@@ -737,8 +724,7 @@
   {
     "channel": "kanbi",
     "marker": "【独占】KANBi",
-    "code": "336knb,336fft,",
-    "prefix": "null"
+    "code": "336knb,336fft,"
   },
   {
     "channel": "kirakirawife",
@@ -843,8 +829,7 @@
   {
     "channel": "luxutv",
     "marker": "ラグジュTV",
-    "code": "259luxu,",
-    "prefix": "null"
+    "code": "259luxu,"
   },
   {
     "channel": "machiavelli",
@@ -886,8 +871,7 @@
   {
     "channel": "manmanland",
     "marker": "【独占先行配信】まんまんランド",
-    "code": "476mla,",
-    "prefix": "null"
+    "code": "476mla,"
   },
   {
     "channel": "marukaano",
@@ -900,8 +884,7 @@
   {
     "channel": "matchingtv",
     "marker": "マッチングTV",
-    "code": "719mag,",
-    "prefix": "null"
+    "code": "719mag,"
   },
   {
     "channel": "materiall",
@@ -990,8 +973,7 @@
   {
     "channel": "momoco",
     "marker": "MOMOCO",
-    "code": "812mmc,",
-    "prefix": "null"
+    "code": "812mmc,"
   },
   {
     "channel": "mona",
@@ -1099,8 +1081,7 @@
   {
     "channel": "ntrnet",
     "marker": "【独占】NTR.net",
-    "code": "348ntr,",
-    "prefix": "null"
+    "code": "348ntr,"
   },
   {
     "channel": "nukizoku",
@@ -1134,8 +1115,7 @@
   {
     "channel": "onetime",
     "marker": "ONETIME",
-    "code": "393otim,",
-    "prefix": "null"
+    "code": "393otim,"
   },
   {
     "channel": "oppaichan",
@@ -1180,8 +1160,7 @@
   {
     "channel": "outdoor",
     "marker": "OUTDOOR",
-    "code": "804cmp,",
-    "prefix": "null"
+    "code": "804cmp,"
   },
   {
     "channel": "oyajino",
@@ -1360,8 +1339,7 @@
   {
     "channel": "seikyouiku",
     "marker": "【独占】セイキョウイク",
-    "code": "502sei,",
-    "prefix": "null"
+    "code": "502sei,"
   },
   {
     "channel": "seisyunsya",
@@ -1456,8 +1434,7 @@
   {
     "channel": "shiroutohamejirou",
     "marker": "【独占】素人ハメ次郎",
-    "code": "581shmj,",
-    "prefix": "null"
+    "code": "581shmj,"
   },
   {
     "channel": "shiroutokyubin",
@@ -1474,8 +1451,7 @@
   {
     "channel": "shiroutonannan",
     "marker": "シロウトなんなん",
-    "code": "573dht,",
-    "prefix": "null"
+    "code": "573dht,"
   },
   {
     "channel": "shiroutonanpavariety",
@@ -1556,8 +1532,7 @@
   {
     "channel": "sirouto",
     "marker": "【独占】シロウトTV",
-    "code": "siro,",
-    "prefix": "null"
+    "code": "siro,"
   },
   {
     "channel": "snapsnap",
@@ -1775,14 +1750,12 @@
   {
     "channel": "vlogdiary",
     "marker": "【独占】VLog Diary",
-    "code": "535log,",
-    "prefix": "null"
+    "code": "535log,"
   },
   {
     "channel": "volare",
     "marker": "【独占】Volare",
-    "code": "536vola,",
-    "prefix": "null"
+    "code": "536vola,"
   },
   {
     "channel": "vond",
@@ -1827,8 +1800,7 @@
   {
     "channel": "yamiyami",
     "marker": "【独占】ヤミヤミ",
-    "code": "777ymym,",
-    "prefix": "null"
+    "code": "777ymym,"
   },
   {
     "channel": "yareruparadise",
