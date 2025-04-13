@@ -396,7 +396,7 @@
     "marker": "ギャルぽよ。",
     "code": "gph,",
     "prefix": "null",
-    "msg": 767
+    "msg": "767"
   },
   {
     "channel": "ganbou",
@@ -423,7 +423,7 @@
     "marker": "ゲッツ！！",
     "code": "gban,gnab,gzap,",
     "prefix": "null",
-    "msg": 278
+    "msg": "278"
   },
   {
     "channel": "ghistory",
