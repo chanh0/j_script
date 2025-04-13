@@ -306,9 +306,8 @@
   {
     "channel": "enema",
     "marker": "【独占】ENEMA",
-    "code": "ene,",
-    "prefix": "null",
-    "msg": "550"
+    "code": "550ene,",
+    "prefix": "null"
   },
   {
     "channel": "erotimepop",
@@ -382,7 +381,7 @@
   {
     "channel": "galpoyo",
     "marker": "ギャルぽよ。",
-    "code": "gph,",
+    "code": "767gph,",
     "prefix": "null",
     "msg": "767"
   },
