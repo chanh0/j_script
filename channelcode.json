@@ -1772,16 +1772,14 @@
   {
     "channel": "vlogdiary",
     "marker": "【独占】VLog Diary",
-    "code": "log,",
-    "prefix": "null",
-    "msg": "535"
+    "code": "535log,",
+    "prefix": "null"
   },
   {
     "channel": "volare",
     "marker": "【独占】Volare",
-    "code": "vola,",
-    "prefix": "null",
-    "msg": "536"
+    "code": "536vola,",
+    "prefix": "null"
   },
   {
     "channel": "vond",
@@ -1826,7 +1824,7 @@
   {
     "channel": "yamiyami",
     "marker": "【独占】ヤミヤミ",
-    "code": "ymym,",
+    "code": "777ymym,",
     "prefix": "null",
     "msg": "777"
   },
