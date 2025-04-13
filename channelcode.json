@@ -1936,18 +1936,21 @@
     "marker": "ZOOO"
   },
   {
+    "channel": "tobeconfirm",
     "marker": "えちサポ",
     "code": "ech,",
     "prefix": "null",
     "msg": "789"
   },
   {
+    "channel": "tobeconfirm2",
     "marker": "再教育",
     "code": "ski,",
     "prefix": "null",
     "msg": "816"
   },
   {
+    "channel": "tobeconfirm",
     "marker": "ハメタバース",
     "code": "hmt,",
     "prefix": "fanza_amateur",
