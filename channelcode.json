@@ -1177,9 +1177,8 @@
   {
     "channel": "outdoor",
     "marker": "OUTDOOR",
-    "code": "cmp,",
-    "prefix": "null",
-    "msg": "804"
+    "code": "804cmp,",
+    "prefix": "null"
   },
   {
     "channel": "oyajino",
