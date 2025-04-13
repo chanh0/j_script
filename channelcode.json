@@ -484,7 +484,7 @@
     "channel": "hamechan",
     "marker": "はめちゃん。",
     "code": "sgk,dam,pao,mado,",
-    "msg": 483
+    "msg": "483"
   },
   {},
   {
@@ -498,13 +498,13 @@
   {
     "code": "paox,paks,pakx,",
     "prefix": "h_1646",
-    "msg": 807
+    "msg": "807"
   },
   {
     "channel": "hamedori2nd",
     "marker": "ハメドリネットワークセカンドエディション",
     "code": "hmdnv,",
-    "msg": 328
+    "msg": "328"
   },
   {
     "channel": "hameman",
@@ -527,7 +527,7 @@
     "marker": "【独占】ハーレムTV",
     "code": "hlm,",
     "prefix": "null",
-    "msg": 436
+    "msg": "436"
   },
   {
     "channel": "hawaii",
@@ -538,7 +538,7 @@
     "marker": "変態サムライ",
     "code": "hen,",
     "prefix": "null",
-    "msg": 353
+    "msg": "353"
   },
   {
     "channel": "HGG",
