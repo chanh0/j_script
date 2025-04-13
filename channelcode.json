@@ -1901,15 +1901,15 @@
   },
   {
     "code": "mcsr,",
-    "prefix": 57
+    "prefix": "57"
   },
   {
     "code": "gas,",
-    "prefix": 71
+    "prefix": "71"
   },
   {
     "code": "godr,",
-    "prefix": 78
+    "prefix": "78"
   },
   {
     "code": "umd,",
