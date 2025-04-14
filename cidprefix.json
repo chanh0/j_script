@@ -87,7 +87,10 @@
     "prefix": "h_021",
     "pidcode": "npen,ptes,"
   },
-  {},
+  {
+    "prefix": "h_047",
+    "pidcode": "wa,"
+  },
   {
     "prefix": "h_068",
     "pidcode": "mxgs,httm,"
