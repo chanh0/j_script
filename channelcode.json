@@ -327,11 +327,13 @@
   },
   {
     "channel": "faleno",
-    "marker": "FALENO"
+    "marker": "FALENO",
+    "code": "406ftht,"
   },
   {
     "channel": "falenogroup",
-    "marker": "FALENOGROUP"
+    "marker": "FALENOGROUP",
+    "code": "406ftht,"
   },
   {},
   {
