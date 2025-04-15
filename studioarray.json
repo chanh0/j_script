@@ -3270,7 +3270,9 @@
     "dum": "https://tameikegoro.jp"
   },
   {
-    "code": "MNGS"
+    "name": "MOODYZ",
+    "code": "MNGS",
+    "remark": "2025 MOODYZ ニュージーニアス"
   },
   {
     "name": "MOODYZ",
@@ -5362,7 +5364,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "15/04/2025 19:34:03"
+    "dum": "15/04/2025 19:34:16"
   },
   {
     "name": "D-O-C",
