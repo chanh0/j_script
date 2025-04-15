@@ -3264,16 +3264,16 @@
     "remark": "夢野"
   },
   {
-    "name": "溜池ゴロー",
-    "code": "MNYD",
-    "remark": "2008 end",
-    "dum": "https://tameikegoro.jp"
-  },
-  {
     "name": "MOODYZ",
     "code": "MNGS",
     "remark": "2025 MOODYZ ニュージーニアス",
     "dum": "https://moodyz.com"
+  },
+  {
+    "name": "溜池ゴロー",
+    "code": "MNYD",
+    "remark": "2008 end",
+    "dum": "https://tameikegoro.jp"
   },
   {
     "name": "MOODYZ",
@@ -5365,7 +5365,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "15/04/2025 19:34:19"
+    "dum": "15/04/2025 20:20:22"
   },
   {
     "name": "D-O-C",
