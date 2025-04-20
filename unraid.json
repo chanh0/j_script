@@ -1,7 +1,7 @@
 [
   {
     "ACC": "ACHJ-",
-    "remark": "20/04/2025 02:07:55"
+    "remark": "20/04/2025 02:08:31"
   },
   {
     "ACC": "JUQ-",
@@ -714,5 +714,8 @@
   {
     "ACC": "AVSW-",
     "remark": "AVS collectors"
+  },
+  {
+    "ACC": "SCPX-"
   }
 ]
