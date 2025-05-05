@@ -595,7 +595,9 @@
   },
   {
     "name": "FalenoGroup",
-    "code": "AIAV"
+    "code": "AIAV",
+    "remark": "FalenoGroup - NoSKINs",
+    "dum": "Faleno"
   },
   {
     "name": "FalenoGroup",
@@ -5369,7 +5371,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "05/05/2025 11:14:51"
+    "dum": "05/05/2025 11:14:57"
   },
   {
     "name": "D-O-C",
