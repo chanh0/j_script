@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "18/05/2025 11:56:59"
+    "dum": "18/05/2025 11:57:03"
   },
   {
     "name": "妄想族",
@@ -1252,7 +1252,9 @@
   },
   {
     "name": "SODGroup",
-    "remark": "ROCKET"
+    "code": "SMJD",
+    "remark": "ROCKET",
+    "dum": "https://rookie-av.jp"
   },
   {
     "name": "SODGroup",
