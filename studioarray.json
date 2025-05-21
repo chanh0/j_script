@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "18/05/2025 11:57:03"
+    "dum": "21/05/2025 10:44:25"
   },
   {
     "name": "妄想族",
@@ -909,6 +909,12 @@
     "dum": "CA"
   },
   {
+    "name": "SODGroup",
+    "code": "SMJD",
+    "remark": "ROCKET",
+    "dum": "https://rookie-av.jp"
+  },
+  {
     "name": "妄想族",
     "code": "SMCP",
     "remark": "Smartmedia production/妄想族",
@@ -1249,12 +1255,6 @@
     "code": "ROE",
     "remark": "熟女主力",
     "dum": "https://www.madonna-av.com"
-  },
-  {
-    "name": "SODGroup",
-    "code": "SMJD",
-    "remark": "ROCKET",
-    "dum": "https://rookie-av.jp"
   },
   {
     "name": "SODGroup",
