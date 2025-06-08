@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/06/2025 08:16:28"
+    "dum": "08/06/2025 09:42:55"
   },
   {
     "name": "妄想族",
@@ -128,6 +128,10 @@
     "code": "XV",
     "remark": "放 LAST",
     "dum": "JHV/CA"
+  },
+  {
+    "name": "MAX-A",
+    "code": "XVT"
   },
   {
     "name": "KMPGroup",
