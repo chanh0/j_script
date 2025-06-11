@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/06/2025 09:42:59"
+    "dum": "11/06/2025 18:09:20"
   },
   {
     "name": "妄想族",
@@ -119,6 +119,12 @@
   },
   {
     "name": "MAX-A",
+    "code": "XVT",
+    "remark": "放 LAST",
+    "dum": "JHV/CA"
+  },
+  {
+    "name": "MAX-A",
     "code": "XVSR",
     "remark": "null",
     "dum": "JHV/CA"
@@ -126,12 +132,6 @@
   {
     "name": "MAX-A",
     "code": "XV",
-    "remark": "放 LAST",
-    "dum": "JHV/CA"
-  },
-  {
-    "name": "MAX-A",
-    "code": "XVT",
     "remark": "放 LAST",
     "dum": "JHV/CA"
   },
