@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "30/06/2025 14:50:23"
+    "dum": "30/06/2025 14:50:41"
   },
   {
     "name": "妄想族",
@@ -672,15 +672,18 @@
   },
   {
     "code": "SVLEZ",
-    "remark": "SODGroup"
+    "remark": "SODGroup - ChuChuGirl（チュチュガール）",
+    "dum": "SOD"
   },
   {
     "code": "SVHOT",
-    "remark": "SODGroup"
+    "remark": "SODGroup - ChuChuGirl（チュチュガール）",
+    "dum": "SOD"
   },
   {
     "code": "SVGAL",
-    "remark": "SODGroup"
+    "remark": "SODGroup - ChuChuGirl（チュチュガール）",
+    "dum": "SOD"
   },
   {
     "name": "SODGroup",
