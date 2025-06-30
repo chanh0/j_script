@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "30/06/2025 14:56:08"
+    "dum": "30/06/2025 14:57:31"
   },
   {
     "name": "妄想族",
@@ -632,7 +632,7 @@
   {
     "name": "SODGroup",
     "code": "SVVRT",
-    "remark": "サディスティックヴィレッジ, 素人参加バラエティー ? 2022 start",
+    "remark": "素人参加バラエティー ? 2022 start",
     "dum": "SOD"
   },
   {
@@ -660,18 +660,6 @@
   },
   {
     "name": "SODGroup",
-    "code": "SVDVD",
-    "remark": "サディスティックヴィレッジ",
-    "dum": "SOD"
-  },
-  {
-    "name": "SODGroup",
-    "code": "SVCAO",
-    "remark": "SODGroup",
-    "dum": "SOD"
-  },
-  {
-    "name": "SODGroup",
     "code": "SVLEZ",
     "remark": "SODGroup - ChuChuGirl（チュチュガール）",
     "dum": "SOD"
@@ -690,8 +678,8 @@
   },
   {
     "name": "SODGroup",
-    "code": "SVBGR",
-    "remark": "SODGroup - サディスティックヴィレッジ,follow S.V.D.V.D\"",
+    "code": "SVFTI",
+    "remark": "SODGroup - リビドー！",
     "dum": "SOD"
   },
   {
@@ -708,8 +696,20 @@
   },
   {
     "name": "SODGroup",
-    "code": "SVFTI",
-    "remark": "SODGroup - リビドー！",
+    "code": "SVDVD",
+    "remark": "サディスティックヴィレッジ",
+    "dum": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "SVCAO",
+    "remark": "SODGroup",
+    "dum": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "SVBGR",
+    "remark": "SODGroup - サディスティックヴィレッジ,follow S.V.D.V.D\"",
     "dum": "SOD"
   },
   {
