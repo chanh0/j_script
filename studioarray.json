@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "26/06/2025 18:11:51"
+    "dum": "30/06/2025 14:43:36"
   },
   {
     "name": "妄想族",
@@ -675,6 +675,10 @@
     "code": "SVBGR",
     "remark": "サディスティックヴィレッジ,follow S.V.D.V.D?\"",
     "dum": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "SVERS"
   },
   {
     "name": "SOD",
