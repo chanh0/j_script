@@ -9,7 +9,7 @@
     "SOD": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "16/07/2025 18:23:56"
+    "dum": "17/07/2025 17:41:08"
   },
   {
     "SOD": "妄想族",
@@ -1261,6 +1261,10 @@
   },
   {
     "SOD": "D-O-C",
+    "code": "SIOD"
+  },
+  {
+    "SOD": "D-O-C",
     "code": "RTP",
     "remark": "2017 old  Realdocument Plus",
     "dum": "PRESTIGE"
@@ -2095,12 +2099,6 @@
   },
   {
     "SOD": "SODGroup",
-    "code": "MTACO",
-    "remark": "Materiall 2025",
-    "dum": "SOD"
-  },
-  {
-    "SOD": "SODGroup",
     "code": "MTATA",
     "remark": "Materiall 2025",
     "dum": "SOD"
@@ -2109,6 +2107,12 @@
     "SOD": "SODGroup",
     "code": "MTALL",
     "remark": "Materiall",
+    "dum": "SOD"
+  },
+  {
+    "SOD": "SODGroup",
+    "code": "MTACO",
+    "remark": "Materiall 2025",
     "dum": "SOD"
   },
   {
