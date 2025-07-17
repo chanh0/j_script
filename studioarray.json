@@ -9,7 +9,7 @@
     "SOD": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "17/07/2025 17:41:08"
+    "dum": "17/07/2025 17:41:37"
   },
   {
     "SOD": "妄想族",
@@ -982,6 +982,11 @@
   },
   {
     "SOD": "D-O-C",
+    "code": "SIOD",
+    "remark": "new 2025"
+  },
+  {
+    "SOD": "D-O-C",
     "code": "SIM",
     "remark": "しろうとまんまん",
     "dum": "PRESTIGE"
@@ -1258,10 +1263,6 @@
     "SOD": "GloryQuest",
     "code": "RVG",
     "remark": "重口味"
-  },
-  {
-    "SOD": "D-O-C",
-    "code": "SIOD"
   },
   {
     "SOD": "D-O-C",
