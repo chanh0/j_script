@@ -7,20 +7,15 @@
   },
   {
     "name": "妄想族",
-    "code": "MADB",
-    "remark": "シロウトネキ/妄想族 2025"
-  },
-  {
-    "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "18/07/2025 09:34:02"
+    "dum": "18/07/2025 09:36:17"
   },
   {
     "name": "妄想族",
     "code": "ZMEN",
     "remark": "ZMEN",
-    "dum": "noway1"
+    "dum": "noway"
   },
   {
     "name": "PlanetPlus",
@@ -2646,6 +2641,11 @@
     "name": "Crystal",
     "code": "MADM",
     "remark": "MADAM MANIAC"
+  },
+  {
+    "name": "妄想族",
+    "code": "MADB",
+    "remark": "シロウトネキ/妄想族 2025"
   },
   {
     "name": "PRESTIGE",
