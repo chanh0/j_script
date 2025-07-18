@@ -496,6 +496,7 @@
     "pidcode": "twt,nmk,"
   },
   {
-    "prefix": "prestige_cases"
+    "prefix": "prestige_cases",
+    "pidcode": "abw,abp,abf,fft,fit,kit,kbr,"
   }
 ]
