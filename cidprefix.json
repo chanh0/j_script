@@ -494,5 +494,8 @@
   {
     "prefix": "h_897",
     "pidcode": "twt,nmk,"
+  },
+  {
+    "prefix": "prestige_cases: {\"abw\", \"abp\", \"abf\", \"fft\", \"fit\", \"kit\", \"kbr\"},"
   }
 ]
