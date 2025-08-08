@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "07/08/2025 14:48:01"
+    "dum": "08/08/2025 17:29:05"
   },
   {
     "name": "妄想族",
@@ -1904,12 +1904,6 @@
   },
   {
     "name": "SODGroup",
-    "code": "NHDL",
-    "remark": "NaturalHigh 2025",
-    "dum": "SOD"
-  },
-  {
-    "name": "SODGroup",
     "code": "NHDTC",
     "remark": "NaturalHigh",
     "dum": "SOD"
@@ -1924,6 +1918,12 @@
     "name": "SODGroup",
     "code": "NHDTA",
     "remark": "NaturalHigh",
+    "dum": "SOD"
+  },
+  {
+    "name": "SODGroup",
+    "code": "NHDL",
+    "remark": "NaturalHigh 2025",
     "dum": "SOD"
   },
   {
