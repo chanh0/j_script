@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "18/08/2025 00:46:34"
+    "dum": "18/08/2025 00:46:59"
   },
   {
     "name": "妄想族",
@@ -1958,6 +1958,10 @@
     "code": "NAIAD",
     "remark": "Das_Dokubari AI",
     "dum": "https://dasdas.jp"
+  },
+  {
+    "name": "PlanetPlus",
+    "code": "NACT"
   },
   {
     "name": "PlanetPlus",
