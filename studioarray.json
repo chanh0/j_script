@@ -9,12 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "29/08/2025 18:15:34"
-  },
-  {
-    "name": "妄想族",
-    "code": "YDNS",
-    "remark": "ゆず故障マシマシ/妄想族"
+    "dum": "29/08/2025 21:15:22"
   },
   {
     "name": "妄想族",
@@ -100,6 +95,11 @@
   },
   {
     "name": "桃太郎",
+    "code": "HNTD",
+    "dum": "CA"
+  },
+  {
+    "name": "桃太郎",
     "code": "YMDS",
     "remark": "單體女優",
     "dum": "CA"
@@ -115,6 +115,11 @@
     "code": "YFF",
     "remark": "Waap Entertainment",
     "dum": "WAAP"
+  },
+  {
+    "name": "妄想族",
+    "code": "YDNS",
+    "remark": "ゆず故障マシマシ/妄想族"
   },
   {
     "name": "WAAP",
