@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "30/08/2025 14:00:12"
+    "dum": "31/08/2025 17:16:28"
   },
   {
     "name": "妄想族",
@@ -3102,12 +3102,6 @@
   },
   {
     "name": "IdeaPocket",
-    "code": "CKCK",
-    "remark": "專屬女優 2025",
-    "dum": "https://ideapocket.com"
-  },
-  {
-    "name": "IdeaPocket",
     "code": "IPZZ",
     "remark": "專屬女優",
     "dum": "https://ideapocket.com"
@@ -4369,6 +4363,12 @@
     "code": "CKK",
     "remark": "超特急",
     "dum": "PRESTIGE"
+  },
+  {
+    "name": "IdeaPocket",
+    "code": "CKCK",
+    "remark": "專屬女優 2025",
+    "dum": "https://ideapocket.com"
   },
   {
     "name": "痴女Heaven",
