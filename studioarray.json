@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "05/09/2025 01:13:22"
+    "dum": "05/09/2025 01:13:36"
   },
   {
     "name": "妄想族",
@@ -3292,7 +3292,9 @@
   },
   {
     "name": "Hunter",
-    "code": "NSODN"
+    "code": "NSODN",
+    "remark": "主力? 2025",
+    "dum": "https://hhh-av.com"
   },
   {
     "name": "Hunter",
