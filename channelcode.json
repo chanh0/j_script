@@ -1,2196 +1,1214 @@
 [
   {
-    "channel": "シロウトTV",
-    "marker": "shirouto",
-    "code": "siro"
+    "marker_name": "シロウトTV;shirouto;siro"
   },
   {
-    "channel": "プレステージプレミアム(PRESTIGE PREMIUM)",
-    "marker": "prestigepremium",
-    "code": "300mium"
+    "marker_name": "プレステージプレミアム(PRESTIGE PREMIUM);prestigepremium;300mium"
   },
   {
-    "channel": "プレステージ",
-    "marker": "prestige",
-    "code": "abf,fig,dlv,ice,jns,npp,sip,yrk,dut,jfm,kit,thu,ppx,lxp,fbu,pmg"
+    "marker_name": "プレステージ;prestige;abf,fig,dlv,ice,jns,npp,sip,yrk,dut,jfm,kit,thu,ppx,lxp,fbu,pmg"
   },
   {
-    "channel": "SODクリエイト",
-    "marker": "sodcreate",
-    "code": "107start,107sods,107sdnm,107sdjs,107sdmm,107kuse,107sdam,107stzy,107ftav,107sdmua,107senn,107sdab,107mogi,107sdhs,107sdde"
+    "marker_name": "SODクリエイト;sodcreate;107start,107sods,107sdnm,107sdjs,107sdmm,107kuse,107sdam,107stzy,107ftav,107sdmua,107senn,107sdab,107mogi,107sdhs,107sdde"
   },
   {
-    "channel": "DOC",
-    "marker": "doc",
-    "code": "maan,gesy,sima,ddh,docd,mfc,mfcs,ddhc,simf,simo,docs,simp,mfcw,mfcg,fch,mfcl,mfct,mgtd,mfcd,jnke,mmnm,hmrk,mfco,simh,mtmd"
+    "marker_name": "DOC;doc;maan,gesy,sima,ddh,docd,mfc,mfcs,ddhc,simf,simo,docs,simp,mfcw,mfcg,fch,mfcl,mfct,mgtd,mfcd,jnke,mmnm,hmrk,mfco,simh,mtmd"
   },
   {
-    "channel": "FALENO",
-    "marker": "faleno",
-    "code": "406fcdss,406fns,406mgold,406fsdss,406fsfst"
+    "marker_name": "FALENO;faleno;406fcdss,406fns,406mgold,406fsdss,406fsfst"
   },
   {
-    "channel": "はめちゃん。",
-    "marker": "hamechan",
-    "code": "483mado,483dam,483pa0,483sgk,483pao,483pak,483paks"
+    "marker_name": "はめちゃん。;hamechan;483mado,483dam,483pa0,483sgk,483pao,483pak,483paks"
   },
   {
-    "channel": "Jackson",
-    "marker": "jackson",
-    "code": "390jnt,390jac,390snb"
+    "marker_name": "Jackson;jackson;390jnt,390jac,390snb"
   },
   {
-    "channel": "ナンパTV",
-    "marker": "nanpatv",
-    "code": "200gana"
+    "marker_name": "ナンパTV;nanpatv;200gana"
   },
   {
-    "channel": "ラグジュTV",
-    "marker": "luxutv",
-    "code": "259luxu"
+    "marker_name": "ラグジュTV;luxutv;259luxu"
   },
   {
-    "channel": "セイキョウイク",
-    "marker": "seikyouiku",
-    "code": "502sei"
+    "marker_name": "セイキョウイク;seikyouiku;502sei"
   },
   {
-    "channel": "素人ホイホイ",
-    "marker": "hoihoiz",
-    "code": "420hhl,420hpt,420hoi,420sth,420erk,420pow,420sef"
+    "marker_name": "素人ホイホイ;hoihoiz;420hhl,420hpt,420hoi,420sth,420erk,420pow,420sef"
   },
   {
-    "channel": "ドキュメンTV",
-    "marker": "documentv",
-    "code": "277dcv"
+    "marker_name": "ドキュメンTV;documentv;277dcv"
   },
   {
-    "channel": "NTR.net",
-    "marker": "ntrnet",
-    "code": "348ntr"
+    "marker_name": "NTR.net;ntrnet;348ntr"
   },
   {
-    "channel": "DIEGO",
-    "marker": "diego",
-    "code": "459ten"
+    "marker_name": "DIEGO;diego;459ten"
   },
   {
-    "channel": "KANBi",
-    "marker": "kanbi",
-    "code": "336knb,336tuk,336kbr,336fft,336kbl,336tnb"
+    "marker_name": "KANBi;kanbi;336knb,336tuk,336kbr,336fft,336kbl,336tnb"
   },
   {
-    "channel": "まんまんランド",
-    "marker": "manmanland",
-    "code": "476mla"
+    "marker_name": "まんまんランド;manmanland;476mla"
   },
   {
-    "channel": "黒船",
-    "marker": "kurofune",
-    "code": "326rch,326fct,326papa,326mgk,326ons,326man,326eva,326scp,326rav,326kntr,326mama,326ussh"
+    "marker_name": "黒船;kurofune;326rch,326fct,326papa,326mgk,326ons,326man,326eva,326scp,326rav,326kntr,326mama,326ussh"
   },
   {
-    "channel": "嗚呼、素人",
-    "marker": "ahshirouto",
-    "code": "371ahshiro"
+    "marker_name": "嗚呼、素人;ahshirouto;371ahshiro"
   },
   {
-    "channel": "アイエナジー",
-    "marker": "ienergy",
-    "code": "109ienf,109iesp,109ienfh"
+    "marker_name": "アイエナジー;ienergy;109ienf,109iesp,109ienfh"
   },
   {
-    "channel": "あいすまん",
-    "marker": "iceman",
-    "code": "567beaf"
+    "marker_name": "あいすまん;iceman;567beaf"
   },
   {
-    "channel": "アイドリ",
-    "marker": "aidori",
-    "code": "584ad"
+    "marker_name": "アイドリ;aidori;584ad"
   },
   {
-    "channel": "I.B.WORKS",
-    "marker": "ibw",
-    "code": "004ibw,004dtcvr,004ibma,004ibl,004moep,004mom"
+    "marker_name": "I.B.WORKS;ibw;004ibw,004dtcvr,004ibma,004ibl,004moep,004mom"
   },
   {
-    "channel": "青空ソフト",
-    "marker": "aozora",
-    "code": "005aoz,005kyo,005leg,005wif,005hip"
+    "marker_name": "青空ソフト;aozora;005aoz,005kyo,005leg,005wif,005hip"
   },
   {
-    "channel": "アキノリ",
-    "marker": "aknr",
-    "code": "110akdl,110boobs"
+    "marker_name": "アキノリ;aknr;110akdl,110boobs"
   },
   {
-    "channel": "あさりVR",
-    "marker": "asarivr",
-    "code": "372frvr"
+    "marker_name": "あさりVR;asarivr;372frvr"
   },
   {
-    "channel": "あたご屋",
-    "marker": "atagoya",
-    "code": "143atgo"
+    "marker_name": "あたご屋;atagoya;143atgo"
   },
   {
-    "channel": "アテナ映像",
-    "marker": "athenaeizou",
-    "code": "053rd"
+    "marker_name": "アテナ映像;athenaeizou;053rd"
   },
   {
-    "channel": "穴",
-    "marker": "ana",
-    "code": "141griz"
+    "marker_name": "穴;ana;141griz"
   },
   {
-    "channel": "あの娘と今日ヤリ部屋で",
-    "marker": "anokotokyouyaribeyade",
-    "code": "541akyb"
+    "marker_name": "あの娘と今日ヤリ部屋で;anokotokyouyaribeyade;541akyb"
   },
   {
-    "channel": "網走映像",
-    "marker": "abashiri",
-    "code": "266aba"
+    "marker_name": "網走映像;abashiri;266aba"
   },
   {
-    "channel": "appletree",
-    "marker": "appletree",
-    "code": "553aplt"
+    "marker_name": "appletree;appletree;553aplt"
   },
   {
-    "channel": "アヘ顔ちゃん",
-    "marker": "ahegaochan",
-    "code": "589agcn"
+    "marker_name": "アヘ顔ちゃん;ahegaochan;589agcn"
   },
   {
-    "channel": "アマチュアバンク",
-    "marker": "amateurbank",
-    "code": "073amaban,073dc,073test,073zzz"
+    "marker_name": "アマチュアバンク;amateurbank;073amaban,073dc,073test,073zzz"
   },
   {
-    "channel": "アマTV",
-    "marker": "amatv",
-    "code": "583erkr,583uwki,583njbe"
+    "marker_name": "アマTV;amatv;583erkr,583uwki,583njbe"
   },
   {
-    "channel": "アリーナ･エンターテインメント",
-    "marker": "arena",
-    "code": "311axdvd,311aedvd"
+    "marker_name": "アリーナ･エンターテインメント;arena;311axdvd,311aedvd"
   },
   {
-    "channel": "AROUND",
-    "marker": "around",
-    "code": "119mntr,119jfyg,119arie,119cjd,119arjkt"
+    "marker_name": "AROUND;around;119mntr,119jfyg,119arie,119cjd,119arjkt"
   },
   {
-    "channel": "アロマ企画",
-    "marker": "aroma",
-    "code": "033aarm"
+    "marker_name": "アロマ企画;aroma;033aarm"
   },
   {
-    "channel": "ION イイ女を寝取りたい",
-    "marker": "ion",
-    "code": "422iog,422ion"
+    "marker_name": "ION イイ女を寝取りたい;ion;422iog,422ion"
   },
   {
-    "channel": "Eドラ!",
-    "marker": "edora",
-    "code": "280edrg"
+    "marker_name": "Eドラ!;edora;280edrg"
   },
   {
-    "channel": "イカセ素人",
-    "marker": "ikaseshirouto",
-    "code": "489ikuiku"
+    "marker_name": "イカセ素人;ikaseshirouto;489ikuiku"
   },
   {
-    "channel": "いきなりエロざんまい",
-    "marker": "ikinarierozanmai",
-    "code": "425mcsr,425sgsr,425bdsr,425husr,425hust,425itsr,425smdy"
+    "marker_name": "いきなりエロざんまい;ikinarierozanmai;425mcsr,425sgsr,425bdsr,425husr,425hust,425itsr,425smdy"
   },
   {
-    "channel": "いきなりシロート",
-    "marker": "ikinarishirouto",
-    "code": "526dht,526dbl"
+    "marker_name": "いきなりシロート;ikinarishirouto;526dht,526dbl"
   },
   {
-    "channel": "逝ク逝ク団",
-    "marker": "ikuikudan",
-    "code": "565ikik"
+    "marker_name": "逝ク逝ク団;ikuikudan;565ikik"
   },
   {
-    "channel": "イケイケお姉さん",
-    "marker": "ikeikeoneesan",
-    "code": "508hyk"
+    "marker_name": "イケイケお姉さん;ikeikeoneesan;508hyk"
   },
   {
-    "channel": "居酒屋モニタリング",
-    "marker": "izakaya",
-    "code": "365izak,365izakaya"
+    "marker_name": "居酒屋モニタリング;izakaya;365izak,365izakaya"
   },
   {
-    "channel": "五十路ん",
-    "marker": "isojin",
-    "code": "388goju"
+    "marker_name": "五十路ん;isojin;388goju"
   },
   {
-    "channel": "E★素人DX",
-    "marker": "eshiroutodx",
-    "code": "766esdx,766esdxs"
+    "marker_name": "E★素人DX;eshiroutodx;766esdx,766esdxs"
   },
   {
-    "channel": "E★ナンパDX",
-    "marker": "enanpadx",
-    "code": "285endx"
+    "marker_name": "E★ナンパDX;enanpadx;285endx"
   },
   {
-    "channel": "E★人妻DX",
-    "marker": "ehitodumadx",
-    "code": "299ewdx"
+    "marker_name": "E★人妻DX;ehitodumadx;299ewdx"
   },
   {
-    "channel": "E★レズDX",
-    "marker": "elesdx",
-    "code": "335eldx"
+    "marker_name": "E★レズDX;elesdx;335eldx"
   },
   {
-    "channel": "イエローダック",
-    "marker": "yellowduck",
-    "code": "156deed,156seed,156yeed"
+    "marker_name": "イエローダック;yellowduck;156deed,156seed,156yeed"
   },
   {
-    "channel": "イチキュッパー",
-    "marker": "ikqp",
-    "code": "145iqpa,145ikqp"
+    "marker_name": "イチキュッパー;ikqp;145iqpa,145ikqp"
   },
   {
-    "channel": "Imagine",
-    "marker": "imagine",
-    "code": "374imgn,374show"
+    "marker_name": "Imagine;imagine;374imgn,374show"
   },
   {
-    "channel": "今ドキ女子の性事情",
-    "marker": "imadokijosinoseijijou",
-    "code": "544idjs"
+    "marker_name": "今ドキ女子の性事情;imadokijosinoseijijou;544idjs"
   },
   {
-    "channel": "いんすた",
-    "marker": "insta",
-    "code": "413instv,413instna,413inon,413insvx,413instma"
+    "marker_name": "いんすた;insta;413instv,413instna,413inon,413insvx,413instma"
   },
   {
-    "channel": "インターネットの（闇）",
-    "marker": "yami",
-    "code": "325intys"
+    "marker_name": "インターネットの（闇）;yami;325intys"
   },
   {
-    "channel": "いんふる",
-    "marker": "infuru",
-    "code": "712infc"
+    "marker_name": "いんふる;infuru;712infc"
   },
   {
-    "channel": "インディ",
-    "marker": "indy",
-    "code": "534pok,534ind,534crt,534smr"
+    "marker_name": "インディ;indy;534pok,534ind,534crt,534smr"
   },
   {
-    "channel": "With",
-    "marker": "with",
-    "code": "358with"
+    "marker_name": "With;with;358with"
   },
   {
-    "channel": "VERONICA",
-    "marker": "veronica",
-    "code": "774vrnc,774vnbb"
+    "marker_name": "VERONICA;veronica;774vrnc,774vnbb"
   },
   {
-    "channel": "volare",
-    "marker": "volare",
-    "code": "536vola"
+    "marker_name": "volare;volare;536vola"
   },
   {
-    "channel": "海亀",
-    "marker": "umigame",
-    "code": "532ukh"
+    "marker_name": "海亀;umigame;532ukh"
   },
   {
-    "channel": "裏垢",
-    "marker": "uraaka",
-    "code": "744ura"
+    "marker_name": "裏垢;uraaka;744ura"
   },
   {
-    "channel": "裏オプFU-ZOKU",
-    "marker": "uraopufuzoku",
-    "code": "768iog"
+    "marker_name": "裏オプFU-ZOKU;uraopufuzoku;768iog"
   },
   {
-    "channel": "HHH",
-    "marker": "uratalknouratalk",
-    "code": "451hhh"
+    "marker_name": "HHH;uratalknouratalk;451hhh"
   },
   {
-    "channel": "A子さん",
-    "marker": "ako",
-    "code": "210ako"
+    "marker_name": "A子さん;ako;210ako"
   },
   {
-    "channel": "ARA",
-    "marker": "ara",
-    "code": "261ara"
+    "marker_name": "ARA;ara;261ara"
   },
   {
-    "channel": "EIKI",
-    "marker": "eiki",
-    "code": "303eikr"
+    "marker_name": "EIKI;eiki;303eikr"
   },
   {
-    "channel": "h.m.p",
-    "marker": "hmp",
-    "code": "002hodv,002howy,002aidv"
+    "marker_name": "h.m.p;hmp;002hodv,002howy,002aidv"
   },
   {
-    "channel": "HGG",
-    "marker": "hgg",
-    "code": "561sp,561okgd,561mica,561pm,561hame"
+    "marker_name": "HGG;hgg;561sp,561okgd,561mica,561pm,561hame"
   },
   {
-    "channel": "AEGEAN",
-    "marker": "aegean",
-    "code": "731aege"
+    "marker_name": "AEGEAN;aegean;731aege"
   },
   {
-    "channel": "H2プロジェクト",
-    "marker": "h2project",
-    "code": "032hhp"
+    "marker_name": "H2プロジェクト;h2project;032hhp"
   },
   {
-    "channel": "SNSで繋がった素人ハメ撮りサークル",
-    "marker": "snsdetsunagatta",
-    "code": "779snsde"
+    "marker_name": "SNSで繋がった素人ハメ撮りサークル;snsdetsunagatta;779snsde"
   },
   {
-    "channel": "SODマジックミラー号",
-    "marker": "sodmm",
-    "code": "320mmgh,320sdfk"
+    "marker_name": "SODマジックミラー号;sodmm;320mmgh,320sdfk"
   },
   {
-    "channel": "S-CUTE",
-    "marker": "scute",
-    "code": "229scute"
+    "marker_name": "S-CUTE;scute;229scute"
   },
   {
-    "channel": "S-CUTE premire",
-    "marker": "scutepremire",
-    "code": "260sprem"
+    "marker_name": "S-CUTE premire;scutepremire;260sprem"
   },
   {
-    "channel": "エチケット",
-    "marker": "etiquette",
-    "code": "274dht"
+    "marker_name": "エチケット;etiquette;274dht"
   },
   {
-    "channel": "Hなお悩み相談",
-    "marker": "hnaonayamisoudan",
-    "code": "383soro"
+    "marker_name": "Hなお悩み相談;hnaonayamisoudan;383soro"
   },
   {
-    "channel": "穢土",
-    "marker": "edo",
-    "code": "582emth"
+    "marker_name": "穢土;edo;582emth"
   },
   {
-    "channel": "エトラ",
-    "marker": "etra",
-    "code": "111etr"
+    "marker_name": "エトラ;etra;111etr"
   },
   {
-    "channel": "Mdisc",
-    "marker": "mdisc",
-    "code": "080nnn"
+    "marker_name": "Mdisc;mdisc;080nnn"
   },
   {
-    "channel": "MBM",
-    "marker": "mbm",
-    "code": "360mbma,360mbmp,360mbmh,360mbm"
+    "marker_name": "MBM;mbm;360mbma,360mbmp,360mbmh,360mbm"
   },
   {
-    "channel": "ENEMA",
-    "marker": "enema",
-    "code": "550ene"
+    "marker_name": "ENEMA;enema;550ene"
   },
   {
-    "channel": "エモい女の子。",
-    "marker": "emoionnanoko",
-    "code": "512emst"
+    "marker_name": "エモい女の子。;emoionnanoko;512emst"
   },
   {
-    "channel": "Erovi",
-    "marker": "erovi",
-    "code": "758japorn,758refuck,758boinbb"
+    "marker_name": "Erovi;erovi;758japorn,758refuck,758boinbb"
   },
   {
-    "channel": "エロタイムPOP！",
-    "marker": "erotimevr",
-    "code": "367etvco,367avopvr"
+    "marker_name": "エロタイムPOP！;erotimevr;367etvco,367avopvr"
   },
   {
-    "channel": "援堂山",
-    "marker": "endouyama",
-    "code": "709ends"
+    "marker_name": "援堂山;endouyama;709ends"
   },
   {
-    "channel": "オイスター海運",
-    "marker": "oysterkaiun",
-    "code": "578swdf,578omt"
+    "marker_name": "オイスター海運;oysterkaiun;578swdf,578omt"
   },
   {
-    "channel": "おしゃぶりクッキング",
-    "marker": "oshaburi",
-    "code": "404dht,404dbl,404osbr"
+    "marker_name": "おしゃぶりクッキング;oshaburi;404dht,404dbl,404osbr"
   },
   {
-    "channel": "御茶ノ水素人研究所",
-    "marker": "ocha",
-    "code": "275jksf,275ocha"
+    "marker_name": "御茶ノ水素人研究所;ocha;275jksf,275ocha"
   },
   {
-    "channel": "おっぱいちゃん",
-    "marker": "oppaichan",
-    "code": "355opcyn"
+    "marker_name": "おっぱいちゃん;oppaichan;355opcyn"
   },
   {
-    "channel": "おっぱい研究所",
-    "marker": "oppiken",
-    "code": "375opai"
+    "marker_name": "おっぱい研究所;oppiken;375opai"
   },
   {
-    "channel": "お父さんの引き出し",
-    "marker": "otousannohikidashi",
-    "code": "455spsh"
+    "marker_name": "お父さんの引き出し;otousannohikidashi;455spsh"
   },
   {
-    "channel": "大人映像",
-    "marker": "otonaeizou",
-    "code": "540oem"
+    "marker_name": "大人映像;otonaeizou;540oem"
   },
   {
-    "channel": "オナCan",
-    "marker": "onacan",
-    "code": "730dmtp"
+    "marker_name": "オナCan;onacan;730dmtp"
   },
   {
-    "channel": "オフパコ",
-    "marker": "offpaco",
-    "code": "323ofpc"
+    "marker_name": "オフパコ;offpaco;323ofpc"
   },
   {
-    "channel": "オルガ",
-    "marker": "orga",
-    "code": "226tamz,226tamm,226torg,226torx,226tamo"
+    "marker_name": "オルガ;orga;226tamz,226tamm,226torg,226torx,226tamo"
   },
   {
-    "channel": "オルチャン素人",
-    "marker": "ulchanshirouto",
-    "code": "450osst"
+    "marker_name": "オルチャン素人;ulchanshirouto;450osst"
   },
   {
-    "channel": "俺の素人-Z-",
-    "marker": "orenoshirouto",
-    "code": "230orecz,230oremo,230oreso,230oreb,230orev"
+    "marker_name": "俺の素人-Z-;orenoshirouto;230orecz,230oremo,230oreso,230oreb,230orev"
   },
   {
-    "channel": "俺の素人-Z-SECONDIMPACT",
-    "marker": "orenoshiroutozsecond",
-    "code": "765orecs"
+    "marker_name": "俺の素人-Z-SECONDIMPACT;orenoshiroutozsecond;765orecs"
   },
   {
-    "channel": "親父の個撮",
-    "marker": "oyajino",
-    "code": "249okb,249okk,249oks,249okc,249okw,249okl,249oky,249okg"
+    "marker_name": "親父の個撮;oyajino;249okb,249okk,249oks,249okc,249okw,249okl,249oky,249okg"
   },
   {
-    "channel": "海外素人倶楽部",
-    "marker": "kaigaishirouto",
-    "code": "308kai"
+    "marker_name": "海外素人倶楽部;kaigaishirouto;308kai"
   },
   {
-    "channel": "海外素人倶楽部",
-    "marker": "ocha",
-    "code": "308kai"
+    "marker_name": "海外素人倶楽部;ocha;308kai"
   },
   {
-    "channel": "カゲキっch",
-    "marker": "kagekich",
-    "code": "486grkg,486grmo,486grmr"
+    "marker_name": "カゲキっch;kagekich;486grkg,486grmo,486grmr"
   },
   {
-    "channel": "カゲキっch",
-    "marker": "murach",
-    "code": "477grmo"
+    "marker_name": "カゲキっch;murach;477grmo"
   },
   {
-    "channel": "KAKUJITSU",
-    "marker": "kakujitsu",
-    "code": "253kaku"
+    "marker_name": "KAKUJITSU;kakujitsu;253kaku"
   },
   {
-    "channel": "カチクオトコノコ",
-    "marker": "kachikuotokonoko",
-    "code": "475skck,475kck"
+    "marker_name": "カチクオトコノコ;kachikuotokonoko;475skck,475kck"
   },
   {
-    "channel": "ガブっと！！素人ハメちゃう課",
-    "marker": "gabutto",
-    "code": "791skgc,791intx,791shsk"
+    "marker_name": "ガブっと！！素人ハメちゃう課;gabutto;791skgc,791intx,791shsk"
   },
   {
-    "channel": "カマタ映像",
-    "marker": "kamataeizou",
-    "code": "024kmds"
+    "marker_name": "カマタ映像;kamataeizou;024kmds"
   },
   {
-    "channel": "カミパイ",
-    "marker": "kamipai",
-    "code": "701kmbb,701paioh"
+    "marker_name": "カミパイ;kamipai;701kmbb,701paioh"
   },
   {
-    "channel": "Cullet",
-    "marker": "cullet",
-    "code": "733clt,733cls"
+    "marker_name": "Cullet;cullet;733clt,733cls"
   },
   {
-    "channel": "北池袋盗撮倶楽部",
-    "marker": "kitaikebukuro",
-    "code": "276bdsf,276kitaike"
+    "marker_name": "北池袋盗撮倶楽部;kitaikebukuro;276bdsf,276kitaike"
   },
   {
-    "channel": "GARCON",
-    "marker": "garcon",
-    "code": "105gar"
+    "marker_name": "GARCON;garcon;105gar"
   },
   {
-    "channel": "きゃっち",
-    "marker": "catch",
-    "code": "586hnhu"
+    "marker_name": "きゃっち;catch;586hnhu"
   },
   {
-    "channel": "GALGAL★LANLAND",
-    "marker": "galgallanland",
-    "code": "780ggll"
+    "marker_name": "GALGAL★LANLAND;galgallanland;780ggll"
   },
   {
-    "channel": "ギャルぽよ。",
-    "marker": "galpoyo",
-    "code": "767gph"
+    "marker_name": "ギャルぽよ。;galpoyo;767gph"
   },
   {
-    "channel": "GALLOP",
-    "marker": "gallop",
-    "code": "236gah,236gne"
+    "marker_name": "GALLOP;gallop;236gah,236gne"
   },
   {
-    "channel": "CUBE",
-    "marker": "cube",
-    "code": "524fanx,524pans,524cubex,524papak,524kamex,524fank,524fanq"
+    "marker_name": "CUBE;cube;524fanx,524pans,524cubex,524papak,524kamex,524fank,524fanq"
   },
   {
-    "channel": "巨乳エクスプレス",
-    "marker": "kyonyuexpress",
-    "code": "528dht,528dbl"
+    "marker_name": "巨乳エクスプレス;kyonyuexpress;528dht,528dbl"
   },
   {
-    "channel": "シーアンドエイチ",
-    "marker": "cutiehoney",
-    "code": "113lsz,113lsc,113lsht,113lsp,113chht,113chns,113chd"
+    "marker_name": "シーアンドエイチ;cutiehoney;113lsz,113lsc,113lsht,113lsp,113chht,113chns,113chd"
   },
   {
-    "channel": "きらきらワイフ",
-    "marker": "kirakirawife",
-    "code": "359tyvm"
+    "marker_name": "きらきらワイフ;kirakirawife;359tyvm"
   },
   {
-    "channel": "KIRAY",
-    "marker": "kiray",
-    "code": "314kiray"
+    "marker_name": "KIRAY;kiray;314kiray"
   },
   {
-    "channel": "KUKI",
-    "marker": "kuki",
-    "code": "050kt,050adz,050oprn"
+    "marker_name": "KUKI;kuki;050kt,050adz,050oprn"
   },
   {
-    "channel": "グーニーズ",
-    "marker": "goonies",
-    "code": "530dg,530gns"
+    "marker_name": "グーニーズ;goonies;530dg,530gns"
   },
   {
-    "channel": "GOOD-BYE-CHERRYBOY",
-    "marker": "goodbyecherryboy",
-    "code": "485gcb"
+    "marker_name": "GOOD-BYE-CHERRYBOY;goodbyecherryboy;485gcb"
   },
   {
-    "channel": "クマネコ本舗",
-    "marker": "kumanekohonnpo",
-    "code": "384shss,384dstg,384hokh,384vtch,384gtws,384mecl"
+    "marker_name": "クマネコ本舗;kumanekohonnpo;384shss,384dstg,384hokh,384vtch,384gtws,384mecl"
   },
   {
-    "channel": "GRAPHITY JAPAN",
-    "marker": "graphityjapan",
-    "code": "062mdvij,062odvhj,062mdvhj,062rdvhj,062gavhj,062yuvhj"
+    "marker_name": "GRAPHITY JAPAN;graphityjapan;062mdvij,062odvhj,062mdvhj,062rdvhj,062gavhj,062yuvhj"
   },
   {
-    "channel": "黒影",
-    "marker": "kurokage",
-    "code": "407kag"
+    "marker_name": "黒影;kurokage;407kag"
   },
   {
-    "channel": "黒蜜",
-    "marker": "kuromitsu",
-    "code": "398con,398kag,398kmtu"
+    "marker_name": "黒蜜;kuromitsu;398con,398kag,398kmtu"
   },
   {
-    "channel": "月刊彼女",
-    "marker": "gekkankanojo",
-    "code": "769kano"
+    "marker_name": "月刊彼女;gekkankanojo;769kano"
   },
   {
-    "channel": "光夜蝶",
-    "marker": "koyacho",
-    "code": "057ysad,057yst,057rewnd,057retbd,057retit,057rewks,057recpm,057rensh,057reoln,057reipc,057remks,057reikt,057reptb,057resgr,057retmg,057reukg,057redip,057rehse,057rejbr,057rejse,057repol,057repot,057wlt,057wrg,057wpe"
+    "marker_name": "光夜蝶;koyacho;057ysad,057yst,057rewnd,057retbd,057retit,057rewks,057recpm,057rensh,057reoln,057reipc,057remks,057reikt,057reptb,057resgr,057retmg,057reukg,057redip,057rehse,057rejbr,057rejse,057repol,057repot,057wlt,057wrg,057wpe"
   },
   {
-    "channel": "五次元",
-    "marker": "gojigen",
-    "code": "759goji"
+    "marker_name": "五次元;gojigen;759goji"
   },
   {
-    "channel": "五反田マングース",
-    "marker": "gotandamongoose",
-    "code": "490fan"
+    "marker_name": "五反田マングース;gotandamongoose;490fan"
   },
   {
-    "channel": "小林興業",
-    "marker": "kobayashi",
-    "code": "137kbkd"
+    "marker_name": "小林興業;kobayashi;137kbkd"
   },
   {
-    "channel": "ゴーゴーズ",
-    "marker": "gogos",
-    "code": "036c,036gs,036p"
+    "marker_name": "ゴーゴーズ;gogos;036c,036gs,036p"
   },
   {
-    "channel": "コスモス映像",
-    "marker": "cosmos",
-    "code": "198hawa,198nag"
+    "marker_name": "コスモス映像;cosmos;198hawa,198nag"
   },
   {
-    "channel": "こりゃヌケる！",
-    "marker": "koryanukeru",
-    "code": "723bbh"
+    "marker_name": "こりゃヌケる！;koryanukeru;723bbh"
   },
   {
-    "channel": "これぞ！素人",
-    "marker": "korezoshirouto",
-    "code": "558krs,558nkm"
+    "marker_name": "これぞ！素人;korezoshirouto;558krs,558nkm"
   },
   {
-    "channel": "GoldenCandy",
-    "marker": "goldencandy",
-    "code": "147cad,147cav"
+    "marker_name": "GoldenCandy;goldencandy;147cad,147cav"
   },
   {
-    "channel": "最強属性",
-    "marker": "zokusei",
-    "code": "296cpde"
+    "marker_name": "最強属性;zokusei;296cpde"
   },
   {
-    "channel": "ZACK",
-    "marker": "zack",
-    "code": "125zack"
+    "marker_name": "ZACK;zack;125zack"
   },
   {
-    "channel": "サディスティックヴィレッジ",
-    "marker": "sadistic",
-    "code": "112svers,112svmgm,112svvrt,112svdvd,112svsha,112svbgr,112svomn,112svcao,112svnnp"
+    "marker_name": "サディスティックヴィレッジ;sadistic;112svers,112svmgm,112svvrt,112svdvd,112svsha,112svbgr,112svomn,112svcao,112svnnp"
   },
   {
-    "channel": "サムシング",
-    "marker": "something",
-    "code": "126sass,126sato,126sako,126sayu,126sspo,126sgot,126sufu,126sabe,126syok,126shot,126siko,126blow,126prem,126tese,126shig,126vips"
+    "marker_name": "サムシング;something;126sass,126sato,126sako,126sayu,126sspo,126sgot,126sufu,126sabe,126syok,126shot,126siko,126blow,126prem,126tese,126shig,126vips"
   },
   {
-    "channel": "サルトル映像出版",
-    "marker": "sartre",
-    "code": "257flb,257twt,257nmk,257pvt,257esv,257esvs"
+    "marker_name": "サルトル映像出版;sartre;257flb,257twt,257nmk,257pvt,257esv,257esvs"
   },
   {
-    "channel": "さんじのおかず",
-    "marker": "sanjinookazu",
-    "code": "484sdgn,484sno,484ssis,484ssni,484tiger,484mkmp,484lulu,484sdc,484sd"
+    "marker_name": "さんじのおかず;sanjinookazu;484sdgn,484sno,484ssis,484ssni,484tiger,484mkmp,484lulu,484sdc,484sd"
   },
   {
-    "channel": "G-AREA",
-    "marker": "garea",
-    "code": "241garea"
+    "marker_name": "G-AREA;garea;241garea"
   },
   {
-    "channel": "GL",
-    "marker": "gl",
-    "code": "215les"
+    "marker_name": "GL;gl;215les"
   },
   {
-    "channel": "SHIGEKI",
-    "marker": "shigeki",
-    "code": "792sgki"
+    "marker_name": "SHIGEKI;shigeki;792sgki"
   },
   {
-    "channel": "思春期.com",
-    "marker": "shisyunki",
-    "code": "307shic,307tend,307dayd"
+    "marker_name": "思春期.com;shisyunki;307shic,307tend,307dayd"
   },
   {
-    "channel": "ZIZ(実写版)",
-    "marker": "zizreality",
-    "code": "213zizg"
+    "marker_name": "ZIZ(実写版);zizreality;213zizg"
   },
   {
-    "channel": "実録出版",
-    "marker": "jitsuroku",
-    "code": "044zotk,044zmoj,044zkkk,044zyh,044zcol,044ztdv,044zsd,044zrdx,044zsgd,044dmx,044zkdx,044jtdv,044zatd,044zkod,044zsrd"
+    "marker_name": "実録出版;jitsuroku;044zotk,044zmoj,044zkkk,044zyh,044zcol,044ztdv,044zsd,044zrdx,044zsgd,044dmx,044zkdx,044jtdv,044zatd,044zkod,044zsrd"
   },
   {
-    "channel": "G-HISTORY",
-    "marker": "ghistory",
-    "code": "234hk,234km,234od,234ghs,234gmr,234guo,234suoz,234syo,234dom,234gb,234gur,234ssbd,234hc,234hn,234sbn,234srz,234shsg,234dh,234jzbd"
+    "marker_name": "G-HISTORY;ghistory;234hk,234km,234od,234ghs,234gmr,234guo,234suoz,234syo,234dom,234gb,234gur,234ssbd,234hc,234hn,234sbn,234srz,234shsg,234dh,234jzbd"
   },
   {
-    "channel": "渋録ch",
-    "marker": "shiburokuch",
-    "code": "737src"
+    "marker_name": "渋録ch;shiburokuch;737src"
   },
   {
-    "channel": "シャイ企画",
-    "marker": "shy",
-    "code": "101sn,101eb,101alu,101shj"
+    "marker_name": "シャイ企画;shy;101sn,101eb,101alu,101shj"
   },
   {
-    "channel": "シャーク",
-    "marker": "shark",
-    "code": "579shm,579jbjb,579snkh,579macb,579snkp,579mabp"
+    "marker_name": "シャーク;shark;579shm,579jbjb,579snkh,579macb,579snkp,579mabp"
   },
   {
-    "channel": "地雷系女子美人",
-    "marker": "jiraikeijoshibijin",
-    "code": "557jrjb"
+    "marker_name": "地雷系女子美人;jiraikeijoshibijin;557jrjb"
   },
   {
-    "channel": "JUMP",
-    "marker": "jump",
-    "code": "577jukf"
+    "marker_name": "JUMP;jump;577jukf"
   },
   {
-    "channel": "ジャネス",
-    "marker": "jns",
-    "code": "063djnz,063djni,063djno,063dbzg,063djnl,063djnj,063djnk,063djsb,063djnw,063dbzh,063djnx,063djnh,063djnn,063djnv,063djne,063djnr,063djnt"
+    "marker_name": "ジャネス;jns;063djnz,063djni,063djno,063dbzg,063djnl,063djnj,063djnk,063djsb,063djnw,063dbzh,063djnx,063djnh,063djnn,063djnv,063djne,063djnr,063djnt"
   },
   {
-    "channel": "Juicy Diner",
-    "marker": "juicydiner",
-    "code": "212jd"
+    "marker_name": "Juicy Diner;juicydiner;212jd"
   },
   {
-    "channel": "JYUKURICH",
-    "marker": "jyukurich",
-    "code": "523dht"
+    "marker_name": "JYUKURICH;jyukurich;523dht"
   },
   {
-    "channel": "熟女画報社",
-    "marker": "jyukujyogahou",
-    "code": "270jgaho"
+    "marker_name": "熟女画報社;jyukujyogahou;270jgaho"
   },
   {
-    "channel": "熟女の色道",
-    "marker": "jukujonoshikidou",
-    "code": "753jim"
+    "marker_name": "熟女の色道;jukujonoshikidou;753jim"
   },
   {
-    "channel": "熟蜜のヒミツ",
-    "marker": "jyukumitsu",
-    "code": "188hint"
+    "marker_name": "熟蜜のヒミツ;jyukumitsu;188hint"
   },
   {
-    "channel": "旬感",
-    "marker": "syunkan",
-    "code": "334shkn"
+    "marker_name": "旬感;syunkan;334shkn"
   },
   {
-    "channel": "昭和以上熟女未満",
-    "marker": "shouwaijoujukujo",
-    "code": "802sj"
+    "marker_name": "昭和以上熟女未満;shouwaijoujukujo;802sj"
   },
   {
-    "channel": "ジェネシス",
-    "marker": "genesis",
-    "code": "569gesb"
+    "marker_name": "ジェネシス;genesis;569gesb"
   },
   {
-    "channel": "SILK LABO",
-    "marker": "silklabo",
-    "code": "220silk,220silks,220silku,220silkbt,220vrsl"
+    "marker_name": "SILK LABO;silklabo;220silk,220silks,220silku,220silkbt,220vrsl"
   },
   {
-    "channel": "SILK LABO",
-    "marker": "sodcreate",
-    "code": "220silk"
+    "marker_name": "SILK LABO;sodcreate;220silk"
   },
   {
-    "channel": "シルビア",
-    "marker": "silvia",
-    "code": "072king,072sen,072sil,072silspe"
+    "marker_name": "シルビア;silvia;072king,072sen,072sil,072silspe"
   },
   {
-    "channel": "しろうとあぁん！",
-    "marker": "shiroutoaan",
-    "code": "469saan,469g,469ahn"
+    "marker_name": "しろうとあぁん！;shiroutoaan;469saan,469g,469ahn"
   },
   {
-    "channel": "素人あんあん",
-    "marker": "shiroutoanan",
-    "code": "714anan"
+    "marker_name": "素人あんあん;shiroutoanan;714anan"
   },
   {
-    "channel": "#素人裏アカウント ちょっぴり激しいの好き",
-    "marker": "shiroutoaka",
-    "code": "415las,415ana"
+    "marker_name": "#素人裏アカウント ちょっぴり激しいの好き;shiroutoaka;415las,415ana"
   },
   {
-    "channel": "素人おかしや",
-    "marker": "shiroutookashiya",
-    "code": "396big"
+    "marker_name": "素人おかしや;shiroutookashiya;396big"
   },
   {
-    "channel": "素人ギャラリー",
-    "marker": "shiroutogallery",
-    "code": "739ptpj,739mmka,739kjsk,739sxfe,739osfs,739pkti,739wfrn,739omms,739nhdb,739btno,739idjs,739wijr,739frga,739stpstl,739stsraz,739stspbj,739pstl,739dpdx,739hafz,739sgnp,739spko,739stbkkj,739stakyb,739stidjs,739cphr,739sraz,739stecbr,739stpkti,739stcpfu,739stmmka,739pnmo,739fknp,739tykj,739stmgbj,739stjrjb,739stptpj,739tobp,739akmn"
+    "marker_name": "素人ギャラリー;shiroutogallery;739ptpj,739mmka,739kjsk,739sxfe,739osfs,739pkti,739wfrn,739omms,739nhdb,739btno,739idjs,739wijr,739frga,739stpstl,739stsraz,739stspbj,739pstl,739dpdx,739hafz,739sgnp,739spko,739stbkkj,739stakyb,739stidjs,739cphr,739sraz,739stecbr,739stpkti,739stcpfu,739stmmka,739pnmo,739fknp,739tykj,739stmgbj,739stjrjb,739stptpj,739tobp,739akmn"
   },
   {
-    "channel": "シロウト急便",
-    "marker": "shiroutokyubin",
-    "code": "380sqb"
+    "marker_name": "シロウト急便;shiroutokyubin;380sqb"
   },
   {
-    "channel": "素人CLOVER",
-    "marker": "shiroutoclover",
-    "code": "529stcvs,529stcv,529scbb"
+    "marker_name": "素人CLOVER;shiroutoclover;529stcvs,529stcv,529scbb"
   },
   {
-    "channel": "素人39",
-    "marker": "shiroutosankyu",
-    "code": "549stsk"
+    "marker_name": "素人39;shiroutosankyu;549stsk"
   },
   {
-    "channel": "素人参加バライエティ",
-    "marker": "shiroutosanka",
-    "code": "444king,444kiss"
+    "marker_name": "素人参加バライエティ;shiroutosanka;444king,444kiss"
   },
   {
-    "channel": "素人羞恥娘。",
-    "marker": "shiroutoshuchimusume",
-    "code": "474musume"
+    "marker_name": "素人羞恥娘。;shiroutoshuchimusume;474musume"
   },
   {
-    "channel": "#素人しか勝たん",
-    "marker": "shiroutoshikakatan",
-    "code": "520ssk"
+    "marker_name": "#素人しか勝たん;shiroutoshikakatan;520ssk"
   },
   {
-    "channel": "シロウトソシアルクラブ",
-    "marker": "shiroutososhiaru",
-    "code": "752sscj,752sscb"
+    "marker_name": "シロウトソシアルクラブ;shiroutososhiaru;752sscj,752sscb"
   },
   {
-    "channel": "素人しばいたろかん",
-    "marker": "shiroutoshibaitarokan",
-    "code": "519mazof"
+    "marker_name": "素人しばいたろかん;shiroutoshibaitarokan;519mazof"
   },
   {
-    "channel": "しろうとタイム",
-    "marker": "shiroutotime",
-    "code": "725skej"
+    "marker_name": "しろうとタイム;shiroutotime;725skej"
   },
   {
-    "channel": "シロウトタッチ",
-    "marker": "shiroutotouch",
-    "code": "248dyg,248hdg,248ddg"
+    "marker_name": "シロウトタッチ;shiroutotouch;248dyg,248hdg,248ddg"
   },
   {
-    "channel": "シロウト大好きハメ撮り専門",
-    "marker": "shiroutodaisuki",
-    "code": "511sdk"
+    "marker_name": "シロウト大好きハメ撮り専門;shiroutodaisuki;511sdk"
   },
   {
-    "channel": "シロウトなんなん",
-    "marker": "shiroutonannan",
-    "code": "573dht"
+    "marker_name": "シロウトなんなん;shiroutonannan;573dht"
   },
   {
-    "channel": "素人ナンパバラエティ",
-    "marker": "shiroutonanpavariety",
-    "code": "717nnp"
+    "marker_name": "素人ナンパバラエティ;shiroutonanpavariety;717nnp"
   },
   {
-    "channel": "しろうとパックンチョ!!",
-    "marker": "shiroutopakkuncho",
-    "code": "460spcz,460spcy"
+    "marker_name": "しろうとパックンチョ!!;shiroutopakkuncho;460spcz,460spcy"
   },
   {
-    "channel": "素人ハメ次郎",
-    "marker": "shiroutohamejirou",
-    "code": "581shmj"
+    "marker_name": "素人ハメ次郎;shiroutohamejirou;581shmj"
   },
   {
-    "channel": "素人ペイペイ",
-    "marker": "shiroutopaypay",
-    "code": "748spay"
+    "marker_name": "素人ペイペイ;shiroutopaypay;748spay"
   },
   {
-    "channel": "素人ワンチャン",
-    "marker": "shiroutowanchan",
-    "code": "527sroc"
+    "marker_name": "素人ワンチャン;shiroutowanchan;527sroc"
   },
   {
-    "channel": "白完素人",
-    "marker": "sirokanshirouto",
-    "code": "494sika"
+    "marker_name": "白完素人;sirokanshirouto;494sika"
   },
   {
-    "channel": "シロハメ",
-    "marker": "shirohame",
-    "code": "716hame"
+    "marker_name": "シロハメ;shirohame;716hame"
   },
   {
-    "channel": "蜃気楼",
-    "marker": "shinkirou",
-    "code": "467shinki"
+    "marker_name": "蜃気楼;shinkirou;467shinki"
   },
   {
-    "channel": "信州書店",
-    "marker": "shinsyu",
-    "code": "139sns"
+    "marker_name": "信州書店;shinsyu;139sns"
   },
   {
-    "channel": "新宿交縁女子",
-    "marker": "shinjukukouenjoshi",
-    "code": "801skej,801fhmd"
+    "marker_name": "新宿交縁女子;shinjukukouenjoshi;801skej,801fhmd"
   },
   {
-    "channel": "新中野小劇場",
-    "marker": "shinnakano",
-    "code": "297wakm"
+    "marker_name": "新中野小劇場;shinnakano;297wakm"
   },
   {
-    "channel": "シン・ぱすも",
-    "marker": "shinpasmo",
-    "code": "728undg"
+    "marker_name": "シン・ぱすも;shinpasmo;728undg"
   },
   {
-    "channel": "SWITCH",
-    "marker": "switch",
-    "code": "136sw"
+    "marker_name": "SWITCH;switch;136sw"
   },
   {
-    "channel": "SQUARE",
-    "marker": "square",
-    "code": "144sqes"
+    "marker_name": "SQUARE;square;144sqes"
   },
   {
-    "channel": "Scream！VR",
-    "marker": "screamvr",
-    "code": "588wabb"
+    "marker_name": "Scream！VR;screamvr;588wabb"
   },
   {
-    "channel": "SUKESUKE",
-    "marker": "sukesuke",
-    "code": "368ichk,368skjk,368sksk"
+    "marker_name": "SUKESUKE;sukesuke;368ichk,368skjk,368sksk"
   },
   {
-    "channel": "スコッチ",
-    "marker": "scocci",
-    "code": "362scoh"
+    "marker_name": "スコッチ;scocci;362scoh"
   },
   {
-    "channel": "ZOOO",
-    "marker": "zooo",
-    "code": "458zooo,458hobb,458rabb"
+    "marker_name": "ZOOO;zooo;458zooo,458hobb,458rabb"
   },
   {
-    "channel": "スターシップエンターテイメント",
-    "marker": "sse",
-    "code": "123sho"
+    "marker_name": "スターシップエンターテイメント;sse;123sho"
   },
   {
-    "channel": "Starみぃつけた！",
-    "marker": "starmituketa",
-    "code": "576stzy"
+    "marker_name": "Starみぃつけた！;starmituketa;576stzy"
   },
   {
-    "channel": "Studio Flora",
-    "marker": "studioflora",
-    "code": "743stf"
+    "marker_name": "Studio Flora;studioflora;743stf"
   },
   {
-    "channel": "すっぴん美人",
-    "marker": "suppinbijin",
-    "code": "711spbj"
+    "marker_name": "すっぴん美人;suppinbijin;711spbj"
   },
   {
-    "channel": "SNAP×SNAP",
-    "marker": "snapsnap",
-    "code": "786sna"
+    "marker_name": "SNAP×SNAP;snapsnap;786sna"
   },
   {
-    "channel": "SPYEYE",
-    "marker": "spyeye",
-    "code": "268spye"
+    "marker_name": "SPYEYE;spyeye;268spye"
   },
   {
-    "channel": "SPICYVR",
-    "marker": "spicyvr",
-    "code": "554spivr"
+    "marker_name": "SPICYVR;spicyvr;554spivr"
   },
   {
-    "channel": "青春舎",
-    "marker": "seisyunsya",
-    "code": "269oyaj"
+    "marker_name": "青春舎;seisyunsya;269oyaj"
   },
   {
-    "channel": "性帝サウザー",
-    "marker": "seiteisauza",
-    "code": "464stst"
+    "marker_name": "性帝サウザー;seiteisauza;464stst"
   },
   {
-    "channel": "世界の素人",
-    "marker": "sekainoshirouto",
-    "code": "361sekao"
+    "marker_name": "世界の素人;sekainoshirouto;361sekao"
   },
   {
-    "channel": "赤面女子",
-    "marker": "sekimen",
-    "code": "340skmj"
+    "marker_name": "赤面女子;sekimen;340skmj"
   },
   {
-    "channel": "７",
-    "marker": "seven",
-    "code": "181sev"
+    "marker_name": "７;seven;181sev"
   },
   {
-    "channel": "センタービレッジ",
-    "marker": "centervillage",
-    "code": "006cvdx,006fera,006abba,006jrze,006jura,006tenh,006xmom,006hthdx,006kaadx,006euud,006hthd,006goul,006gomu,006keedx,006mesu,006fuga,006hhed,006iqqq,006keed,006cherd,006kaad"
+    "marker_name": "センタービレッジ;centervillage;006cvdx,006fera,006abba,006jrze,006jura,006tenh,006xmom,006hthdx,006kaadx,006euud,006hthd,006goul,006gomu,006keedx,006mesu,006fuga,006hhed,006iqqq,006keed,006cherd,006kaad"
   },
   {
-    "channel": "即席シロウト",
-    "marker": "sokusekishirouto",
-    "code": "539insf"
+    "marker_name": "即席シロウト;sokusekishirouto;539insf"
   },
   {
-    "channel": "即ヌキ",
-    "marker": "sokunuki",
-    "code": "741v104,741a025,741p094,741v099,741v098,741a005,741p096,741v100,741m984,741v095,741v093,741m985,741p090,741m980,741m968,741v090,741m977,741m965,741p087,741v089,741m970,741h082,741v087,741p084,741m952,741v085,741v084,741p080,741p079,741v079,741m938,741p081,741m941,741m933,741v080,741v082"
+    "marker_name": "即ヌキ;sokunuki;741v104,741a025,741p094,741v099,741v098,741a005,741p096,741v100,741m984,741v095,741v093,741m985,741p090,741m980,741m968,741v090,741m977,741m965,741p087,741v089,741m970,741h082,741v087,741p084,741m952,741v085,741v084,741p080,741p079,741v079,741m938,741p081,741m941,741m933,741v080,741v082"
   },
   {
-    "channel": "ソルトペッパー",
-    "marker": "saltpepper",
-    "code": "082av,082hnd,082kumo"
+    "marker_name": "ソルトペッパー;saltpepper;082av,082hnd,082kumo"
   },
   {
-    "channel": "SOSORU",
-    "marker": "sosoru",
-    "code": "182ssr"
+    "marker_name": "SOSORU;sosoru;182ssr"
   },
   {
-    "channel": "SOSORU×GARCON",
-    "marker": "sxg",
-    "code": "271gs"
+    "marker_name": "SOSORU×GARCON;sxg;271gs"
   },
   {
-    "channel": "大洋図書",
-    "marker": "taiyoh",
-    "code": "065bwsd,065kpsd,065dbsd,065lwsd,065zbsd"
+    "marker_name": "大洋図書;taiyoh;065bwsd,065kpsd,065dbsd,065lwsd,065zbsd"
   },
   {
-    "channel": "DAHLIA",
-    "marker": "dahlia",
-    "code": "513dldss,513dcdss"
+    "marker_name": "DAHLIA;dahlia;513dldss,513dcdss"
   },
   {
-    "channel": "滝登りナンパ鯛",
-    "marker": "takinoborinanpadai",
-    "code": "501tnt"
+    "marker_name": "滝登りナンパ鯛;takinoborinanpadai;501tnt"
   },
   {
-    "channel": "Dutch Wife",
-    "marker": "dutchwife",
-    "code": "736dw"
+    "marker_name": "Dutch Wife;dutchwife;736dw"
   },
   {
-    "channel": "DANDY",
-    "marker": "dandy",
-    "code": "104dandy,104dandan"
+    "marker_name": "DANDY;dandy;104dandy,104dandan"
   },
   {
-    "channel": "陳飛龍",
-    "marker": "chenfeilong",
-    "code": "521mgfx"
+    "marker_name": "陳飛龍;chenfeilong;521mgfx"
   },
   {
-    "channel": "超敗北",
-    "marker": "chouhaiboku",
-    "code": "720hjp,720hbs"
+    "marker_name": "超敗北;chouhaiboku;720hjp,720hbs"
   },
   {
-    "channel": "chinkosu",
-    "marker": "chinkosu",
-    "code": "516chin"
+    "marker_name": "chinkosu;chinkosu;516chin"
   },
   {
-    "channel": "ち○ぽあります",
-    "marker": "chinpoarimasu",
-    "code": "338chinpo"
+    "marker_name": "ち○ぽあります;chinpoarimasu;338chinpo"
   },
   {
-    "channel": "つちのこシンデレラ",
-    "marker": "tsuchinokocinderella",
-    "code": "202rose,202ttnk"
+    "marker_name": "つちのこシンデレラ;tsuchinokocinderella;202rose,202ttnk"
   },
   {
-    "channel": "連れ込み宿墨田屋",
-    "marker": "tsurekomiyado",
-    "code": "708smdy"
+    "marker_name": "連れ込み宿墨田屋;tsurekomiyado;708smdy"
   },
   {
-    "channel": "TMクリエイト",
-    "marker": "tmc",
-    "code": "051par,051mgr,051cd25,051cd24,051cd23,051cd22,051cd21,051cd20"
+    "marker_name": "TMクリエイト;tmc;051par,051mgr,051cd25,051cd24,051cd23,051cd22,051cd21,051cd20"
   },
   {
-    "channel": "DESIRE",
-    "marker": "desire",
-    "code": "140grds"
+    "marker_name": "DESIRE;desire;140grds"
   },
   {
-    "channel": "ティーズ",
-    "marker": "tees",
-    "code": "290vsed,290jukf,290bstc,290macb,290snkh,290omt,290shm,290swdf,290jbjb,290dlix"
+    "marker_name": "ティーズ;tees;290vsed,290jukf,290bstc,290macb,290snkh,290omt,290shm,290swdf,290jbjb,290dlix"
   },
   {
-    "channel": "デジスタ",
-    "marker": "digista",
-    "code": "133shl"
+    "marker_name": "デジスタ;digista;133shl"
   },
   {
-    "channel": "digitalark",
-    "marker": "digitalark",
-    "code": "066flav,066igad,066chae,066fcdc,066tony,066arkj,066daya,066digi,066ymmt,066nbss"
+    "marker_name": "digitalark;digitalark;066flav,066igad,066chae,066fcdc,066tony,066arkj,066daya,066digi,066ymmt,066nbss"
   },
   {
-    "channel": "天",
-    "marker": "ten",
-    "code": "054ga,054i,054shi,054ten,054mu,054ku,054shu"
+    "marker_name": "天;ten;054ga,054i,054shi,054ten,054mu,054ku,054shu"
   },
   {
-    "channel": "天然",
-    "marker": "tennen",
-    "code": "504tnnn"
+    "marker_name": "天然;tennen;504tnnn"
   },
   {
-    "channel": "電脳ラスプーチン",
-    "marker": "dennourasputin",
-    "code": "568drpt,568drpts"
+    "marker_name": "電脳ラスプーチン;dennourasputin;568drpt,568drpts"
   },
   {
-    "channel": "TMA",
-    "marker": "tma",
-    "code": "003t38,00333id,003fays,003agp,00332id,003t28,00331id,00330id,003csct,003tmavr,00328id,00327id,00326id,003dtcvr,003akb,003affa,003qvg,003tpro,003kirn,003aymd,003kwe,00325id"
+    "marker_name": "TMA;tma;003t38,00333id,003fays,003agp,00332id,003t28,00331id,00330id,003csct,003tmavr,00328id,00327id,00326id,003dtcvr,003akb,003affa,003qvg,003tpro,003kirn,003aymd,003kwe,00325id"
   },
   {
-    "channel": "TOY GIRL",
-    "marker": "toygirl",
-    "code": "157tgbe,157stav,157ofav,157otav,157tgav"
+    "marker_name": "TOY GIRL;toygirl;157tgbe,157stav,157ofav,157otav,157tgav"
   },
   {
-    "channel": "東京ティンティン+",
-    "marker": "tokyotintin",
-    "code": "166tin,166tind"
+    "marker_name": "東京ティンティン+;tokyotintin;166tin,166tind"
   },
   {
-    "channel": "Tokyo247",
-    "marker": "tokyo247",
-    "code": "240tokyo"
+    "marker_name": "Tokyo247;tokyo247;240tokyo"
   },
   {
-    "channel": "東京不倫",
-    "marker": "tokyofurin",
-    "code": "525dht"
+    "marker_name": "東京不倫;tokyofurin;525dht"
   },
   {
-    "channel": "TOKYO不倫File",
-    "marker": "tokyofurinfile",
-    "code": "784mdmu"
+    "marker_name": "TOKYO不倫File;tokyofurinfile;784mdmu"
   },
   {
-    "channel": "投稿マーケット素人イッてQ",
-    "marker": "itteq",
-    "code": "324srtd"
+    "marker_name": "投稿マーケット素人イッてQ;itteq;324srtd"
   },
   {
-    "channel": "盗撮バスターズ",
-    "marker": "busters",
-    "code": "buz"
+    "marker_name": "盗撮バスターズ;busters;buz"
   },
   {
-    "channel": "童貞筆おろし本舗",
-    "marker": "douteihonpo",
-    "code": "319dtfh"
+    "marker_name": "童貞筆おろし本舗;douteihonpo;319dtfh"
   },
   {
-    "channel": "ドキカクch",
-    "marker": "dokikaku",
-    "code": "301vret"
+    "marker_name": "ドキカクch ;dokikaku;301vret"
   },
   {
-    "channel": "ときわ映像",
-    "marker": "tokiwaeizou",
-    "code": "491tkwa"
+    "marker_name": "ときわ映像;tokiwaeizou;491tkwa"
   },
   {
-    "channel": "ドッキング！！",
-    "marker": "docking",
-    "code": "797d"
+    "marker_name": "ドッキング！！;docking;797d"
   },
   {
-    "channel": "ドッグイア",
-    "marker": "dogear",
-    "code": "231dog"
+    "marker_name": "ドッグイア;dogear;231dog"
   },
   {
-    "channel": "TOPランナー",
-    "marker": "toprunner",
-    "code": "718yzf,718fzr,718xjr"
+    "marker_name": "TOPランナー;toprunner;718yzf,718fzr,718xjr"
   },
   {
-    "channel": "虎堂",
-    "marker": "torado",
-    "code": "256tdd,256div,256tdbr,256tdsu,256mxm,256tdss,256cat"
+    "marker_name": "虎堂;torado;256tdd,256div,256tdbr,256tdsu,256mxm,256tdss,256cat"
   },
   {
-    "channel": "トランプ-X-",
-    "marker": "trump",
-    "code": "305trumg,305trumo,305truwa"
+    "marker_name": "トランプ-X-;trump;305trumg,305trumo,305truwa"
   },
   {
-    "channel": "ドリームチケット",
-    "marker": "dreamticket",
-    "code": "224ufd,224aimtd,224ainod,224cod,224remtd,224renod,224qbd,224ped,224dtsl,224dkd,224frd,224rerxd,224reqbd,224nhd,224reksd,224reaad,224recxd,224nad,224recad,224reexd,224dtvr,224bld,224reufd,224srebnd,224relgd,224skwd,224reimd"
+    "marker_name": "ドリームチケット;dreamticket;224ufd,224aimtd,224ainod,224cod,224remtd,224renod,224qbd,224ped,224dtsl,224dkd,224frd,224rerxd,224reqbd,224nhd,224reksd,224reaad,224recxd,224nad,224recad,224reexd,224dtvr,224bld,224reufd,224srebnd,224relgd,224skwd,224reimd"
   },
   {
-    "channel": "ながえSTYLE",
-    "marker": "nagae",
-    "code": "058sbns"
+    "marker_name": "ながえSTYLE;nagae;058sbns"
   },
   {
-    "channel": "中村家系",
-    "marker": "nakamuraiekei",
-    "code": "587nkmi"
+    "marker_name": "中村家系;nakamuraiekei;587nkmi"
   },
   {
-    "channel": "中目黒人妻メンズエステ",
-    "marker": "nakamegurohitozuma",
-    "code": "593nhmsg"
+    "marker_name": "中目黒人妻メンズエステ;nakamegurohitozuma;593nhmsg"
   },
   {
-    "channel": "NAGOYAか円光",
-    "marker": "nagoyakaenkou",
-    "code": "493naen,493pkpd"
+    "marker_name": "NAGOYAか円光;nagoyakaenkou;493naen,493pkpd"
   },
   {
-    "channel": "ななせ",
-    "marker": "nanase",
-    "code": "533nns"
+    "marker_name": "ななせ;nanase;533nns"
   },
   {
-    "channel": "なまなま",
-    "marker": "namanama",
-    "code": "787hnamh,787snamh,787namh,787namhs"
+    "marker_name": "なまなま;namanama;787hnamh,787snamh,787namh,787namhs"
   },
   {
-    "channel": "なまなま.net",
-    "marker": "namanamanet",
-    "code": "332sys,332nama"
+    "marker_name": "なまなま.net;namanamanet;332sys,332nama"
   },
   {
-    "channel": "ニイハオ",
-    "marker": "niihao",
-    "code": "510ello"
+    "marker_name": "ニイハオ;niihao;510ello"
   },
   {
-    "channel": "女体昇天映像社",
-    "marker": "nyotaishouten",
-    "code": "517mqxt"
+    "marker_name": "女体昇天映像社;nyotaishouten;517mqxt"
   },
   {
-    "channel": "人間考察",
-    "marker": "ningenkousatsu",
-    "code": "124ngks"
+    "marker_name": "人間考察;ningenkousatsu;124ngks"
   },
   {
-    "channel": "ヌキ族",
-    "marker": "nukizoku",
-    "code": "262ftik,262lon,262nkt,262flea"
+    "marker_name": "ヌキ族;nukizoku;262ftik,262lon,262nkt,262flea"
   },
   {
-    "channel": "＃ぬるパコ！",
-    "marker": "nurupako",
-    "code": "468nrpk"
+    "marker_name": "＃ぬるパコ！;nurupako;468nrpk"
   },
   {
-    "channel": "NEOBLACK",
-    "marker": "neoblack",
-    "code": "439neob"
+    "marker_name": "NEOBLACK;neoblack;439neob"
   },
   {
-    "channel": "NEXT",
-    "marker": "next",
-    "code": "052ofku,052spz,052jckl,052vnds,052cou,052sihb,052embm,052doki,052yoz,052pes,052kir,052olm,052nxg,052pess,052ghat,052eihb"
+    "marker_name": "NEXT;next;052ofku,052spz,052jckl,052vnds,052cou,052sihb,052embm,052doki,052yoz,052pes,052kir,052olm,052nxg,052pess,052ghat,052eihb"
   },
   {
-    "channel": "ノースキンズ",
-    "marker": "noskyns",
-    "code": "702aiav,702nsbb,702noskn"
+    "marker_name": "ノースキンズ;noskyns;702aiav,702nsbb,702noskn"
   },
   {
-    "channel": "濃蜜淫汁",
-    "marker": "noumitsuinjiru",
-    "code": "782jiru"
+    "marker_name": "濃蜜淫汁;noumitsuinjiru;782jiru"
   },
   {
-    "channel": "NON",
-    "marker": "non",
-    "code": "225ysn,225ytr,225reysn,225avopvr,225yal"
+    "marker_name": "NON;non;225ysn,225ytr,225reysn,225avopvr,225yal"
   },
   {
-    "channel": "はーふちゃん",
-    "marker": "halfchan",
-    "code": "531hfc"
+    "marker_name": "はーふちゃん;halfchan;531hfc"
   },
   {
-    "channel": "P活おいたん",
-    "marker": "pkatsuoitan",
-    "code": "790pktx,790pkta"
+    "marker_name": "P活おいたん;pkatsuoitan;790pktx,790pkta"
   },
   {
-    "channel": "BUZZDOCUMENT",
-    "marker": "buzzdocument",
-    "code": "409bzdc"
+    "marker_name": "BUZZDOCUMENT;buzzdocument;409bzdc"
   },
   {
-    "channel": "パツキン素人",
-    "marker": "patsukinshirouto",
-    "code": "424osst,424psst"
+    "marker_name": "パツキン素人;patsukinshirouto;424osst,424psst"
   },
   {
-    "channel": "HUSTLE",
-    "marker": "hustle",
-    "code": "707hust"
+    "marker_name": "HUSTLE;hustle;707hust"
   },
   {
-    "channel": "パープルジャム",
-    "marker": "purplejam",
-    "code": "545pjab,545pjam"
+    "marker_name": "パープルジャム;purplejam;545pjab,545pjam"
   },
   {
-    "channel": "ハニーハント",
-    "marker": "hunnyhunt",
-    "code": "191srt"
+    "marker_name": "ハニーハント;hunnyhunt;191srt"
   },
   {
-    "channel": "パパ活ナンパ",
-    "marker": "papakatsunanpa",
-    "code": "705fknp"
+    "marker_name": "パパ活ナンパ;papakatsunanpa;705fknp"
   },
   {
-    "channel": "ハマジム",
-    "marker": "hmjm",
-    "code": "001hmnf,001btg,001hmgl,001hmjm,001vgd,001hmpg"
+    "marker_name": "ハマジム;hmjm;001hmnf,001btg,001hmgl,001hmjm,001vgd,001hmpg"
   },
   {
-    "channel": "はめまん",
-    "marker": "hameman",
-    "code": "595chnym,595bytcn,595htkt,595enkcn,595gab"
+    "marker_name": "はめまん;hameman;595chnym,595bytcn,595htkt,595enkcn,595gab"
   },
   {
-    "channel": "ハメドリネットワーク2nd",
-    "marker": "hamedori2nd",
-    "code": "328uinav,328hmdnv,328stvf,328kkwx,328mbrk,328xox,328ggp,328hmdsx,328ssbx"
+    "marker_name": "ハメドリネットワーク2nd;hamedori2nd;328uinav,328hmdnv,328stvf,328kkwx,328mbrk,328xox,328ggp,328hmdsx,328ssbx"
   },
   {
-    "channel": "ハラスメント",
-    "marker": "harassment",
-    "code": "775hrsm"
+    "marker_name": "ハラスメント;harassment;775hrsm"
   },
   {
-    "channel": "パラダイステレビ",
-    "marker": "paradisetv",
-    "code": "083ppp"
+    "marker_name": "パラダイステレビ;paradisetv;083ppp"
   },
   {
-    "channel": "パン偵",
-    "marker": "pantei",
-    "code": "192ptn"
+    "marker_name": "パン偵;pantei;192ptn"
   },
   {
-    "channel": "ハーレムTV",
-    "marker": "haremtv",
-    "code": "436hlm"
+    "marker_name": "ハーレムTV;haremtv;436hlm"
   },
   {
-    "channel": "hawaii",
-    "marker": "hawaii",
-    "code": "710wawa"
+    "marker_name": "hawaii;hawaii;710wawa"
   },
   {
-    "channel": "BUNGEE ENTERTAINMENT",
-    "marker": "bungee",
-    "code": "385bngd"
+    "marker_name": "BUNGEE ENTERTAINMENT;bungee;385bngd"
   },
   {
-    "channel": "BEATLE",
-    "marker": "beatle",
-    "code": "738kmkfx,738tonx,738tonv,738kicv,738gblfx"
+    "marker_name": "BEATLE;beatle;738kmkfx,738tonx,738tonv,738kicv,738gblfx"
   },
   {
-    "channel": "ぴえんちゃん",
-    "marker": "pienchan",
-    "code": "552pien"
+    "marker_name": "ぴえんちゃん;pienchan;552pien"
   },
   {
-    "channel": "ピエロ",
-    "marker": "pierrot",
-    "code": "148les,148nam,148tfg,148par,077les,077tfg,148sex,077sex,077nam"
+    "marker_name": "ピエロ;pierrot;148les,148nam,148tfg,148par,077les,077tfg,148sex,077sex,077nam"
   },
   {
-    "channel": "ピクチン",
-    "marker": "pikuchin",
-    "code": "727pchn"
+    "marker_name": "ピクチン;pikuchin;727pchn"
   },
   {
-    "channel": "ピタパン女子",
-    "marker": "pitapanjoshi",
-    "code": "556ptpj"
+    "marker_name": "ピタパン女子;pitapanjoshi;556ptpj"
   },
   {
-    "channel": "PEA-CH",
-    "marker": "peach",
-    "code": "293pch"
+    "marker_name": "PEA-CH;peach;293pch"
   },
   {
-    "channel": "人妻空蝉橋",
-    "marker": "utsusemihashi",
-    "code": "279utsu"
+    "marker_name": "人妻空蝉橋;utsusemihashi;279utsu"
   },
   {
-    "channel": "人妻願望",
-    "marker": "ganbou",
-    "code": "347tjtj,347gbgb"
+    "marker_name": "人妻願望;ganbou;347tjtj,347gbgb"
   },
   {
-    "channel": "人妻さん",
-    "marker": "hitozumasan",
-    "code": "776hdsn,776hdom"
+    "marker_name": "人妻さん;hitozumasan;776hdsn,776hdom"
   },
   {
-    "channel": "人妻花園劇場",
-    "marker": "hanazono",
-    "code": "287hzgd,287hzgb"
+    "marker_name": "人妻花園劇場;hanazono;287hzgd,287hzgb"
   },
   {
-    "channel": "ヒビノ",
-    "marker": "hibino",
-    "code": "117nph,117hbad,117havd"
+    "marker_name": "ヒビノ;hibino;117nph,117hbad,117havd"
   },
   {
-    "channel": "BiBiD",
-    "marker": "bibid",
-    "code": "522dht"
+    "marker_name": "BiBiD;bibid;522dht"
   },
   {
-    "channel": "Beauty",
-    "marker": "beauty",
-    "code": "233bat"
+    "marker_name": "Beauty;beauty;233bat"
   },
   {
-    "channel": "ピーターズ",
-    "marker": "peters",
-    "code": "042pts,042ptes,042clt,042nps,042ptu,042zex,042red"
+    "marker_name": "ピーターズ;peters;042pts,042ptes,042clt,042nps,042ptu,042zex,042red"
   },
   {
-    "channel": "ビッグモーカル",
-    "marker": "bigmorkal",
-    "code": "022mdbm,022vixbm,022bdst,022jksr,022mcsr,022bdsf,022bdstf,022bdsr,022husr,022sgsr,022itsr,022ecbm"
+    "marker_name": "ビッグモーカル;bigmorkal;022mdbm,022vixbm,022bdst,022jksr,022mcsr,022bdsf,022bdstf,022bdsr,022husr,022sgsr,022itsr,022ecbm"
   },
   {
-    "channel": "VIP",
-    "marker": "vip",
-    "code": "021godr,021hhh"
+    "marker_name": "VIP;vip;021godr,021hhh"
   },
   {
-    "channel": "ヒミツ女子",
-    "marker": "himitsujyoshi",
-    "code": "349himitu"
+    "marker_name": "ヒミツ女子;himitsujyoshi;349himitu"
   },
   {
-    "channel": "ひよこ",
-    "marker": "hiyoko",
-    "code": "342piyo"
+    "marker_name": "ひよこ;hiyoko;342piyo"
   },
   {
-    "channel": "PinkyRush",
-    "marker": "pinkyrush",
-    "code": "592flc"
+    "marker_name": "PinkyRush;pinkyrush;592flc"
   },
   {
-    "channel": "FuuTube",
-    "marker": "fuutube",
-    "code": "778bmj,778ftom"
+    "marker_name": "FuuTube;fuutube;778bmj,778ftom"
   },
   {
-    "channel": "ファーストスター",
-    "marker": "firststar",
-    "code": "201alog,201chuc,201knmb,201kdmn,201tenn,201nmch,201knam,201fnew,201neco,201tanl,201fneo,201naps,201fone,201tang,201fsym"
+    "marker_name": "ファーストスター;firststar;201alog,201chuc,201knmb,201kdmn,201tenn,201nmch,201knam,201fnew,201neco,201tanl,201fneo,201naps,201fone,201tang,201fsym"
   },
   {
-    "channel": "FALENOGROUP",
-    "marker": "falenogroup",
-    "code": "757fgbb"
+    "marker_name": "FALENOGROUP;falenogroup;757fgbb"
   },
   {
-    "channel": "VLog Diary",
-    "marker": "vlogdiary",
-    "code": "535log"
+    "marker_name": "VLog Diary;vlogdiary;535log"
   },
   {
-    "channel": "フェチ眼",
-    "marker": "fechigan",
-    "code": "414fgan"
+    "marker_name": "フェチ眼;fechigan;414fgan"
   },
   {
-    "channel": "フライデー",
-    "marker": "friday",
-    "code": "480frin"
+    "marker_name": "フライデー;friday;480frin"
   },
   {
-    "channel": "private mask",
-    "marker": "privatemask",
-    "code": "438pvmb,438pvmk"
+    "marker_name": "private mask;privatemask;438pvmb,438pvmk"
   },
   {
-    "channel": "Platinum",
-    "marker": "platinum",
-    "code": "218pltn"
+    "marker_name": "Platinum;platinum;218pltn"
   },
   {
-    "channel": "プラネットプラス",
-    "marker": "planetplus",
-    "code": "263ambi,263clot,263hdka,263nact,263nacx,263zmar,263nacr"
+    "marker_name": "プラネットプラス;planetplus;263ambi,263clot,263hdka,263nact,263nacx,263zmar,263nacr"
   },
   {
-    "channel": "ブラボー！！",
-    "marker": "bravo",
-    "code": "798brv"
+    "marker_name": "ブラボー！！;bravo;798brv"
   },
   {
-    "channel": "プラム",
-    "marker": "plum",
-    "code": "168puw,168spes,168kpp,168ps,168sy,168id,168cb,168bouz,168bou,168bbacos,168hr,168p,168sds,168sln,168fp,168ggg,168izm"
+    "marker_name": "プラム;plum;168puw,168spes,168kpp,168ps,168sy,168id,168cb,168bouz,168bou,168bbacos,168hr,168p,168sds,168sln,168fp,168ggg,168izm"
   },
   {
-    "channel": "Flower",
-    "marker": "flower",
-    "code": "762fkos,762fsei,762flab,762fest,762fsoku,762fspe,762fkaw,762ftoi,762fmad,762fked,762fama,762faii"
+    "marker_name": "Flower;flower;762fkos,762fsei,762flab,762fest,762fsoku,762fspe,762fkaw,762ftoi,762fmad,762fked,762fama,762faii"
   },
   {
-    "channel": "フリーダム",
-    "marker": "freedom",
-    "code": "087nfdm,087iwgb"
+    "marker_name": "フリーダム;freedom;087nfdm,087iwgb"
   },
   {
-    "channel": "ブリット",
-    "marker": "bullitt",
-    "code": "017eq"
+    "marker_name": "ブリット;bullitt;017eq"
   },
   {
-    "channel": "プリモ",
-    "marker": "primo",
-    "code": "043pym,043nps,043clt"
+    "marker_name": "プリモ;primo;043pym,043nps,043clt"
   },
   {
-    "channel": "ぶりりあんとBrilliantJizz",
-    "marker": "brilliant",
-    "code": "559lbj"
+    "marker_name": "ぶりりあんとBrilliantJizz;brilliant;559lbj"
   },
   {
-    "channel": "フルセイル",
-    "marker": "fullsail",
-    "code": "cmi,mct,fsb,ges"
+    "marker_name": "フルセイル;fullsail;cmi,mct,fsb,ges"
   },
   {
-    "channel": "プレイエンターテイメント",
-    "marker": "playentertainment",
-    "code": "500ply,500dpl"
+    "marker_name": "プレイエンターテイメント;playentertainment;500ply,500dpl"
   },
   {
-    "channel": "PROJECT DIAMOND",
-    "marker": "diamond",
-    "code": "194prb,194prd,194prp"
+    "marker_name": "PROJECT DIAMOND;diamond;194prb,194prd,194prp"
   },
   {
-    "channel": "Brolle",
-    "marker": "brolle",
-    "code": "763ems,763bsc"
+    "marker_name": "Brolle;brolle;763ems,763bsc"
   },
   {
-    "channel": "ペロンゲリオン",
-    "marker": "perongelion",
-    "code": "594prgo"
+    "marker_name": "ペロンゲリオン;perongelion;594prgo"
   },
   {
-    "channel": "変態サムライ",
-    "marker": "hentaisamurai",
-    "code": "353hen"
+    "marker_name": "変態サムライ;hentaisamurai;353hen"
   },
   {
-    "channel": "ホットエンターテイメント",
-    "marker": "hot",
-    "code": "016dht,016ghz,016hez"
+    "marker_name": "ホットエンターテイメント;hot;016dht,016ghz,016hez"
   },
   {
-    "channel": "BOING",
-    "marker": "boing",
-    "code": "563ppz"
+    "marker_name": "BOING;boing;563ppz"
   },
   {
-    "channel": "BoinBB",
-    "marker": "boinbb",
-    "code": "250boinbb,250japorn"
+    "marker_name": "BoinBB;boinbb;250boinbb,250japorn"
   },
   {
-    "channel": "ボインな君と。",
-    "marker": "boinnakimito",
-    "code": "564bmyb"
+    "marker_name": "ボインな君と。;boinnakimito;564bmyb"
   },
   {
-    "channel": "僕の彼女はいつでもどこでも発情女",
-    "marker": "bokunokanojoha",
-    "code": "703bkkj"
+    "marker_name": "僕の彼女はいつでもどこでも発情女;bokunokanojoha;703bkkj"
   },
   {
-    "channel": "BOTAN",
-    "marker": "botan",
-    "code": "700vobb,700vaiav,700tldc,700votan,700ikubb,700tldsp,700ikuna"
+    "marker_name": "BOTAN;botan;700vobb,700vaiav,700tldc,700votan,700ikubb,700tldsp,700ikuna"
   },
   {
-    "channel": "PORNOGRAPH",
-    "marker": "pornograph",
-    "code": "007m,007am0042,007am0055,007am0084,007am0092,007am0102,007am0121,007am0122,007am0123,007am0124,007am0125,007am0126,007am0127,007am0129,007am0130,007am0132,007am0133,007am0134,007am0135,007am0136,007am0138,007am0141,007am0143,007dr0045,007dr0156,007dr0154,007dr0151,007dr0150,007dr0149,007dr0148,007am0011,007am0071,007am0083,007am0095,007am0107,007am0117,007am0131,007am0142,007am0144,007dr0097,007dr0101,007dr0103,007dr0132,007dr0155,007dr0163,007dr0180,007dr0181"
+    "marker_name": "PORNOGRAPH;pornograph;007m,007am0042,007am0055,007am0084,007am0092,007am0102,007am0121,007am0122,007am0123,007am0124,007am0125,007am0126,007am0127,007am0129,007am0130,007am0132,007am0133,007am0134,007am0135,007am0136,007am0138,007am0141,007am0143,007dr0045,007dr0156,007dr0154,007dr0151,007dr0150,007dr0149,007dr0148,007am0011,007am0071,007am0083,007am0095,007am0107,007am0117,007am0131,007am0142,007am0144,007dr0097,007dr0101,007dr0103,007dr0132,007dr0155,007dr0163,007dr0180,007dr0181"
   },
   {
-    "channel": "VOND",
-    "marker": "vond",
-    "code": "255vond"
+    "marker_name": "VOND;vond;255vond"
   },
   {
-    "channel": "本イキ素人",
-    "marker": "honikishirouto",
-    "code": "254hon"
+    "marker_name": "本イキ素人;honikishirouto;254hon"
   },
   {
-    "channel": "BonキュンBon",
-    "marker": "bonkyunbon",
-    "code": "715bqbb,715bkynb"
+    "marker_name": "BonキュンBon;bonkyunbon;715bqbb,715bkynb"
   },
   {
-    "channel": "Honto",
-    "marker": "hont",
-    "code": "431honto"
+    "marker_name": "Honto;hont;431honto"
   },
   {
-    "channel": "舞ワイフ",
-    "marker": "mywife",
-    "code": "292my"
+    "marker_name": "舞ワイフ;mywife;292my"
   },
   {
-    "channel": "MAXING",
-    "marker": "maxing",
-    "code": "071mxdlp,071mxgs,071mxcss"
+    "marker_name": "MAXING;maxing;071mxdlp,071mxgs,071mxcss"
   },
   {
-    "channel": "マキャベリ",
-    "marker": "machiavelli",
-    "code": "488mcv"
+    "marker_name": "マキャベリ;machiavelli;488mcv"
   },
   {
-    "channel": "マーキュリー",
-    "marker": "mercury",
-    "code": "298honb,298yako,298gogo,298pais,298pako,298ubug,298nine,298tdan,298jstk,298otin,298good,298gdan,298gone,298gmjk,298sxma,298mero"
+    "marker_name": "マーキュリー;mercury;298honb,298yako,298gogo,298pais,298pako,298ubug,298nine,298tdan,298jstk,298otin,298good,298gdan,298gone,298gmjk,298sxma,298mero"
   },
   {
-    "channel": "マザーS",
-    "marker": "mothers",
-    "code": "514san"
+    "marker_name": "マザーS;mothers;514san"
   },
   {
-    "channel": "マジック",
-    "marker": "magictabloid",
-    "code": "099ntk,099mbst,300ntk,099reiwgx"
+    "marker_name": "マジック;magictabloid;099ntk,099mbst,300ntk,099reiwgx"
   },
   {
-    "channel": "マジックミラー号ハードボイルド",
-    "marker": "mmhard",
-    "code": "416svmm"
+    "marker_name": "マジックミラー号ハードボイルド;mmhard;416svmm"
   },
   {
-    "channel": "マッサDX",
-    "marker": "massadx",
-    "code": "282msdx"
+    "marker_name": "マッサDX;massadx;282msdx"
   },
   {
-    "channel": "マッチングTV",
-    "marker": "matchingtv",
-    "code": "719mag"
+    "marker_name": "マッチングTV;matchingtv;719mag"
   },
   {
-    "channel": "街角シコいンタビュー",
-    "marker": "machikado",
-    "code": "496skiv"
+    "marker_name": "街角シコいンタビュー;machikado;496skiv"
   },
   {
-    "channel": "Materiall",
-    "marker": "materiall",
-    "code": "555mtall,555mtaco,555mtabs,555mtata"
+    "marker_name": "Materiall;materiall;555mtall,555mtaco,555mtabs,555mtata"
   },
   {
-    "channel": "MANIAC",
-    "marker": "maniac",
-    "code": "216fcmq,216mcmq,216gdmq,216ebr,216elv,216ktif,216phd,216manq"
+    "marker_name": "MANIAC;maniac;216fcmq,216mcmq,216gdmq,216ebr,216elv,216ktif,216phd,216manq"
   },
   {
-    "channel": "ま〇こ銀行",
-    "marker": "makoginkou",
-    "code": "443bank"
+    "marker_name": "ま〇こ銀行;makoginkou;443bank"
   },
   {
-    "channel": "密室タクシードライバー",
-    "marker": "missitsutaxidriver",
-    "code": "543taxd"
+    "marker_name": "密室タクシードライバー;missitsutaxidriver;543taxd"
   },
   {
-    "channel": "Mr.michiru",
-    "marker": "mrmichiru",
-    "code": "217mist,217mistsc,217miha,217mtvr"
+    "marker_name": "Mr.michiru;mrmichiru;217mist,217mistsc,217miha,217mtvr"
   },
   {
-    "channel": "Mr.michiru",
-    "marker": "sodcreate",
-    "code": "217mtvr"
+    "marker_name": "Mr.michiru;sodcreate;217mtvr"
   },
   {
-    "channel": "みなみ工房",
-    "marker": "minamikoubou",
-    "code": "492merc,492jcha"
+    "marker_name": "みなみ工房;minamikoubou;492merc,492jcha"
   },
   {
-    "channel": "未来",
-    "marker": "mirai",
-    "code": "064dmba,064dkye,064dsmi,064dsda,064dsdb,064dgor,064dgjg,064dgao,064dfta,064dghj,064dban,064dgwo,064dgww,064dkea,064dkeb,064dgko,064dgjb,064dsmc,064dgkj,064dsmd,064dkyg,064dftc,064dgjj,064dgyc,064dgpp,064dbal,064dgym"
+    "marker_name": "未来;mirai;064dmba,064dkye,064dsmi,064dsda,064dsdb,064dgor,064dgjg,064dgao,064dfta,064dghj,064dban,064dgwo,064dgww,064dkea,064dkeb,064dgko,064dgjb,064dsmc,064dgkj,064dsmd,064dkyg,064dftc,064dgjj,064dgyc,064dgpp,064dbal,064dgym"
   },
   {
-    "channel": "ミルキー倶楽部",
-    "marker": "milkyclub",
-    "code": "478loli"
+    "marker_name": "ミルキー倶楽部;milkyclub;478loli"
   },
   {
-    "channel": "MILK",
-    "marker": "milk",
-    "code": "337milk"
+    "marker_name": "MILK;milk;337milk"
   },
   {
-    "channel": "ミルVR",
-    "marker": "miruvr",
-    "code": "405mivr"
+    "marker_name": "ミルVR;miruvr;405mivr"
   },
   {
-    "channel": "無敵屋",
-    "marker": "mutekiya",
-    "code": "075hpl,075hune,075mdm,075tkt,075tpd,075yrg,075zukan,075bkc,075double"
+    "marker_name": "無敵屋;mutekiya;075hpl,075hune,075mdm,075tkt,075tpd,075yrg,075zukan,075bkc,075double"
   },
   {
-    "channel": "ムラっch",
-    "marker": "murach",
-    "code": "477grmo,477grmr"
+    "marker_name": "ムラっch;murach;477grmo,477grmr"
   },
   {
-    "channel": "めがね美人",
-    "marker": "meganebijin",
-    "code": "542mgbj"
+    "marker_name": "めがね美人;meganebijin;542mgbj"
   },
   {
-    "channel": "目黒のおじさん",
-    "marker": "meguronoojisan",
-    "code": "495moj"
+    "marker_name": "目黒のおじさん;meguronoojisan;495moj"
   },
   {
-    "channel": "メス堕ちラボ",
-    "marker": "mesuochilabo",
-    "code": "781mesh"
+    "marker_name": "メス堕ちラボ;mesuochilabo;781mesh"
   },
   {
-    "channel": "メーテルホルモン",
-    "marker": "maetelhormone",
-    "code": "203ktif,203sexy,203gdmh,203josk,203verus,203mate,203meel"
+    "marker_name": "メーテルホルモン;maetelhormone;203ktif,203sexy,203gdmh,203josk,203verus,203mate,203meel"
   },
   {
-    "channel": "Mellow Moon",
-    "marker": "mellowmoon",
-    "code": "312ylw,312mlw,312skm,312crz,312les,312maj,312rrung,312rung,312yum"
+    "marker_name": "Mellow Moon;mellowmoon;312ylw,312mlw,312skm,312crz,312les,312maj,312rrung,312rung,312yum"
   },
   {
-    "channel": "メンズラボ",
-    "marker": "menslabo",
-    "code": "316blmc,316blgd"
+    "marker_name": "メンズラボ;menslabo;316blmc,316blgd"
   },
   {
-    "channel": "木曜だヨ！全員集合っ！！",
-    "marker": "mokuyoubidayo",
-    "code": "354kamef,354einav,354ginav,354vov,354vovx,354kamx,354tmgx,354tmgv"
+    "marker_name": "木曜だヨ！全員集合っ！！;mokuyoubidayo;354kamef,354einav,354ginav,354vov,354vovx,354kamx,354tmgx,354tmgv"
   },
   {
-    "channel": "MONA",
-    "marker": "mona",
-    "code": "227mna"
+    "marker_name": "MONA;mona;227mna"
   },
   {
-    "channel": "木曜日更新！AKNR素人ちゃんねる",
-    "marker": "mokuaknr",
-    "code": "341moku"
+    "marker_name": "木曜日更新！AKNR素人ちゃんねる;mokuaknr;341moku"
   },
   {
-    "channel": "やみつき熟女",
-    "marker": "yamitsukijukujo",
-    "code": "740ymtk"
+    "marker_name": "やみつき熟女;yamitsukijukujo;740ymtk"
   },
   {
-    "channel": "ヤミヤミ",
-    "marker": "yamiyami",
-    "code": "777ymym"
+    "marker_name": "ヤミヤミ;yamiyami;777ymym"
   },
   {
-    "channel": "ヤリマンビッチーズ",
-    "marker": "yarimanbitches",
-    "code": "547yaria,547yari"
+    "marker_name": "ヤリマンビッチーズ;yarimanbitches;547yaria,547yari"
   },
   {
-    "channel": "ヤレるパラダイス！",
-    "marker": "yareruparadise",
-    "code": "756yarr"
+    "marker_name": "ヤレるパラダイス！;yareruparadise;756yarr"
   },
   {
-    "channel": "YONAKA",
-    "marker": "yonaka",
-    "code": "749moon"
+    "marker_name": "YONAKA;yonaka;749moon"
   },
   {
-    "channel": "ラストラス",
-    "marker": "lustrous",
-    "code": "fal,hsg,krg,ktn,hor,tam,nly,ryg,alg,svf,ren,skr,slk,lep,lpg,tnin,hdkb,nkm,had,osc"
+    "marker_name": "ラストラス;lustrous;fal,hsg,krg,ktn,hor,tam,nly,ryg,alg,svf,ren,skr,slk,lep,lpg,tnin,hdkb,nkm,had,osc"
   },
   {
-    "channel": "ラハイナ東海",
-    "marker": "lahaina",
-    "code": "031pc,031ppn,031uta,031milf,031vio,031cha,031chu"
+    "marker_name": "ラハイナ東海;lahaina;031pc,031ppn,031uta,031milf,031vio,031cha,031chu"
   },
   {
-    "channel": "ラブラビッツ",
-    "marker": "loverabbits",
-    "code": "770rabi"
+    "marker_name": "ラブラビッツ;loverabbits;770rabi"
   },
   {
-    "channel": "ラマ",
-    "marker": "lama",
-    "code": "127lata,127labs"
+    "marker_name": "ラマ;lama;127lata,127labs"
   },
   {
-    "channel": "REALFILE",
-    "marker": "realfile",
-    "code": "283r407,283r454,283r452,283r453,283r450,283r451,283r448,283r446,283r447,283r444,283r445,283r442,283r443,283r440,283r441,283r437,283r439,283r434,283r435,283r436,283r433,283r430,283r431,283r428,283r427,283r477,283r478,283r479,283r475,283r476,283r472,283r473,283r474,283r469,283r470,283r471,283r466,283r467,283r468,283r464,283r465,283r457,283r458,283r459,283r460,283r461,283r462,283r463"
+    "marker_name": "REALFILE;realfile;283r407,283r454,283r452,283r453,283r450,283r451,283r448,283r446,283r447,283r444,283r445,283r442,283r443,283r440,283r441,283r437,283r439,283r434,283r435,283r436,283r433,283r430,283r431,283r428,283r427,283r477,283r478,283r479,283r475,283r476,283r472,283r473,283r474,283r469,283r470,283r471,283r466,283r467,283r468,283r464,283r465,283r457,283r458,283r459,283r460,283r461,283r462,283r463"
   },
   {
-    "channel": "リビドー！",
-    "marker": "libido",
-    "code": "721svfti"
+    "marker_name": "リビドー！;libido;721svfti"
   },
   {
-    "channel": "ルビー",
-    "marker": "ruby",
-    "code": "019nykd,019mkd,019isd,019hkd,019bjd,019rad,019bkd,019rosd,019rud,019scd,019jdl,019cj,019cm,019qxl,019tkd,019hfd,019cjet"
+    "marker_name": "ルビー;ruby;019nykd,019mkd,019isd,019hkd,019bjd,019rad,019bkd,019rosd,019rud,019scd,019jdl,019cj,019cm,019qxl,019tkd,019hfd,019cjet"
   },
   {
-    "channel": "令和えちえち中毒性",
-    "marker": "reiwaechiechichudokusei",
-    "code": "465ant"
+    "marker_name": "令和えちえち中毒性;reiwaechiechichudokusei;465ant"
   },
   {
-    "channel": "れいわしろうと",
-    "marker": "reiwashirouto",
-    "code": "383nmch,383reiwdx,383reiw,383rkd,383tkpr,383mona"
+    "marker_name": "れいわしろうと;reiwashirouto;383nmch,383reiwdx,383reiw,383rkd,383tkpr,383mona"
   },
   {
-    "channel": "LEO",
-    "marker": "leo",
-    "code": "059umd"
+    "marker_name": "LEO;leo;059umd"
   },
   {
-    "channel": "RADIX",
-    "marker": "radix",
-    "code": "039neo,039gun"
+    "marker_name": "RADIX;radix;039neo,039gun"
   },
   {
-    "channel": "LADY x LADY",
-    "marker": "lady2",
-    "code": "120ladyl,120ladya,120lady"
+    "marker_name": "LADY x LADY;lady2;120ladyl,120ladya,120lady"
   },
   {
-    "channel": "ladyhunter",
-    "marker": "ladyhunter",
-    "code": "318lady"
+    "marker_name": "ladyhunter;ladyhunter;318lady"
   },
   {
-    "channel": "LOTUS",
-    "marker": "lotus",
-    "code": "041wa,041pts,041clt,041hblo,041lokm"
+    "marker_name": "LOTUS;lotus;041wa,041pts,041clt,041hblo,041lokm"
   },
   {
-    "channel": "恋愛カノジョ",
-    "marker": "renaikanojo",
-    "code": "546erofv,546fujx,546ergz,546erhbv,546erhav,546erhv,546ergv"
+    "marker_name": "恋愛カノジョ;renaikanojo;546erofv,546fujx,546ergz,546erhbv,546erhav,546erhv,546ergv"
   },
   {
-    "channel": "ロケット",
-    "marker": "rocket",
-    "code": "118rctd"
+    "marker_name": "ロケット;rocket;118rctd"
   },
   {
-    "channel": "WAAP",
-    "marker": "waap",
-    "code": "223emsk,223dfdm,223aicen,223aifxd,223wzen,223wsa,223reecb,223wdi,223regod,223redfe,223wpsl,223egkd,223hkw,223dfe,223rejld,223rewdi,223redje,223refxd,223ckw,223rebtd,223rechd,223rewss,223dje,223wsp,223ekai,223wpvr,223wkd,223wfr,223ekw"
+    "marker_name": "WAAP;waap;223emsk,223dfdm,223aicen,223aifxd,223wzen,223wsa,223reecb,223wdi,223regod,223redfe,223wpsl,223egkd,223hkw,223dfe,223rejld,223rewdi,223redje,223refxd,223ckw,223rebtd,223rechd,223rewss,223dje,223wsp,223ekai,223wpvr,223wkd,223wfr,223ekw"
   },
   {
-    "channel": "WildOne",
-    "marker": "wildone",
-    "code": "591wo"
+    "marker_name": "WildOne;wildone;591wo"
   },
   {
-    "channel": "ワニッチ",
-    "marker": "wanichi",
-    "code": "196srsr,196pnch,196nkmt,196buch,196wnes,196when,196coch,196dmbo"
+    "marker_name": "ワニッチ;wanichi;196srsr,196pnch,196nkmt,196buch,196wnes,196when,196coch,196dmbo"
   },
   {
-    "channel": "ONETIME",
-    "marker": "onetime",
-    "code": "393otim"
+    "marker_name": "ONETIME;onetime;393otim"
   },
   {
-    "channel": "ワンチャンすこすこ.com",
-    "marker": "wanchan",
-    "code": "421bdstf,421ocn"
+    "marker_name": "ワンチャンすこすこ.com;wanchan;421bdstf,421ocn"
   },
   {
-    "channel": "ONE MORE",
-    "marker": "onemore",
-    "code": "013onex,013onez"
-  },
-  {},
-  {
-    "channel": "toprunner",
-    "marker": "【独占】TOPランナー",
-    "code": "718yzf,718fzr,"
-  },
-  {
-    "channel": "torado",
-    "marker": "虎堂"
-  },
-  {
-    "channel": "tousatsuyarouateam",
-    "marker": "盗撮野郎Aチーム"
-  },
-  {
-    "channel": "toygirl",
-    "marker": "toygirl"
-  },
-  {
-    "channel": "tpp",
-    "marker": "スリートップパブリッシング"
-  },
-  {
-    "channel": "trumpx",
-    "marker": "トランプ-X-"
-  },
-  {
-    "channel": "tsurekomiyado",
-    "marker": "連れ込み宿墨田屋"
-  },
-  {
-    "channel": "tsuthinokoshinderela",
-    "marker": "つちのこシンデレラ"
-  },
-  {
-    "channel": "ulchanshirouto",
-    "marker": "オルチャン素人"
-  },
-  {
-    "channel": "umigame",
-    "marker": "海亀"
-  },
-  {
-    "channel": "uraaka",
-    "marker": "【独占】裏垢"
-  },
-  {
-    "channel": "uraopufuzoku",
-    "marker": "裏オプFU-ZOKU"
-  },
-  {
-    "channel": "uratalknouratalk",
-    "marker": "ウラトーーク"
-  },
-  {
-    "channel": "utsusemihashi",
-    "marker": "人妻空蝉橋"
-  },
-  {
-    "channel": "vanassociates",
-    "marker": "ヴァンアソシエイツ"
-  },
-  {
-    "channel": "veronica",
-    "marker": "VERONICA"
-  },
-  {
-    "channel": "vip",
-    "marker": "ピップ"
-  },
-  {
-    "channel": "vlogdiary",
-    "marker": "【独占】VLog Diary",
-    "code": "535log,"
-  },
-  {
-    "channel": "volare",
-    "marker": "【独占】Volare",
-    "code": "536vola,"
-  },
-  {
-    "channel": "vond",
-    "marker": "VOND"
-  },
-  {
-    "channel": "waap",
-    "marker": "WAAP"
-  },
-  {
-    "channel": "wanchan",
-    "marker": "ワンチャンすこすこ.com"
-  },
-  {
-    "channel": "wanichi",
-    "marker": "wanichi"
-  },
-  {
-    "channel": "wildone",
-    "marker": "WildOne"
-  },
-  {
-    "channel": "with",
-    "marker": "with"
-  },
-  {
-    "channel": "yabusame",
-    "marker": "流鏑馬グラフィティー"
-  },
-  {
-    "channel": "yabustyle",
-    "marker": "薮スタイル"
-  },
-  {
-    "channel": "yami",
-    "marker": "インターネットの闇"
-  },
-  {
-    "channel": "yamitsukijukujo",
-    "marker": "やみつき熟女"
-  },
-  {
-    "channel": "yamiyami",
-    "marker": "【独占】ヤミヤミ",
-    "code": "777ymym,"
-  },
-  {
-    "channel": "yareruparadise",
-    "marker": "ヤレるパラダイス！"
-  },
-  {
-    "channel": "yarimanbitches",
-    "marker": "ヤリマンビッチーズ",
-    "code": "547yaria,"
-  },
-  {
-    "channel": "yellowduck",
-    "marker": "イエローダック"
-  },
-  {
-    "channel": "yonaka",
-    "marker": "YONAKA"
-  },
-  {
-    "channel": "zack",
-    "marker": "ザック"
-  },
-  {
-    "channel": "ziz",
-    "marker": "ZIZ"
-  },
-  {
-    "channel": "zokusei",
-    "marker": "最強属性",
-    "code": "296cpde,"
-  },
-  {
-    "channel": "zooo",
-    "marker": "ZOOO"
-  },
-  {
-    "channel": "tobeconfirm1",
-    "marker": "えちサポ",
-    "code": "789ech,"
-  },
-  {
-    "channel": "tobeconfirm2",
-    "marker": "再教育",
-    "code": "816ski,"
-  },
-  {
-    "channel": "tobeconfirm3",
-    "marker": "ハメタバース",
-    "code": "598hmt,"
+    "marker_name": "ONE MORE;onemore;013onex,013onez"
   }
 ]
