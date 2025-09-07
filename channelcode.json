@@ -63,7 +63,8 @@
   },
   {
     "channel": "aozora",
-    "marker": "青空ソフト"
+    "marker": "青空ソフト",
+    "code": "005aoz,"
   },
   {
     "channel": "appletree",
