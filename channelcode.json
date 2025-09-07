@@ -569,7 +569,7 @@
   {
     "channel": "ibw",
     "marker": "I.B.WORKS",
-    "code": "004ibma"
+    "code": "004ibma,004ibw,004dtcvr,004ibl,004mom"
   },
   {
     "channel": "iceman",
