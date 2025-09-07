@@ -575,7 +575,8 @@
   },
   {
     "channel": "ienergy",
-    "marker": "アイエナジー"
+    "marker": "アイエナジー",
+    "code": "109ienf"
   },
   {
     "channel": "ikaseshirouto",
