@@ -567,8 +567,9 @@
     "marker": "HUSTLE"
   },
   {
-    "channel": "IB",
-    "marker": "I.B.WORKS"
+    "channel": "ibw",
+    "marker": "I.B.WORKS",
+    "code": "004ibma"
   },
   {
     "channel": "iceman",
