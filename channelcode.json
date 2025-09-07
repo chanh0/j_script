@@ -103,7 +103,8 @@
   },
   {
     "channel": "athena",
-    "marker": "アテナ映像"
+    "marker": "アテナ映像",
+    "code": "053rd"
   },
   {
     "channel": "beatle",
