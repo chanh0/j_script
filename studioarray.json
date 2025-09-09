@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "09/09/2025 13:19:48"
+    "dum": "09/09/2025 13:19:55"
   },
   {
     "name": "妄想族",
@@ -4271,7 +4271,8 @@
   },
   {
     "name": "SODGroup",
-    "code": "DANDYA"
+    "code": "DANDYA",
+    "remark": "DANDY 2025"
   },
   {
     "name": "SODGroup",
