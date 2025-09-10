@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "10/09/2025 17:45:35"
+    "dum": "10/09/2025 18:18:26"
   },
   {
     "name": "妄想族",
@@ -3071,6 +3071,12 @@
     "dum": "https://www.madonna-av.com"
   },
   {
+    "name": "SODGroup",
+    "code": "JERA",
+    "remark": "SODGroup(夕焼けジェラシー)",
+    "dum": "SOD"
+  },
+  {
     "name": "PRESTIGE",
     "code": "JCN",
     "remark": "女大學生",
@@ -3300,12 +3306,6 @@
     "name": "SODGroup",
     "code": "HSDAB",
     "remark": "青春時代",
-    "dum": "SOD"
-  },
-  {
-    "name": "SODGroup",
-    "code": "JERA",
-    "remark": "SODGroup(夕焼けジェラシー)",
     "dum": "SOD"
   },
   {
