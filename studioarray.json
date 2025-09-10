@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "10/09/2025 17:44:54"
+    "dum": "10/09/2025 17:45:00"
   },
   {
     "name": "妄想族",
@@ -3303,7 +3303,8 @@
     "dum": "SOD"
   },
   {
-    "name": "SODGroup"
+    "name": "SODGroup",
+    "code": "JERA"
   },
   {
     "name": "PRESTIGE",
