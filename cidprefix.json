@@ -136,6 +136,10 @@
     "pidcode": "vio,ppn,"
   },
   {
+    "prefix": "h_1060",
+    "pidcode": "vsed,"
+  },
+  {
     "prefix": "h_1160",
     "pidcode": "meko,"
   },
