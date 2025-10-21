@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "21/10/2025 13:51:07"
+    "dum": "21/10/2025 18:17:35"
   },
   {
     "name": "妄想族",
@@ -802,12 +802,6 @@
   },
   {
     "name": "S1",
-    "code": "SNOS",
-    "remark": "專屬女優 2025",
-    "dum": "https://s1s1s1.com"
-  },
-  {
-    "name": "S1",
     "code": "SSNI",
     "remark": "專屬女優 999 (2021)",
     "dum": "https://s1s1s1.com"
@@ -943,6 +937,12 @@
     "code": "SNTH",
     "remark": "綜実社/妄想族",
     "dum": "CA"
+  },
+  {
+    "name": "S1",
+    "code": "SNOS",
+    "remark": "專屬女優 2025",
+    "dum": "https://s1s1s1.com"
   },
   {
     "name": "D-O-C",
