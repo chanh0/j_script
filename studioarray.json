@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "24/11/2025 13:43:14"
+    "dum": "27/11/2025 09:37:35"
   },
   {
     "name": "妄想族",
@@ -3733,11 +3733,6 @@
   },
   {
     "name": "Faleno",
-    "code": "FDST",
-    "dum": "Faleno"
-  },
-  {
-    "name": "Faleno",
     "code": "FTDSS",
     "remark": "普通",
     "dum": "Faleno"
@@ -3840,6 +3835,12 @@
     "name": "妄想族",
     "code": "FEM",
     "remark": "妄想族"
+  },
+  {
+    "name": "Faleno",
+    "code": "FDST",
+    "remark": 2025,
+    "dum": "Faleno"
   },
   {
     "name": "D-O-C",
