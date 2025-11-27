@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "27/11/2025 20:52:19"
+    "dum": "27/11/2025 20:52:25"
   },
   {
     "name": "妄想族",
@@ -53,7 +53,9 @@
   },
   {
     "name": "WAAP",
-    "code": "SMRA"
+    "code": "SMRA",
+    "remark": "waap 2025",
+    "dum": "WAAP"
   },
   {
     "name": "WAAP",
