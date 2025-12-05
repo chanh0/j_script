@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "05/12/2025 11:31:44"
+    "dum": "05/12/2025 11:31:55"
   },
   {
     "name": "妄想族",
@@ -2556,7 +2556,9 @@
   },
   {
     "name": "D-O-C",
-    "code": "MFNA"
+    "code": "MFNA",
+    "remark": "MOON FORCE 2nd (2025)",
+    "dum": "PRESTIGE"
   },
   {
     "name": "D-O-C",
