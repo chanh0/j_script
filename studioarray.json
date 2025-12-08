@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 18:00:42"
+    "dum": "08/12/2025 18:01:19"
   },
   {
     "name": "妄想族",
@@ -5658,5 +5658,8 @@
     "name": "SODGroup",
     "code": "_KANO",
     "remark": "SODGroup 月刊彼女"
+  },
+  {
+    "remark": "SODGroup AEGEAN"
   }
 ]
