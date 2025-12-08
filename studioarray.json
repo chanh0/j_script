@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 17:29:29"
+    "dum": "08/12/2025 17:30:32"
   },
   {
     "name": "妄想族",
@@ -5597,11 +5597,13 @@
     "remark": "コスプレ坂69 (maker=311117)"
   },
   {
+    "name": "SODGroup",
     "code": "_ASEX",
     "remark": "assmi",
     "dum": "https://www.choi-waru.com/assmi/"
   },
   {
+    "name": "SODGroup",
     "code": "_PRDB",
     "remark": "SOD PREDEBUT"
   }
