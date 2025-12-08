@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 17:50:51"
+    "dum": "08/12/2025 17:52:07"
   },
   {
     "name": "妄想族",
@@ -1818,7 +1818,7 @@
   {
     "name": "SOD",
     "code": "NTTR",
-    "remark": "MSG:ノットリ（SODクリエイト）",
+    "remark": "SODGroup ノットリ MSG:ノットリ（SODクリエイト）",
     "dum": "SOD"
   },
   {
@@ -5642,7 +5642,7 @@
     "remark": "SODGroup F＆A"
   },
   {
-    "code": "_AVCME",
+    "code": "_ACME",
     "remark": "アクメ.1919"
   }
 ]
