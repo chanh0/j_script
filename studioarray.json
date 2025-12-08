@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 18:08:18"
+    "dum": "08/12/2025 18:10:14"
   },
   {
     "name": "妄想族",
@@ -3449,6 +3449,12 @@
     "code": "HND",
     "remark": "999 2021 end",
     "dum": "https://honnaka.jp"
+  },
+  {
+    "name": "SODGroup",
+    "code": "NAMH",
+    "remark": "なまなま(Namanama)",
+    "dum": "SOD"
   },
   {
     "name": "SODGroup",
