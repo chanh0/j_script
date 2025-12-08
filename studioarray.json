@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 17:43:25"
+    "dum": "08/12/2025 17:43:32"
   },
   {
     "name": "妄想族",
@@ -5614,6 +5614,7 @@
     "remark": "SOD PREDEBUT (Label)"
   },
   {
+    "name": "SODGroup",
     "code": "_OFSD",
     "remark": "SODGroup",
     "dum": "https://offside-av.com/"
