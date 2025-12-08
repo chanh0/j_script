@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 17:56:00"
+    "dum": "08/12/2025 17:56:12"
   },
   {
     "name": "妄想族",
@@ -5630,23 +5630,28 @@
     "remark": "SODGroup Youare"
   },
   {
+    "name": "SODGroup",
     "code": "_FUSA",
     "remark": "SODGroup フジサン"
   },
   {
+    "name": "SODGroup",
     "code": "_CIAO",
     "remark": "SODGroup フジサン"
   },
   {
+    "name": "SODGroup",
     "code": "_FAA",
     "remark": "SODGroup F＆A"
   },
   {
+    "name": "SODGroup",
     "code": "_ACME",
-    "remark": "アクメ.1919"
+    "remark": "SODGroup アクメ.1919"
   },
   {
+    "name": "SODGroup",
     "code": "_SVOKS",
-    "remark": "犯し屋（サディヴィレナウ！）"
+    "remark": "SODGroup 犯し屋（サディヴィレナウ！）"
   }
 ]
