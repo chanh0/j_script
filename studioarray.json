@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 17:33:01"
+    "dum": "08/12/2025 17:33:03"
   },
   {
     "name": "妄想族",
@@ -5573,22 +5573,27 @@
     "dum": "SOD"
   },
   {
+    "name": "SODGroup",
     "code": "_SXLF",
     "remark": "SEXelf (maker=311839)"
   },
   {
+    "name": "SODGroup",
     "code": "_MLN",
     "remark": "SEXelf (maker=311839)"
   },
   {
+    "name": "SODGroup",
     "code": "_TUPP",
     "remark": "金木犀 (maker=310898)"
   },
   {
+    "name": "SODGroup",
     "code": "_KINM",
     "remark": "金木犀 (maker=310898)"
   },
   {
+    "name": "SODGroup",
     "code": "_URKN",
     "remark": "うらキン(maker=311134)"
   },
