@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 17:48:50"
+    "dum": "08/12/2025 17:49:49"
   },
   {
     "name": "妄想族",
@@ -5636,5 +5636,8 @@
   {
     "code": "_CIAO",
     "remark": "SODGroup フジサン"
+  },
+  {
+    "remark": "SODGroup F＆A"
   }
 ]
