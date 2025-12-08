@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 18:00:23"
+    "dum": "08/12/2025 18:00:38"
   },
   {
     "name": "妄想族",
@@ -5655,6 +5655,8 @@
     "remark": "SODGroup 犯し屋（サディヴィレナウ！）"
   },
   {
-    "code": "_KANO"
+    "name": "SODGroup",
+    "code": "_KANO",
+    "remark": "月刊彼女"
   }
 ]
