@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "08/12/2025 17:29:18"
+    "dum": "08/12/2025 17:29:29"
   },
   {
     "name": "妄想族",
@@ -5602,6 +5602,7 @@
     "dum": "https://www.choi-waru.com/assmi/"
   },
   {
-    "code": "_PRDB"
+    "code": "_PRDB",
+    "remark": "SOD PREDEBUT"
   }
 ]
