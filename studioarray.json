@@ -9,7 +9,7 @@
     "name": "妄想族",
     "code": "ZOCM",
     "remark": "ゾクゾク娘/妄想族",
-    "dum": "09/12/2025 12:46:43"
+    "dum": "09/12/2025 21:14:13"
   },
   {
     "name": "妄想族",
@@ -5590,8 +5590,9 @@
   },
   {
     "name": "SODGroup",
-    "code": "_AEGE",
-    "remark": "SODGroup AEGEAN"
+    "code": "AEGE",
+    "remark": "SODGroup AEGEAN",
+    "dum": "SOD"
   },
   {
     "name": "Kuki",
