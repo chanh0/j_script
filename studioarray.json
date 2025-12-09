@@ -5508,7 +5508,8 @@
   {
     "name": "SODGroup",
     "code": "CIAO",
-    "remark": "SODGroup フジサン"
+    "remark": "SODGroup フジサン",
+    "dum": "SOD"
   },
   {
     "name": "FirstStar",
