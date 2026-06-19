@@ -60,7 +60,6 @@ HONE-
 HOKS-
 HHH-
 HEZ-
-HALT-
 GUN-
 _GS-
 GOJU-
